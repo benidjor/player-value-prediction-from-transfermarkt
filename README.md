@@ -1,9 +1,9 @@
 # 축구 선수 몸값 예측 모델링
 
 ## 프로젝트 파일
-> - 전처리 : preprocessing-football-data-from-transfermarkt.ipynb
-> - EDA : eda-football-data-from-transfermarkt.ipynb
-> - 예측 모델링 : model-football-data-from-transfermarkt.ipynb
+> - 전처리 : preprocessing.ipynb
+> - EDA : eda.ipynb
+> - 예측 모델링 : model-player-value-prediction.ipynb
 
 ## 프로젝트 배경 및 목적
 - 스포츠에서 통계 및 예측 모델의 중요성 증가
@@ -32,30 +32,39 @@
 
 ### 분석 방법
 1. Data Collection
-   - Kaggle 데이터셋 다운로드 (대용량) → 별도 저장 후 전처리 → [data 폴더](https://github.com/benidjor/DAStudy-sat/tree/main/Tek/football-data-from-transfermarkt/data)에 저장
+   - Kaggle 데이터셋 다운로드 (대용량) → 별도 저장 후 전처리 → [data 폴더](https://github.com/benidjor/player-value-prediction-from-transfermarkt/tree/main/data)에 저장
      
 2. Data Preprocessing & EDA
-    - `appearances` `competitions` `players` `player_valuations_df` 데이터셋 사용 → group by 이후 merge 하여 새로운 데이터프레임 생성
+    - `appearances` `competitions` `players` `player_valuations_df` 데이터셋 사용 → `group by` 이후 `merge` 하여 새로운 데이터프레임 생성
     - 원본 데이터셋과 동일한 출처에서 가져온 [다른 데이터셋](https://www.kaggle.com/datasets/mexwell/football-data-from-transfermarkt?select=players.csv) 발견하여, merge 후 결측치 최대한 처리
    - 다중 공선성 확인 후 상관관계 높은 컬럼 제거
    - age, position, market_value, goals, assists 컬럼 시각화
 
 3. Modeling
-   - 19-20 시즌 부터 22-23 시즌까지의 데이터를 학습하여, 23-24 시즌 (현재 진행중) 몸값을 예측하는 모델 생성
+   - 19-20 시즌 부터 22-23 시즌까지의 데이터를 학습하여, 23-24 시즌 (37R 현재 진행중) 몸값을 예측하는 모델 생성
    - 범주형 변수 처리를 위해 `Target Encoding` 사용
    - Target인 몸값에 이상치가 많기 때문에, `RMSLE`를 우선적인 모델 평가 지표로 사용
-   - 다양한 회귀 모델들을 비교하여, 하이퍼 파라미터 튜닝을 거친 후 `XGBoost`로 최적화
-   - `예시) 23-24 시즌 손흥민 실제 몸값 50,000,000 유로 / 예측 몸값 44,363,164 유로`
-   - `RMSLE : 0.63` `R2 Score : 0.73`
+   - 다양한 회귀 모델들을 비교하여, 하이퍼 파라미터 튜닝을 거친 후 `XGBoost`, `CatBoost`로 최적화
+   - `XGBoost` 기반 모델
+       - `RMSLE : 0.63`, `R2 Score : 0.78`
+   - `CatBoost` 기반 모델
+       - `RMSLE : 0.64`, `R2 Score : 0.82`
+   - 예시) Transfermarkt 웹사이트의 23-24 시즌 손흥민 몸값 : 50,000,000 유로
+       - `XGBoost` 기반 예측 몸값 : 58,188,860 유로
+       - `CatBoost` 기반 예측 몸값 : 42,578,859 유로
 
 ## 프로젝트 회고 및 향후 개선 방안
 - 아쉬웠던 점
     - Transfermarkt에서 경기 중 발생하는 선수의 세부적인 스탯 데이터까지는 제공하지 않아 몸값에 대한 세부적인 예측 어려움
     - 높은 몸값을 가진 선수는 잘 예측했지만 (`RMSLE 작다`), 낮은 몸값을 가진 선수는 잘 예측하지 못하는 모습 (`RMSLE 크다`)
+    - `RMSLE`와 `R2 Score` 중 어느 것에 우선 순위를 부여할 지 정하지 못함
 
 - 향후 개선 계획
     - 경기중에 선수가 기록하는 세부적인 스탯을 제공하는 웹사이트를 크롤링하여, 다양한 스탯들을 반영하는 모델 생성
     - Feature Engineering, 하이퍼파라미터 튜닝 등을 통해 예측 모델 최적화
+    - `RMSLE`와 `R2 Score` 중 우선 순위 명확하게 수립
+    - [원본 Kaggle 데이터 페이지](https://www.kaggle.com/datasets/davidcariboo/player-scores) 에서 제공하는 [Github 페이지](https://github.com/dcaribou/transfermarkt-scraper) `scraper` 사용법을 숙지하여, 최신 버전의 데이터 다운로드 과정 자동화
+    - 다운받은 데이터를 `BigQuery`에 적재하여, `SQL` 기반의 데이터 분석 및 대시보드 생성
 
 ## References
 - Preprocessing
