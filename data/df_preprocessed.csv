@@ -105,7 +105,7 @@ Abdul Mumin,2020,4,1,0,0,2029,25,liga-portugal-bwin,False,1998-06-06,Centre-Back
 Abdul Mumin,2021,11,0,0,0,2228,26,liga-portugal-bwin,False,1998-06-06,Centre-Back,Rayo Vallecano,3000000.0,3000000.0,Ghana,right,188.0
 Abdul Mumin,2022,2,0,0,0,917,16,laliga,True,1998-06-06,Centre-Back,Rayo Vallecano,3000000.0,1500000.0,Ghana,right,188.0
 Abdul Mumin,2023,5,1,1,0,1695,20,laliga,True,1998-06-06,Centre-Back,Rayo Vallecano,3000000.0,2500000.0,Ghana,right,188.0
-Abdul Rahman Baba,2019,1,0,0,0,109,2,laliga,True,1994-07-02,Left-Back,PAOK Thessaloniki,15000000.0,2400000.0,Ghana,left,179.0
+Abdul-Rahman Baba,2019,1,0,0,0,109,2,laliga,True,1994-07-02,Left-Back,PAOK Thessaloniki,15000000.0,2400000.0,Ghana,left,179.0
 Abdón Prats,2019,1,0,0,0,258,20,laliga,True,1992-12-07,Centre-Forward,RCD Mallorca,2000000.0,650000.0,Spain,left,181.0
 Abdón Prats,2021,2,0,3,0,632,23,laliga,True,1992-12-07,Centre-Forward,RCD Mallorca,2000000.0,1500000.0,Spain,left,181.0
 Abdón Prats,2022,2,0,1,1,398,26,laliga,True,1992-12-07,Centre-Forward,RCD Mallorca,2000000.0,1200000.0,Spain,left,181.0
@@ -117,6 +117,7 @@ Abel Ruiz,2021,2,0,2,3,1378,28,liga-portugal-bwin,False,2000-01-28,Centre-Forwar
 Abel Ruiz,2022,4,0,8,6,2086,34,liga-portugal-bwin,False,2000-01-28,Centre-Forward,SC Braga,14000000.0,14000000.0,Spain,right,182.0
 Abel Ruiz,2023,6,0,6,2,1898,30,liga-portugal-bwin,False,2000-01-28,Centre-Forward,SC Braga,14000000.0,12000000.0,Spain,right,182.0
 Ablie Jallow,2023,1,0,3,2,922,17,ligue-1,True,1998-11-14,Right Winger,FC Metz,2000000.0,2000000.0,The Gambia,left,166.0
+Abner,2020,4,0,0,1,1226,14,liga-portugal-bwin,False,1996-05-30,Left-Back,RWD Molenbeek,900000.0,300000.0,Brazil,left,180.0
 Abner,2022,2,0,0,0,603,13,laliga,True,2000-05-27,Left-Back,Real Betis Balompié,8000000.0,7000000.0,Brazil,left,181.0
 Abner,2023,3,0,0,1,1397,23,laliga,True,2000-05-27,Left-Back,Real Betis Balompié,8000000.0,7000000.0,Brazil,left,181.0
 Abou Ouattara,2020,0,0,0,0,2,1,liga-portugal-bwin,False,1999-12-26,Right Winger,Vitória Guimarães SC,800000.0,800000.0,Burkina Faso,right,177.0
@@ -357,9 +358,9 @@ Aitor Ruibal,2021,6,0,0,0,858,19,laliga,True,1996-03-22,Right Winger,Real Betis 
 Aitor Ruibal,2022,4,1,0,0,1450,26,laliga,True,1996-03-22,Right Winger,Real Betis Balompié,5000000.0,5000000.0,Spain,right,176.0
 Aitor Ruibal,2023,5,0,2,1,1016,18,laliga,True,1996-03-22,Right Winger,Real Betis Balompié,5000000.0,3500000.0,Spain,right,176.0
 Aiyegun Tosin,2023,0,1,2,1,901,19,ligue-1,True,1998-06-26,Centre-Forward,FC Lorient,4000000.0,3000000.0,Benin,right,179.0
-Ajdin Hrustić,2020,2,0,1,0,266,11,bundesliga,True,1996-07-05,Attacking Midfield,Hellas Verona,3000000.0,1800000.0,Australia,left,180.0
-Ajdin Hrustić,2021,2,0,2,0,958,23,bundesliga,True,1996-07-05,Attacking Midfield,Hellas Verona,3000000.0,3000000.0,Australia,left,180.0
-Ajdin Hrustić,2022,0,0,0,0,226,6,serie-a,True,1996-07-05,Attacking Midfield,Hellas Verona,3000000.0,1500000.0,Australia,left,180.0
+Ajdin Hrustic,2020,2,0,1,0,266,11,bundesliga,True,1996-07-05,Attacking Midfield,Hellas Verona,3000000.0,1800000.0,Australia,left,180.0
+Ajdin Hrustic,2021,2,0,2,0,958,23,bundesliga,True,1996-07-05,Attacking Midfield,Hellas Verona,3000000.0,3000000.0,Australia,left,180.0
+Ajdin Hrustic,2022,0,0,0,0,226,6,serie-a,True,1996-07-05,Attacking Midfield,Hellas Verona,3000000.0,1500000.0,Australia,left,180.0
 Akaki Gogia,2019,0,0,0,0,121,3,bundesliga,True,1992-01-18,Right Winger,1.FC Union Berlin,1300000.0,1000000.0,Germany,right,178.0
 Akaki Gogia,2020,1,0,0,2,134,7,bundesliga,True,1992-01-18,Right Winger,1.FC Union Berlin,1300000.0,650000.0,Germany,right,178.0
 Akim Zedadka,2021,5,0,0,3,3338,38,ligue-1,True,1995-05-30,Right-Back,LOSC Lille,4000000.0,4000000.0,Algeria,right,173.0
@@ -467,6 +468,11 @@ Alejandro Grimaldo,2023,1,0,10,15,2788,33,bundesliga,True,1995-09-20,Left-Back,B
 Alejandro Gómez,2020,0,0,0,0,300,7,liga-portugal-bwin,False,2002-01-31,Centre-Back,Boavista FC,400000.0,400000.0,Mexico,left,185.0
 Alejandro Marqués,2022,1,0,3,0,655,15,liga-portugal-bwin,False,2000-08-04,Centre-Forward,GD Estoril Praia,1000000.0,500000.0,Venezuela,right,189.0
 Alejandro Marqués,2023,3,0,9,1,1354,31,liga-portugal-bwin,False,2000-08-04,Centre-Forward,GD Estoril Praia,1000000.0,1000000.0,Venezuela,right,189.0
+Alejandro Pozo,2019,0,0,1,2,1498,19,laliga,True,1999-02-22,Right-Back,UD Almería,5000000.0,4500000.0,Spain,right,172.0
+Alejandro Pozo,2019,0,0,0,0,34,3,laliga,True,1999-02-22,Right-Back,UD Almería,5000000.0,4500000.0,Spain,right,172.0
+Alejandro Pozo,2020,3,0,0,0,2187,30,laliga,True,1999-02-22,Right-Back,UD Almería,5000000.0,4000000.0,Spain,right,172.0
+Alejandro Pozo,2022,2,0,0,3,1875,30,laliga,True,1999-02-22,Right-Back,UD Almería,5000000.0,3000000.0,Spain,right,172.0
+Alejandro Pozo,2023,3,0,0,0,962,21,laliga,True,1999-02-22,Right-Back,UD Almería,5000000.0,2000000.0,Spain,right,172.0
 Alejo Véliz,2023,1,0,1,0,45,8,premier-league,True,2003-09-19,Centre-Forward,Sevilla FC,11000000.0,9000000.0,Argentina,right,186.0
 Alejo Véliz,2023,0,0,0,0,31,6,laliga,True,2003-09-19,Centre-Forward,Sevilla FC,11000000.0,9000000.0,Argentina,right,186.0
 Aleksa Terzic,2019,0,0,0,0,6,1,serie-a,True,1999-08-17,Left-Back,ACF Fiorentina,4000000.0,1300000.0,Serbia,left,184.0
@@ -479,9 +485,9 @@ Aleksandar Dragovic,2020,3,0,1,0,1132,18,bundesliga,True,1991-03-06,Centre-Back,
 Aleksandar Kolarov,2019,6,0,7,4,2730,32,serie-a,True,1985-11-10,Left-Back,Inter Milan,17000000.0,6500000.0,Serbia,left,187.0
 Aleksandar Kolarov,2020,0,0,0,1,387,7,serie-a,True,1985-11-10,Left-Back,Inter Milan,17000000.0,1500000.0,Serbia,left,187.0
 Aleksandar Kolarov,2021,0,0,0,0,39,3,serie-a,True,1985-11-10,Left-Back,Inter Milan,17000000.0,500000.0,Serbia,left,187.0
-Aleksandar Mitrovic,2020,3,0,3,3,1390,27,premier-league,True,1994-09-16,Centre-Forward,Fulham FC,28000000.0,16000000.0,Serbia,right,189.0
-Aleksandar Mitrovic,2022,7,0,14,2,2016,24,premier-league,True,1994-09-16,Centre-Forward,Fulham FC,28000000.0,28000000.0,Serbia,right,189.0
-Aleksandar Mitrovic,2023,0,0,0,0,32,1,premier-league,True,1994-09-16,Centre-Forward,Fulham FC,28000000.0,28000000.0,Serbia,right,189.0
+Aleksandar Mitrović,2020,3,0,3,3,1390,27,premier-league,True,1994-09-16,Centre-Forward,Fulham FC,28000000.0,16000000.0,Serbia,right,189.0
+Aleksandar Mitrović,2022,7,0,14,2,2016,24,premier-league,True,1994-09-16,Centre-Forward,Fulham FC,28000000.0,28000000.0,Serbia,right,189.0
+Aleksandar Mitrović,2023,0,0,0,0,32,1,premier-league,True,1994-09-16,Centre-Forward,Fulham FC,28000000.0,28000000.0,Serbia,right,189.0
 Aleksandar Pavlovic,2023,6,0,2,2,1229,19,bundesliga,True,2004-05-03,Defensive Midfield,Bayern Munich,30000000.0,30000000.0,Germany,both,188.0
 Aleksandar Radovanovic,2020,0,0,0,0,90,1,ligue-1,True,1993-11-11,Centre-Back,UD Almería,1400000.0,600000.0,Serbia,left,190.0
 Aleksandar Radovanovic,2023,2,0,0,0,571,9,laliga,True,1993-11-11,Centre-Back,UD Almería,1400000.0,900000.0,Serbia,left,190.0
@@ -569,9 +575,6 @@ Alex,2019,0,0,0,0,159,4,liga-portugal-bwin,False,1991-08-27,Left Winger,Vitória
 Alex,2021,5,0,0,0,1477,19,liga-portugal-bwin,False,1999-05-10,Centre-Back,FC Famalicão,600000.0,600000.0,Brazil,left,189.0
 Alex Cordaz,2020,1,0,0,0,3240,36,serie-a,True,1983-01-01,Goalkeeper,Inter Milan,1000000.0,500000.0,Italy,right,188.0
 Alex Cordaz,2022,0,0,0,0,25,1,serie-a,True,1983-01-01,Goalkeeper,Inter Milan,1000000.0,200000.0,Italy,right,188.0
-Alex Dobre,2020,0,0,0,0,516,22,ligue-1,True,1998-08-30,Right Winger,FC Famalicão,1500000.0,1000000.0,Romania,right,185.0
-Alex Dobre,2022,1,1,2,3,944,17,liga-portugal-bwin,False,1998-08-30,Right Winger,FC Famalicão,1500000.0,1500000.0,Romania,right,185.0
-Alex Dobre,2023,0,0,0,0,340,14,liga-portugal-bwin,False,1998-08-30,Right Winger,FC Famalicão,1500000.0,1000000.0,Romania,right,185.0
 Alex Ferrari,2019,4,0,0,0,1005,12,serie-a,True,1994-07-01,Centre-Back,UC Sampdoria,2500000.0,2000000.0,Italy,right,191.0
 Alex Ferrari,2020,3,0,0,1,882,12,serie-a,True,1994-07-01,Centre-Back,UC Sampdoria,2500000.0,1800000.0,Italy,right,191.0
 Alex Ferrari,2021,4,0,1,0,1651,23,serie-a,True,1994-07-01,Centre-Back,UC Sampdoria,2500000.0,1800000.0,Italy,right,191.0
@@ -583,9 +586,9 @@ Alex Iwobi,2021,1,0,2,2,2035,28,premier-league,True,1996-05-03,Left Winger,Evert
 Alex Iwobi,2022,2,0,2,8,3382,38,premier-league,True,1996-05-03,Left Winger,Everton FC,32000000.0,28000000.0,Nigeria,right,183.0
 Alex Iwobi,2023,0,0,0,0,141,2,premier-league,True,1996-05-03,Left Winger,Everton FC,32000000.0,25000000.0,Nigeria,right,183.0
 Alex Iwobi,2023,2,0,5,2,2205,30,premier-league,True,1996-05-03,Left Winger,Everton FC,32000000.0,25000000.0,Nigeria,right,183.0
-Alex Král,2021,0,0,0,0,1,1,premier-league,True,1998-05-19,Defensive Midfield,1.FC Union Berlin,10000000.0,7000000.0,Czech Republic,right,186.0
-Alex Král,2022,3,0,0,1,2357,29,bundesliga,True,1998-05-19,Defensive Midfield,1.FC Union Berlin,10000000.0,7000000.0,Czech Republic,right,186.0
-Alex Král,2023,2,0,0,0,1365,24,bundesliga,True,1998-05-19,Defensive Midfield,1.FC Union Berlin,10000000.0,5000000.0,Czech Republic,right,186.0
+Alex Kral,2021,0,0,0,0,1,1,premier-league,True,1998-05-19,Defensive Midfield,1.FC Union Berlin,10000000.0,7000000.0,Czech Republic,right,186.0
+Alex Kral,2022,3,0,0,1,2357,29,bundesliga,True,1998-05-19,Defensive Midfield,1.FC Union Berlin,10000000.0,7000000.0,Czech Republic,right,186.0
+Alex Kral,2023,2,0,0,0,1365,24,bundesliga,True,1998-05-19,Defensive Midfield,1.FC Union Berlin,10000000.0,5000000.0,Czech Republic,right,186.0
 Alex Matos,2023,0,0,0,0,1,1,premier-league,True,2004-10-03,Central Midfield,Chelsea FC,1200000.0,1200000.0,England,right,175.0
 Alex McCarthy,2019,0,0,0,0,2520,28,premier-league,True,1989-12-03,Goalkeeper,Southampton FC,6500000.0,6500000.0,England,right,193.0
 Alex McCarthy,2020,2,0,0,0,2700,30,premier-league,True,1989-12-03,Goalkeeper,Southampton FC,6500000.0,5000000.0,England,right,193.0
@@ -678,8 +681,9 @@ Alexandre Oukidja,2019,3,0,0,0,2385,27,ligue-1,True,1988-07-19,Goalkeeper,FC Met
 Alexandre Oukidja,2020,2,1,0,0,3060,34,ligue-1,True,1988-07-19,Goalkeeper,FC Metz,3000000.0,2500000.0,Algeria,right,184.0
 Alexandre Oukidja,2021,2,1,0,0,1877,21,ligue-1,True,1988-07-19,Goalkeeper,FC Metz,3000000.0,1200000.0,Algeria,right,184.0
 Alexandre Oukidja,2023,3,0,0,0,2988,34,ligue-1,True,1988-07-19,Goalkeeper,FC Metz,3000000.0,500000.0,Algeria,right,184.0
-Alexandre Penetra,2021,6,1,1,0,2565,30,liga-portugal-bwin,False,2001-09-09,Centre-Back,AZ Alkmaar,5500000.0,3000000.0,Portugal,right,186.0
-Alexandre Penetra,2022,5,0,2,2,2517,29,liga-portugal-bwin,False,2001-09-09,Centre-Back,AZ Alkmaar,5500000.0,4000000.0,Portugal,right,186.0
+Alexandru Dobre,2020,0,0,0,0,516,22,ligue-1,True,1998-08-30,Right Winger,FC Famalicão,1500000.0,1000000.0,Romania,right,185.0
+Alexandru Dobre,2022,1,1,2,3,944,17,liga-portugal-bwin,False,1998-08-30,Right Winger,FC Famalicão,1500000.0,1500000.0,Romania,right,185.0
+Alexandru Dobre,2023,0,0,0,0,340,14,liga-portugal-bwin,False,1998-08-30,Right Winger,FC Famalicão,1500000.0,1000000.0,Romania,right,185.0
 Alexandru Maxim,2019,1,0,0,0,113,5,bundesliga,True,1990-07-08,Attacking Midfield,Gaziantep FK,7000000.0,1600000.0,Romania,right,177.0
 Alexis Beka Beka,2022,2,0,0,0,545,14,ligue-1,True,2001-03-29,Defensive Midfield,OGC Nice,7000000.0,4500000.0,France,right,178.0
 Alexis Blin,2019,4,0,0,1,1845,24,ligue-1,True,1996-09-16,Defensive Midfield,US Lecce,8000000.0,4000000.0,France,right,186.0
@@ -862,7 +866,6 @@ Amir Abedzadeh,2019,4,0,0,0,2250,25,liga-portugal-bwin,False,1993-04-26,Goalkeep
 Amir Abedzadeh,2020,2,0,0,0,2610,29,liga-portugal-bwin,False,1993-04-26,Goalkeeper,CS Marítimo,1500000.0,1500000.0,Iran,right,186.0
 Amir Abrashi,2019,3,0,0,0,662,13,bundesliga,True,1990-03-27,Defensive Midfield,SC Freiburg,2500000.0,1600000.0,Albania,right,172.0
 Amir Abrashi,2020,0,0,0,0,58,5,bundesliga,True,1990-03-27,Defensive Midfield,SC Freiburg,2500000.0,800000.0,Albania,right,172.0
-Amir Murillo,2023,3,0,3,2,995,16,ligue-1,True,1996-02-11,Right-Back,Olympique Marseille,5000000.0,5000000.0,Panama,right,184.0
 Amir Richardson,2023,4,0,3,1,1350,28,ligue-1,True,2002-01-24,Central Midfield,Stade Reims,6000000.0,6000000.0,Morocco,left,197.0
 Amir Rrahmani,2019,5,0,0,1,3139,35,serie-a,True,1994-02-24,Centre-Back,SSC Napoli,25000000.0,9500000.0,Kosovo,right,192.0
 Amir Rrahmani,2020,0,0,0,0,90,1,serie-a,True,1994-02-24,Centre-Back,SSC Napoli,25000000.0,14000000.0,Kosovo,right,192.0
@@ -880,7 +883,6 @@ Anass Zaroury,2023,0,1,0,0,149,6,premier-league,True,2000-11-07,Left Winger,Burn
 Anastasios Donis,2019,1,0,0,0,607,15,ligue-1,True,1996-08-29,Right Winger,Stade Reims,4000000.0,2000000.0,Greece,right,178.0
 Anastasios Donis,2020,0,1,0,0,97,3,ligue-1,True,1996-08-29,Right Winger,Stade Reims,4000000.0,1000000.0,Greece,right,178.0
 Anastasios Donis,2021,0,1,0,0,363,13,ligue-1,True,1996-08-29,Right Winger,Stade Reims,4000000.0,1000000.0,Greece,right,178.0
-Anastasios Douvikas,2023,2,0,7,1,886,32,laliga,True,1999-08-02,Centre-Forward,FC Utrecht,12000000.0,6000000.0,Greece,right,186.0
 Anatoliy Trubin,2023,1,0,0,0,2520,28,liga-portugal-bwin,False,2001-08-01,Goalkeeper,Shakhtar Donetsk,25000000.0,25000000.0,Ukraine,right,199.0
 Ander Barrenetxea,2019,1,0,0,0,433,17,laliga,True,2001-12-27,Left Winger,Real Sociedad,20000000.0,9000000.0,Spain,right,175.0
 Ander Barrenetxea,2020,7,0,3,0,1300,31,laliga,True,2001-12-27,Left Winger,Real Sociedad,20000000.0,15000000.0,Spain,right,175.0
@@ -903,14 +905,14 @@ Ander Herrera,2022,4,1,0,1,699,17,laliga,True,1989-08-14,Central Midfield,Athlet
 Ander Herrera,2023,4,0,0,3,1022,23,laliga,True,1989-08-14,Central Midfield,Athletic Bilbao,30000000.0,2000000.0,Spain,right,182.0
 Ander Iturraspe,2019,1,0,0,0,239,8,laliga,True,1989-03-08,Defensive Midfield,RCD Espanyol Barcelona,12000000.0,2000000.0,Spain,right,187.0
 Ander Martín,2022,0,0,0,0,38,3,laliga,True,2000-11-16,Right Winger,Real Sociedad,500000.0,400000.0,Spain,left,177.0
-Anderson,2021,4,0,0,0,1530,17,liga-portugal-bwin,False,1995-03-02,Centre-Back,FC Vizela,900000.0,800000.0,Brazil,right,186.0
-Anderson,2022,9,0,3,0,2669,30,liga-portugal-bwin,False,1995-03-02,Centre-Back,FC Vizela,900000.0,900000.0,Brazil,right,186.0
-Anderson,2023,5,0,0,0,2489,29,liga-portugal-bwin,False,1995-03-02,Centre-Back,FC Vizela,900000.0,600000.0,Brazil,right,186.0
 Anderson Carvalho,2019,4,0,1,0,1176,16,liga-portugal-bwin,False,1990-05-20,Defensive Midfield,CD Santa Clara,800000.0,400000.0,Brazil,right,174.0
 Anderson Carvalho,2020,9,0,1,1,1995,29,liga-portugal-bwin,False,1990-05-20,Defensive Midfield,CD Santa Clara,800000.0,600000.0,Brazil,right,174.0
 Anderson Carvalho,2021,10,0,0,1,1913,27,liga-portugal-bwin,False,1990-05-20,Defensive Midfield,CD Santa Clara,800000.0,500000.0,Brazil,right,174.0
 Anderson Carvalho,2022,4,0,0,0,491,11,liga-portugal-bwin,False,1990-05-20,Defensive Midfield,CD Santa Clara,800000.0,300000.0,Brazil,right,174.0
 Anderson Cruz,2020,0,0,0,0,150,8,liga-portugal-bwin,False,1996-04-09,Left Winger,Rio Ave FC,300000.0,300000.0,Angola,left,175.0
+Anderson Jesus,2021,4,0,0,0,1530,17,liga-portugal-bwin,False,1995-03-02,Centre-Back,FC Vizela,900000.0,800000.0,Brazil,right,186.0
+Anderson Jesus,2022,9,0,3,0,2669,30,liga-portugal-bwin,False,1995-03-02,Centre-Back,FC Vizela,900000.0,900000.0,Brazil,right,186.0
+Anderson Jesus,2023,5,0,0,0,2489,29,liga-portugal-bwin,False,1995-03-02,Centre-Back,FC Vizela,900000.0,600000.0,Brazil,right,186.0
 Anderson Lucoqui,2020,5,0,0,1,1607,21,bundesliga,True,1997-07-06,Left-Back,1.FSV Mainz 05,2500000.0,1000000.0,Angola,left,180.0
 Anderson Lucoqui,2021,2,0,1,0,741,13,bundesliga,True,1997-07-06,Left-Back,1.FSV Mainz 05,2500000.0,1800000.0,Angola,left,180.0
 Anderson Oliveira,2019,3,0,0,0,184,9,liga-portugal-bwin,False,1998-07-16,Left Winger,Portimonense SC,700000.0,200000.0,Brazil,right,169.0
@@ -1038,13 +1040,7 @@ Andrei Girotto,2019,6,0,1,1,2179,25,ligue-1,True,1992-02-17,Centre-Back,FC Nante
 Andrei Girotto,2020,3,1,1,1,2664,34,ligue-1,True,1992-02-17,Centre-Back,FC Nantes,5000000.0,4000000.0,Brazil,right,186.0
 Andrei Girotto,2021,8,0,6,1,3150,36,ligue-1,True,1992-02-17,Centre-Back,FC Nantes,5000000.0,5000000.0,Brazil,right,186.0
 Andrei Girotto,2022,7,0,1,1,3155,36,ligue-1,True,1992-02-17,Centre-Back,FC Nantes,5000000.0,4000000.0,Brazil,right,186.0
-Andrei Radu,2019,1,0,0,1,1530,17,serie-a,True,1997-05-28,Goalkeeper,AFC Bournemouth,15000000.0,9500000.0,Romania,right,188.0
-Andrei Radu,2020,0,0,0,0,135,2,serie-a,True,1997-05-28,Goalkeeper,AFC Bournemouth,15000000.0,6000000.0,Romania,right,188.0
-Andrei Radu,2021,0,0,0,0,90,1,serie-a,True,1997-05-28,Goalkeeper,AFC Bournemouth,15000000.0,3500000.0,Romania,right,188.0
-Andrei Radu,2022,0,0,0,0,1530,17,ligue-1,True,1997-05-28,Goalkeeper,AFC Bournemouth,15000000.0,3500000.0,Romania,right,188.0
-Andrei Radu,2022,0,0,0,0,810,9,serie-a,True,1997-05-28,Goalkeeper,AFC Bournemouth,15000000.0,3500000.0,Romania,right,188.0
-Andrei Radu,2023,0,0,0,0,180,2,premier-league,True,1997-05-28,Goalkeeper,AFC Bournemouth,15000000.0,3000000.0,Romania,right,188.0
-Andrei Rațiu,2023,1,0,0,0,628,12,laliga,True,1998-06-20,Right-Back,Rayo Vallecano,3000000.0,3000000.0,Romania,right,183.0
+Andrei Ratiu,2023,1,0,0,0,628,12,laliga,True,1998-06-20,Right-Back,Rayo Vallecano,3000000.0,3000000.0,Romania,right,183.0
 Andrej Ilic,2023,0,0,0,0,8,2,ligue-1,True,2000-04-03,Centre-Forward,LOSC Lille,3000000.0,3000000.0,Serbia,right,189.0
 Andrej Kramaric,2019,3,0,12,4,1423,19,bundesliga,True,1991-06-19,Centre-Forward,TSG 1899 Hoffenheim,38000000.0,30500000.0,Croatia,right,177.0
 Andrej Kramaric,2020,2,0,20,6,2386,28,bundesliga,True,1991-06-19,Centre-Forward,TSG 1899 Hoffenheim,38000000.0,28000000.0,Croatia,right,177.0
@@ -1280,6 +1276,11 @@ Anthony Lopes,2023,0,0,0,0,2790,31,ligue-1,True,1990-10-01,Goalkeeper,Olympique 
 Anthony Losilla,2021,5,0,2,0,2916,33,bundesliga,True,1986-03-10,Defensive Midfield,VfL Bochum,900000.0,500000.0,France,right,185.0
 Anthony Losilla,2022,6,1,2,3,2725,31,bundesliga,True,1986-03-10,Defensive Midfield,VfL Bochum,900000.0,500000.0,France,right,185.0
 Anthony Losilla,2023,10,0,1,2,2587,31,bundesliga,True,1986-03-10,Defensive Midfield,VfL Bochum,900000.0,500000.0,France,right,185.0
+Anthony Lozano,2020,5,0,3,2,1525,29,laliga,True,1993-04-25,Centre-Forward,UD Almería,4000000.0,2200000.0,Honduras,right,183.0
+Anthony Lozano,2021,8,0,7,4,1675,31,laliga,True,1993-04-25,Centre-Forward,UD Almería,4000000.0,4000000.0,Honduras,right,183.0
+Anthony Lozano,2022,6,0,1,1,1440,28,laliga,True,1993-04-25,Centre-Forward,UD Almería,4000000.0,2500000.0,Honduras,right,183.0
+Anthony Lozano,2023,1,0,3,0,779,13,laliga,True,1993-04-25,Centre-Forward,UD Almería,4000000.0,1200000.0,Honduras,right,183.0
+Anthony Lozano,2023,1,0,0,0,90,6,laliga,True,1993-04-25,Centre-Forward,UD Almería,4000000.0,1200000.0,Honduras,right,183.0
 Anthony Mandréa,2021,0,0,0,0,900,10,ligue-1,True,1996-12-25,Goalkeeper,Angers SCO,2000000.0,1000000.0,Algeria,right,186.0
 Anthony Martial,2019,1,0,17,7,2640,32,premier-league,True,1995-12-05,Centre-Forward,Manchester United,65000000.0,58000000.0,France,right,181.0
 Anthony Martial,2020,0,1,4,6,1488,22,premier-league,True,1995-12-05,Centre-Forward,Manchester United,65000000.0,45000000.0,France,right,181.0
@@ -1320,6 +1321,14 @@ Anton Stach,2023,4,0,2,4,2326,31,bundesliga,True,1998-11-15,Central Midfield,1.F
 Antonee Robinson,2020,4,1,0,0,2162,28,premier-league,True,1997-08-08,Left-Back,Fulham FC,25000000.0,7000000.0,United States,left,183.0
 Antonee Robinson,2022,8,0,0,1,3089,35,premier-league,True,1997-08-08,Left-Back,Fulham FC,25000000.0,15000000.0,United States,left,183.0
 Antonee Robinson,2023,6,0,0,6,3270,37,premier-league,True,1997-08-08,Left-Back,Fulham FC,25000000.0,25000000.0,United States,left,183.0
+Antonin Barak,2019,1,0,0,0,190,8,serie-a,True,1994-12-03,Attacking Midfield,ACF Fiorentina,20000000.0,8000000.0,Czech Republic,left,190.0
+Antonin Barak,2019,0,0,1,1,1278,15,serie-a,True,1994-12-03,Attacking Midfield,ACF Fiorentina,20000000.0,8000000.0,Czech Republic,left,190.0
+Antonin Barak,2020,5,1,7,3,2772,34,serie-a,True,1994-12-03,Attacking Midfield,ACF Fiorentina,20000000.0,14000000.0,Czech Republic,left,190.0
+Antonin Barak,2020,0,0,1,0,90,1,serie-a,True,1994-12-03,Attacking Midfield,ACF Fiorentina,20000000.0,14000000.0,Czech Republic,left,190.0
+Antonin Barak,2021,4,0,11,4,2345,29,serie-a,True,1994-12-03,Attacking Midfield,ACF Fiorentina,20000000.0,20000000.0,Czech Republic,left,190.0
+Antonin Barak,2022,0,0,0,0,24,1,serie-a,True,1994-12-03,Attacking Midfield,ACF Fiorentina,20000000.0,10000000.0,Czech Republic,left,190.0
+Antonin Barak,2022,4,0,2,0,1807,30,serie-a,True,1994-12-03,Attacking Midfield,ACF Fiorentina,20000000.0,10000000.0,Czech Republic,left,190.0
+Antonin Barak,2023,2,0,2,3,802,21,serie-a,True,1994-12-03,Attacking Midfield,ACF Fiorentina,20000000.0,4500000.0,Czech Republic,left,190.0
 Antonin Bobichon,2019,0,0,0,0,180,2,ligue-1,True,1995-09-14,Central Midfield,Angers SCO,5000000.0,2800000.0,France,right,178.0
 Antonin Bobichon,2019,0,0,2,1,653,11,ligue-1,True,1995-09-14,Central Midfield,Angers SCO,5000000.0,2800000.0,France,right,178.0
 Antonin Bobichon,2020,0,0,0,1,906,23,ligue-1,True,1995-09-14,Central Midfield,Angers SCO,5000000.0,2500000.0,France,right,178.0
@@ -1393,14 +1402,6 @@ Antony,2022,5,0,4,2,1818,25,premier-league,True,2000-02-24,Right Winger,Manchest
 Antony,2022,3,0,6,1,2383,33,liga-portugal-bwin,False,2001-09-08,Left Winger,FC Arouca,1800000.0,600000.0,Brazil,right,185.0
 Antony,2023,5,0,1,1,1323,29,premier-league,True,2000-02-24,Right Winger,Manchester United,75000000.0,25000000.0,Brazil,left,172.0
 Antony Evans,2019,0,0,0,0,155,6,bundesliga,True,1998-09-23,Attacking Midfield,SC Paderborn 07,500000.0,350000.0,England,right,186.0
-Antonín Barák,2019,1,0,0,0,190,8,serie-a,True,1994-12-03,Attacking Midfield,ACF Fiorentina,20000000.0,8000000.0,Czech Republic,left,190.0
-Antonín Barák,2019,0,0,1,1,1278,15,serie-a,True,1994-12-03,Attacking Midfield,ACF Fiorentina,20000000.0,8000000.0,Czech Republic,left,190.0
-Antonín Barák,2020,5,1,7,3,2772,34,serie-a,True,1994-12-03,Attacking Midfield,ACF Fiorentina,20000000.0,14000000.0,Czech Republic,left,190.0
-Antonín Barák,2020,0,0,1,0,90,1,serie-a,True,1994-12-03,Attacking Midfield,ACF Fiorentina,20000000.0,14000000.0,Czech Republic,left,190.0
-Antonín Barák,2021,4,0,11,4,2345,29,serie-a,True,1994-12-03,Attacking Midfield,ACF Fiorentina,20000000.0,20000000.0,Czech Republic,left,190.0
-Antonín Barák,2022,0,0,0,0,24,1,serie-a,True,1994-12-03,Attacking Midfield,ACF Fiorentina,20000000.0,10000000.0,Czech Republic,left,190.0
-Antonín Barák,2022,4,0,2,0,1807,30,serie-a,True,1994-12-03,Attacking Midfield,ACF Fiorentina,20000000.0,10000000.0,Czech Republic,left,190.0
-Antonín Barák,2023,2,0,2,3,802,21,serie-a,True,1994-12-03,Attacking Midfield,ACF Fiorentina,20000000.0,4500000.0,Czech Republic,left,190.0
 Antoñito,2019,1,0,0,0,1028,15,laliga,True,1987-12-24,Right-Back,Real Valladolid CF,2000000.0,800000.0,Spain,right,175.0
 Antoñín,2019,2,0,1,0,176,8,laliga,True,2000-04-16,Centre-Forward,Vitória Guimarães SC,2000000.0,1300000.0,Spain,right,182.0
 Antoñín,2022,0,0,0,0,49,3,liga-portugal-bwin,False,2000-04-16,Centre-Forward,Vitória Guimarães SC,2000000.0,800000.0,Spain,right,182.0
@@ -1509,7 +1510,7 @@ Arne Maier,2021,0,0,1,7,1872,29,bundesliga,True,1999-01-08,Central Midfield,FC A
 Arne Maier,2022,3,0,5,1,1971,30,bundesliga,True,1999-01-08,Central Midfield,FC Augsburg,24000000.0,6500000.0,Germany,right,186.0
 Arne Maier,2023,0,0,2,3,998,22,bundesliga,True,1999-01-08,Central Midfield,FC Augsburg,24000000.0,5000000.0,Germany,right,186.0
 Arnór Sigurdsson,2021,0,0,0,0,175,9,serie-a,True,1999-05-15,Attacking Midfield,Venezia FC,7000000.0,2300000.0,Iceland,right,177.0
-Aron Dønnum,2023,8,0,0,2,1601,27,ligue-1,True,1998-04-20,Right Winger,FC Toulouse,4000000.0,3500000.0,Norway,left,178.0
+Aron Dönnum,2023,8,0,0,2,1601,27,ligue-1,True,1998-04-20,Right Winger,FC Toulouse,4000000.0,3500000.0,Norway,left,178.0
 Arouna Sangante,2023,8,0,0,0,2690,30,ligue-1,True,2002-04-12,Centre-Back,Le Havre AC,10000000.0,10000000.0,Senegal,right,189.0
 Arsen Zakharyan,2023,1,0,1,2,1230,29,laliga,True,2003-05-26,Attacking Midfield,Dynamo Moscow,18000000.0,18000000.0,Russia,right,183.0
 Arsénio,2021,7,0,2,4,2203,33,liga-portugal-bwin,False,1989-08-30,Left Winger,FC Arouca,1700000.0,350000.0,Portugal,right,180.0
@@ -1594,7 +1595,7 @@ Atakan Karazor,2023,9,0,0,4,2630,33,bundesliga,True,1996-10-13,Defensive Midfiel
 Attila Szalai,2023,0,0,0,0,101,3,bundesliga,True,1998-01-20,Centre-Back,TSG 1899 Hoffenheim,15000000.0,4000000.0,Hungary,left,192.0
 Attila Szalai,2023,1,0,0,0,289,4,bundesliga,True,1998-01-20,Centre-Back,TSG 1899 Hoffenheim,15000000.0,4000000.0,Hungary,left,192.0
 Augusto Batalla,2023,3,0,0,0,1530,17,laliga,True,1996-04-30,Goalkeeper,Granada CF,6000000.0,5000000.0,Argentina,right,186.0
-Augusto Dabó,2022,0,0,0,0,12,3,liga-portugal-bwin,False,2004-03-13,Left-Back,Boavista FC,100000.0,100000.0,Portugal,left,186.0
+Augusto Dabo,2022,0,0,0,0,12,3,liga-portugal-bwin,False,2004-03-13,Left-Back,Boavista FC,100000.0,100000.0,Portugal,left,186.0
 Augusto Fernández,2020,1,0,0,0,366,12,laliga,True,1986-04-10,Central Midfield,Cádiz CF,8000000.0,300000.0,Argentina,right,177.0
 Augusto Solari,2020,2,0,2,2,478,16,laliga,True,1992-01-03,Right Winger,Celta de Vigo,6000000.0,4000000.0,Argentina,right,176.0
 Augusto Solari,2021,5,0,0,0,698,26,laliga,True,1992-01-03,Right Winger,Celta de Vigo,6000000.0,2500000.0,Argentina,right,176.0
@@ -1657,8 +1658,8 @@ Ayoze Pérez,2022,3,0,3,2,1396,19,laliga,True,1993-07-29,Left Winger,Real Betis 
 Ayoze Pérez,2022,0,0,0,1,379,8,premier-league,True,1993-07-29,Left Winger,Real Betis Balompié,30000000.0,6000000.0,Spain,right,178.0
 Ayoze Pérez,2023,4,0,9,1,2307,31,laliga,True,1993-07-29,Left Winger,Real Betis Balompié,30000000.0,7000000.0,Spain,right,178.0
 Ayyoub Bouaddi,2023,3,0,0,0,126,9,ligue-1,True,2007-10-02,Central Midfield,LOSC Lille,6000000.0,6000000.0,France,right,185.0
-Aziz Yakubu,2022,2,0,7,3,1292,17,liga-portugal-bwin,False,1998-11-10,Centre-Forward,Rio Ave FC,3000000.0,2000000.0,Ghana,right,187.0
-Aziz Yakubu,2023,0,0,6,2,1124,16,liga-portugal-bwin,False,1998-11-10,Centre-Forward,Rio Ave FC,3000000.0,3000000.0,Ghana,right,187.0
+Aziz,2022,2,0,7,3,1292,17,liga-portugal-bwin,False,1998-11-10,Centre-Forward,Rio Ave FC,3000000.0,2000000.0,Ghana,right,187.0
+Aziz,2023,0,0,6,2,1124,16,liga-portugal-bwin,False,1998-11-10,Centre-Forward,Rio Ave FC,3000000.0,3000000.0,Ghana,right,187.0
 Azor Matusiwa,2021,8,0,1,1,2468,29,ligue-1,True,1998-04-28,Defensive Midfield,Stade Reims,13000000.0,7000000.0,Netherlands,right,173.0
 Azor Matusiwa,2022,4,0,0,0,2493,30,ligue-1,True,1998-04-28,Defensive Midfield,Stade Reims,13000000.0,7500000.0,Netherlands,right,173.0
 Azor Matusiwa,2023,2,0,0,1,795,12,ligue-1,True,1998-04-28,Defensive Midfield,Stade Reims,13000000.0,12000000.0,Netherlands,right,173.0
@@ -1717,12 +1718,12 @@ Bartlomiej Dragowski,2021,0,1,0,0,557,7,serie-a,True,1997-08-19,Goalkeeper,Panat
 Bartlomiej Dragowski,2022,1,0,0,1,2948,34,serie-a,True,1997-08-19,Goalkeeper,Panathinaikos FC,16000000.0,4500000.0,Poland,right,191.0
 Bartol Franjic,2022,0,0,0,1,229,5,bundesliga,True,2000-01-14,Defensive Midfield,SV Darmstadt 98,6500000.0,3000000.0,Croatia,left,188.0
 Bartol Franjic,2023,5,0,0,1,1231,20,bundesliga,True,2000-01-14,Defensive Midfield,SV Darmstadt 98,6500000.0,1800000.0,Croatia,left,188.0
-Bartosz Bereszyński,2019,10,0,0,0,2405,28,serie-a,True,1992-07-12,Right-Back,FC Empoli,12000000.0,6500000.0,Poland,right,183.0
-Bartosz Bereszyński,2020,2,0,1,0,2607,31,serie-a,True,1992-07-12,Right-Back,FC Empoli,12000000.0,6000000.0,Poland,right,183.0
-Bartosz Bereszyński,2021,12,0,0,3,2956,35,serie-a,True,1992-07-12,Right-Back,FC Empoli,12000000.0,4000000.0,Poland,right,183.0
-Bartosz Bereszyński,2022,1,0,0,0,1202,15,serie-a,True,1992-07-12,Right-Back,FC Empoli,12000000.0,1600000.0,Poland,right,183.0
-Bartosz Bereszyński,2022,1,0,0,1,166,3,serie-a,True,1992-07-12,Right-Back,FC Empoli,12000000.0,1600000.0,Poland,right,183.0
-Bartosz Bereszyński,2023,3,0,0,1,1766,24,serie-a,True,1992-07-12,Right-Back,FC Empoli,12000000.0,1300000.0,Poland,right,183.0
+Bartosz Bereszynski,2019,10,0,0,0,2405,28,serie-a,True,1992-07-12,Right-Back,FC Empoli,12000000.0,6500000.0,Poland,right,183.0
+Bartosz Bereszynski,2020,2,0,1,0,2607,31,serie-a,True,1992-07-12,Right-Back,FC Empoli,12000000.0,6000000.0,Poland,right,183.0
+Bartosz Bereszynski,2021,12,0,0,3,2956,35,serie-a,True,1992-07-12,Right-Back,FC Empoli,12000000.0,4000000.0,Poland,right,183.0
+Bartosz Bereszynski,2022,1,0,0,0,1202,15,serie-a,True,1992-07-12,Right-Back,FC Empoli,12000000.0,1600000.0,Poland,right,183.0
+Bartosz Bereszynski,2022,1,0,0,1,166,3,serie-a,True,1992-07-12,Right-Back,FC Empoli,12000000.0,1600000.0,Poland,right,183.0
+Bartosz Bereszynski,2023,3,0,0,1,1766,24,serie-a,True,1992-07-12,Right-Back,FC Empoli,12000000.0,1300000.0,Poland,right,183.0
 Bartosz Bialek,2020,1,0,2,0,255,19,bundesliga,True,2001-11-11,Centre-Forward,KAS Eupen,5000000.0,5000000.0,Poland,right,191.0
 Bartosz Bialek,2021,1,0,0,0,171,12,bundesliga,True,2001-11-11,Centre-Forward,KAS Eupen,5000000.0,4000000.0,Poland,right,191.0
 Bartosz Salamon,2019,1,0,0,0,331,6,serie-a,True,1991-05-01,Centre-Back,SPAL,3500000.0,400000.0,Poland,right,194.0
@@ -1865,7 +1866,7 @@ Benoît Badiashile,2022,2,0,1,0,904,11,premier-league,True,2001-03-26,Centre-Bac
 Benoît Badiashile,2023,1,0,0,1,1338,18,premier-league,True,2001-03-26,Centre-Back,Chelsea FC,40000000.0,30000000.0,France,left,194.0
 Benoît Costil,2021,1,0,0,0,2250,25,ligue-1,True,1987-07-03,Goalkeeper,US Salernitana 1919,8000000.0,1500000.0,France,right,188.0
 Benoît Costil,2023,0,0,0,0,1170,13,serie-a,True,1987-07-03,Goalkeeper,US Salernitana 1919,8000000.0,600000.0,France,right,188.0
-Benson Manuel,2023,0,0,0,0,110,8,premier-league,True,1997-03-28,Right Winger,Burnley FC,7000000.0,5000000.0,Angola,left,166.0
+Benson Manuel Hedilazio,2023,0,0,0,0,110,8,premier-league,True,1997-03-28,Right Winger,Burnley FC,7000000.0,5000000.0,Angola,left,166.0
 Berat Djimsiti,2019,4,0,2,1,2700,33,serie-a,True,1993-02-19,Centre-Back,Atalanta BC,22000000.0,12000000.0,Albania,right,190.0
 Berat Djimsiti,2020,9,0,0,3,2718,34,serie-a,True,1993-02-19,Centre-Back,Atalanta BC,22000000.0,22000000.0,Albania,right,190.0
 Berat Djimsiti,2021,6,0,1,1,2257,31,serie-a,True,1993-02-19,Centre-Back,Atalanta BC,22000000.0,17000000.0,Albania,right,190.0
@@ -2264,11 +2265,11 @@ Béni Makouana,2022,1,0,0,1,190,8,ligue-1,True,2002-09-28,Left Winger,Polissya Z
 Bénie Traoré,2023,0,0,0,0,385,8,premier-league,True,2002-11-30,Centre-Forward,FC Nantes,4000000.0,4000000.0,Cote d'Ivoire,right,172.0
 Bénie Traoré,2023,1,1,0,1,499,14,ligue-1,True,2002-11-30,Centre-Forward,FC Nantes,4000000.0,4000000.0,Cote d'Ivoire,right,172.0
 Cafú,2022,0,0,0,0,6,1,premier-league,True,1993-02-26,Central Midfield,Nottingham Forest,2500000.0,600000.0,Portugal,right,185.0
-Cafú Phete,2019,2,0,0,0,1075,14,liga-portugal-bwin,False,1994-04-04,Defensive Midfield,GD Chaves,700000.0,300000.0,South Africa,right,187.0
-Cafú Phete,2019,1,0,0,0,20,1,liga-portugal-bwin,False,1994-04-04,Defensive Midfield,GD Chaves,700000.0,300000.0,South Africa,right,187.0
-Cafú Phete,2020,7,1,1,1,2042,26,liga-portugal-bwin,False,1994-04-04,Defensive Midfield,GD Chaves,700000.0,700000.0,South Africa,right,187.0
-Cafú Phete,2021,8,0,0,1,1854,26,liga-portugal-bwin,False,1994-04-04,Defensive Midfield,GD Chaves,700000.0,600000.0,South Africa,right,187.0
-Cafú Phete,2023,3,0,0,0,444,9,liga-portugal-bwin,False,1994-04-04,Defensive Midfield,GD Chaves,700000.0,350000.0,South Africa,right,187.0
+Caglar Söyüncü,2019,4,1,1,1,3037,34,premier-league,True,1996-05-23,Centre-Back,Fenerbahce,45000000.0,40000000.0,Türkiye,both,185.0
+Caglar Söyüncü,2020,2,0,1,0,1816,23,premier-league,True,1996-05-23,Centre-Back,Fenerbahce,45000000.0,45000000.0,Türkiye,both,185.0
+Caglar Söyüncü,2021,5,0,1,0,2498,28,premier-league,True,1996-05-23,Centre-Back,Fenerbahce,45000000.0,40000000.0,Türkiye,both,185.0
+Caglar Söyüncü,2022,2,0,1,0,529,7,premier-league,True,1996-05-23,Centre-Back,Fenerbahce,45000000.0,15000000.0,Türkiye,both,185.0
+Caglar Söyüncü,2023,0,1,0,0,110,6,laliga,True,1996-05-23,Centre-Back,Fenerbahce,45000000.0,10000000.0,Türkiye,both,185.0
 Caio Henrique,2020,0,0,0,5,2375,31,ligue-1,True,1997-07-31,Left-Back,AS Monaco,20000000.0,12000000.0,Brazil,left,178.0
 Caio Henrique,2021,5,0,2,9,2670,34,ligue-1,True,1997-07-31,Left-Back,AS Monaco,20000000.0,20000000.0,Brazil,left,178.0
 Caio Henrique,2022,3,0,1,9,2899,35,ligue-1,True,1997-07-31,Left-Back,AS Monaco,20000000.0,20000000.0,Brazil,left,178.0
@@ -2503,12 +2504,12 @@ Charlie Taylor,2021,3,0,0,3,2730,31,premier-league,True,1993-09-18,Left-Back,Bur
 Charlie Taylor,2023,8,0,1,1,2332,28,premier-league,True,1993-09-18,Left-Back,Burnley FC,7000000.0,3000000.0,England,left,183.0
 Charlys,2023,0,0,0,0,24,2,serie-a,True,2004-02-19,Defensive Midfield,Hellas Verona,100000.0,100000.0,Brazil,right,188.0
 Chaïm El Djebali,2023,0,0,0,0,11,1,ligue-1,True,2004-02-07,Central Midfield,Olympique Lyon,500000.0,300000.0,Tunisia,right,170.0
-Check Keita,2022,1,0,0,0,687,9,ligue-1,True,2003-04-02,Centre-Back,Stade Reims,1500000.0,1500000.0,France,right,185.0
 Cheick Doucouré,2020,8,0,2,1,2633,33,ligue-1,True,2000-01-08,Defensive Midfield,Crystal Palace,35000000.0,6000000.0,Mali,right,180.0
 Cheick Doucouré,2021,7,1,1,4,2948,34,ligue-1,True,2000-01-08,Defensive Midfield,Crystal Palace,35000000.0,15000000.0,Mali,right,180.0
 Cheick Doucouré,2022,10,0,0,3,2786,34,premier-league,True,2000-01-08,Defensive Midfield,Crystal Palace,35000000.0,35000000.0,Mali,right,180.0
 Cheick Doucouré,2023,2,0,0,0,922,11,premier-league,True,2000-01-08,Defensive Midfield,Crystal Palace,35000000.0,35000000.0,Mali,right,180.0
 Cheick Doukouré,2020,1,0,0,0,95,7,laliga,True,1992-09-11,Defensive Midfield,Aris Thessaloniki,1600000.0,600000.0,Cote d'Ivoire,right,180.0
+Cheick Keita,2022,1,0,0,0,687,9,ligue-1,True,2003-04-02,Centre-Back,Stade Reims,1500000.0,1500000.0,France,right,185.0
 Cheick Oumar Konaté,2022,2,0,0,0,572,9,ligue-1,True,2004-04-02,Right-Back,Clermont Foot 63,1500000.0,1000000.0,Mali,right,173.0
 Cheick Oumar Konaté,2023,4,0,1,1,1068,19,ligue-1,True,2004-04-02,Right-Back,Clermont Foot 63,1500000.0,1500000.0,Mali,right,173.0
 Cheick Souaré,2020,0,0,0,0,9,1,ligue-1,True,2002-09-03,Central Midfield,Olympique Marseille,300000.0,150000.0,France,left,185.0
@@ -2566,11 +2567,6 @@ Chiquinho,2021,5,0,3,3,840,15,liga-portugal-bwin,False,2000-02-05,Left Winger,FC
 Chiquinho,2022,2,0,1,1,1368,25,liga-portugal-bwin,False,1995-07-19,Central Midfield,Olympiacos Piraeus,9000000.0,6000000.0,Portugal,right,175.0
 Chiquinho,2023,1,0,0,0,185,9,liga-portugal-bwin,False,1995-07-19,Central Midfield,Olympiacos Piraeus,9000000.0,4000000.0,Portugal,right,175.0
 Chiquinho,2023,10,1,5,4,1735,27,liga-portugal-bwin,False,2000-02-05,Left Winger,FC Famalicão,3000000.0,3000000.0,Portugal,right,179.0
-Choco Lozano,2020,5,0,3,2,1525,29,laliga,True,1993-04-25,Centre-Forward,UD Almería,4000000.0,2200000.0,Honduras,right,183.0
-Choco Lozano,2021,8,0,7,4,1675,31,laliga,True,1993-04-25,Centre-Forward,UD Almería,4000000.0,4000000.0,Honduras,right,183.0
-Choco Lozano,2022,6,0,1,1,1440,28,laliga,True,1993-04-25,Centre-Forward,UD Almería,4000000.0,2500000.0,Honduras,right,183.0
-Choco Lozano,2023,1,0,3,0,779,13,laliga,True,1993-04-25,Centre-Forward,UD Almería,4000000.0,1200000.0,Honduras,right,183.0
-Choco Lozano,2023,1,0,0,0,90,6,laliga,True,1993-04-25,Centre-Forward,UD Almería,4000000.0,1200000.0,Honduras,right,183.0
 Chris Basham,2019,4,0,0,1,3255,38,premier-league,True,1988-07-20,Centre-Back,Sheffield United,3000000.0,3000000.0,England,right,190.0
 Chris Basham,2020,5,0,0,1,2586,31,premier-league,True,1988-07-20,Centre-Back,Sheffield United,3000000.0,2000000.0,England,right,190.0
 Chris Basham,2023,1,0,0,0,318,8,premier-league,True,1988-07-20,Centre-Back,Sheffield United,3000000.0,300000.0,England,right,190.0
@@ -2649,9 +2645,9 @@ Christian Kühlwetter,2023,0,0,0,1,7,1,bundesliga,True,1996-04-21,Centre-Forward
 Christian Maggio,2020,2,0,0,0,293,8,serie-a,True,1982-02-11,Right-Back,Benevento Calcio,12000000.0,300000.0,Italy,right,184.0
 Christian Mawissa,2022,1,0,0,0,97,2,ligue-1,True,2005-04-18,Centre-Back,FC Toulouse,9000000.0,250000.0,France,left,180.0
 Christian Mawissa,2023,3,0,2,0,1116,17,ligue-1,True,2005-04-18,Centre-Back,FC Toulouse,9000000.0,9000000.0,France,left,180.0
-Christian Nørgaard,2021,8,0,3,4,3059,35,premier-league,True,1994-03-10,Defensive Midfield,Brentford FC,20000000.0,14000000.0,Denmark,right,187.0
-Christian Nørgaard,2022,6,0,1,4,1770,22,premier-league,True,1994-03-10,Defensive Midfield,Brentford FC,20000000.0,16000000.0,Denmark,right,187.0
-Christian Nørgaard,2023,8,0,2,1,2514,31,premier-league,True,1994-03-10,Defensive Midfield,Brentford FC,20000000.0,18000000.0,Denmark,right,187.0
+Christian Nörgaard,2021,8,0,3,4,3059,35,premier-league,True,1994-03-10,Defensive Midfield,Brentford FC,20000000.0,14000000.0,Denmark,right,187.0
+Christian Nörgaard,2022,6,0,1,4,1770,22,premier-league,True,1994-03-10,Defensive Midfield,Brentford FC,20000000.0,16000000.0,Denmark,right,187.0
+Christian Nörgaard,2023,8,0,2,1,2514,31,premier-league,True,1994-03-10,Defensive Midfield,Brentford FC,20000000.0,18000000.0,Denmark,right,187.0
 Christian Oliva,2019,1,0,1,1,463,11,serie-a,True,1996-06-01,Defensive Midfield,Cagliari Calcio,5000000.0,4000000.0,Uruguay,right,178.0
 Christian Oliva,2020,0,0,0,2,192,9,laliga,True,1996-06-01,Defensive Midfield,Cagliari Calcio,5000000.0,4000000.0,Uruguay,right,178.0
 Christian Oliva,2020,2,0,0,1,386,10,serie-a,True,1996-06-01,Defensive Midfield,Cagliari Calcio,5000000.0,4000000.0,Uruguay,right,178.0
@@ -3006,9 +3002,9 @@ Dan Burn,2022,5,0,1,0,3116,38,premier-league,True,1992-05-09,Left-Back,Newcastle
 Dan Burn,2023,4,0,2,2,2732,33,premier-league,True,1992-05-09,Left-Back,Newcastle United,12000000.0,8000000.0,England,left,201.0
 Dan Gosling,2019,3,0,3,1,1260,24,premier-league,True,1990-02-01,Central Midfield,Watford FC,3500000.0,2000000.0,England,right,180.0
 Dan Gosling,2021,0,0,1,0,164,4,premier-league,True,1990-02-01,Central Midfield,Watford FC,3500000.0,1000000.0,England,right,180.0
+Dan N'Lundulu,2020,0,0,0,0,102,13,premier-league,True,1999-02-05,Centre-Forward,Southampton FC,1500000.0,1500000.0,England,right,185.0
 Dan Ndoye,2020,0,0,1,1,530,28,ligue-1,True,2000-10-25,Right Winger,Bologna FC 1909,22000000.0,4000000.0,Switzerland,right,184.0
 Dan Ndoye,2023,4,0,1,2,1776,32,serie-a,True,2000-10-25,Right Winger,Bologna FC 1909,22000000.0,22000000.0,Switzerland,right,184.0
-Dan Nlundulu,2020,0,0,0,0,102,13,premier-league,True,1999-02-05,Centre-Forward,Southampton FC,1500000.0,1500000.0,England,right,185.0
 Dan-Axel Zagadou,2019,1,0,1,1,980,15,bundesliga,True,1999-06-03,Centre-Back,VfB Stuttgart,35000000.0,31500000.0,France,left,196.0
 Dan-Axel Zagadou,2020,0,0,0,0,273,9,bundesliga,True,1999-06-03,Centre-Back,VfB Stuttgart,35000000.0,18000000.0,France,left,196.0
 Dan-Axel Zagadou,2021,2,0,0,0,950,15,bundesliga,True,1999-06-03,Centre-Back,VfB Stuttgart,35000000.0,9000000.0,France,left,196.0
@@ -3288,6 +3284,10 @@ David Carmo,2021,3,0,0,0,994,12,liga-portugal-bwin,False,1999-07-19,Centre-Back,
 David Carmo,2022,1,0,0,0,634,9,liga-portugal-bwin,False,1999-07-19,Centre-Back,Olympiacos Piraeus,20000000.0,14000000.0,Angola,left,196.0
 David Carmo,2023,6,0,0,0,610,7,liga-portugal-bwin,False,1999-07-19,Centre-Back,Olympiacos Piraeus,20000000.0,12000000.0,Angola,left,196.0
 David Colina,2022,0,0,1,0,160,7,bundesliga,True,2000-07-19,Left-Back,Vejle Boldklub,1500000.0,1500000.0,Croatia,left,174.0
+David Costa,2020,0,0,1,1,145,7,ligue-1,True,2001-01-05,Attacking Midfield,RC Lens,10000000.0,800000.0,Portugal,right,168.0
+David Costa,2021,2,0,3,5,1463,33,ligue-1,True,2001-01-05,Attacking Midfield,RC Lens,10000000.0,4500000.0,Portugal,right,168.0
+David Costa,2022,2,0,1,3,1408,31,ligue-1,True,2001-01-05,Attacking Midfield,RC Lens,10000000.0,8000000.0,Portugal,right,168.0
+David Costa,2023,3,0,4,3,1499,25,ligue-1,True,2001-01-05,Attacking Midfield,RC Lens,10000000.0,8000000.0,Portugal,right,168.0
 David Costas,2019,1,0,0,0,335,6,laliga,True,1995-03-26,Centre-Back,Celta de Vigo,3500000.0,1600000.0,Spain,right,184.0
 David Datro Fofana,2022,0,0,0,0,68,3,premier-league,True,2002-12-22,Centre-Forward,1.FC Union Berlin,12000000.0,10000000.0,Cote d'Ivoire,right,180.0
 David Datro Fofana,2023,0,0,1,0,688,12,bundesliga,True,2002-12-22,Centre-Forward,1.FC Union Berlin,12000000.0,12000000.0,Cote d'Ivoire,right,180.0
@@ -3323,10 +3323,6 @@ David Okereke,2023,0,0,0,0,248,9,serie-a,True,1997-08-29,Centre-Forward,Torino F
 David Ospina,2019,0,0,0,0,1380,16,serie-a,True,1988-08-31,Goalkeeper,SSC Napoli,8000000.0,2800000.0,Colombia,right,183.0
 David Ospina,2020,2,0,0,1,1530,17,serie-a,True,1988-08-31,Goalkeeper,SSC Napoli,8000000.0,5000000.0,Colombia,right,183.0
 David Ospina,2021,1,0,0,0,2790,31,serie-a,True,1988-08-31,Goalkeeper,SSC Napoli,8000000.0,5000000.0,Colombia,right,183.0
-David Pereira da Costa,2020,0,0,1,1,145,7,ligue-1,True,2001-01-05,Attacking Midfield,RC Lens,10000000.0,800000.0,Portugal,right,168.0
-David Pereira da Costa,2021,2,0,3,5,1463,33,ligue-1,True,2001-01-05,Attacking Midfield,RC Lens,10000000.0,4500000.0,Portugal,right,168.0
-David Pereira da Costa,2022,2,0,1,3,1408,31,ligue-1,True,2001-01-05,Attacking Midfield,RC Lens,10000000.0,8000000.0,Portugal,right,168.0
-David Pereira da Costa,2023,3,0,4,3,1499,25,ligue-1,True,2001-01-05,Attacking Midfield,RC Lens,10000000.0,8000000.0,Portugal,right,168.0
 David Raum,2021,5,0,3,13,2761,32,bundesliga,True,1998-04-22,Left-Back,RB Leipzig,26000000.0,20000000.0,Germany,left,180.0
 David Raum,2022,5,0,0,2,1688,28,bundesliga,True,1998-04-22,Left-Back,RB Leipzig,26000000.0,14000000.0,Germany,left,180.0
 David Raum,2023,6,0,2,10,2745,31,bundesliga,True,1998-04-22,Left-Back,RB Leipzig,26000000.0,20000000.0,Germany,left,180.0
@@ -3491,7 +3487,7 @@ Denis Bouanga,2021,4,1,9,6,2448,34,ligue-1,True,1994-11-11,Left Winger,AS Saint-
 Denis Cheryshev,2019,5,0,1,2,919,24,laliga,True,1990-12-26,Left Winger,Valencia CF,10000000.0,4800000.0,Russia,left,179.0
 Denis Cheryshev,2020,3,0,0,3,1106,21,laliga,True,1990-12-26,Left Winger,Valencia CF,10000000.0,3500000.0,Russia,left,179.0
 Denis Cheryshev,2021,1,0,0,2,541,16,laliga,True,1990-12-26,Left Winger,Valencia CF,10000000.0,2500000.0,Russia,left,179.0
-Denis Drăguș,2020,1,0,0,0,171,9,serie-a,True,1999-07-06,Centre-Forward,Gaziantep FK,4000000.0,900000.0,Romania,right,185.0
+Denis Dragus,2020,1,0,0,0,171,9,serie-a,True,1999-07-06,Centre-Forward,Gaziantep FK,4000000.0,900000.0,Romania,right,185.0
 Denis Genreau,2022,3,0,0,1,652,20,ligue-1,True,1999-05-21,Attacking Midfield,FC Toulouse,2000000.0,1500000.0,Australia,right,175.0
 Denis Genreau,2023,0,0,0,0,464,9,ligue-1,True,1999-05-21,Attacking Midfield,FC Toulouse,2000000.0,1500000.0,Australia,right,175.0
 Denis Huseinbasic,2022,3,0,4,1,777,24,bundesliga,True,2001-07-03,Central Midfield,1.FC Köln,5000000.0,5000000.0,Bosnia-Herzegovina,right,184.0
@@ -3869,18 +3865,18 @@ Duje Caleta-Car,2021,6,0,2,1,2061,26,ligue-1,True,1996-09-17,Centre-Back,Olympiq
 Duje Caleta-Car,2022,2,0,1,0,944,13,premier-league,True,1996-09-17,Centre-Back,Olympique Lyon,25000000.0,11000000.0,Croatia,right,193.0
 Duje Caleta-Car,2022,0,0,0,0,7,1,ligue-1,True,1996-09-17,Centre-Back,Olympique Lyon,25000000.0,11000000.0,Croatia,right,193.0
 Duje Caleta-Car,2023,2,1,0,0,1992,24,ligue-1,True,1996-09-17,Centre-Back,Olympique Lyon,25000000.0,7000000.0,Croatia,right,193.0
+Dusan Vlahovic,2019,4,1,6,1,1454,29,serie-a,True,2000-01-28,Centre-Forward,Juventus FC,85000000.0,16000000.0,Serbia,left,190.0
+Dusan Vlahovic,2020,1,0,21,2,2997,38,serie-a,True,2000-01-28,Centre-Forward,Juventus FC,85000000.0,40000000.0,Serbia,left,190.0
+Dusan Vlahovic,2021,2,0,17,4,1861,21,serie-a,True,2000-01-28,Centre-Forward,Juventus FC,85000000.0,85000000.0,Serbia,left,190.0
+Dusan Vlahovic,2021,2,0,7,1,1079,15,serie-a,True,2000-01-28,Centre-Forward,Juventus FC,85000000.0,85000000.0,Serbia,left,190.0
+Dusan Vlahovic,2022,1,0,10,2,1932,27,serie-a,True,2000-01-28,Centre-Forward,Juventus FC,85000000.0,70000000.0,Serbia,left,190.0
+Dusan Vlahovic,2023,8,0,16,3,2319,33,serie-a,True,2000-01-28,Centre-Forward,Juventus FC,85000000.0,65000000.0,Serbia,left,190.0
 Duván Zapata,2019,1,0,18,7,1946,27,serie-a,True,1991-04-01,Centre-Forward,Torino FC,45000000.0,36000000.0,Colombia,right,188.0
 Duván Zapata,2020,0,0,15,10,2482,38,serie-a,True,1991-04-01,Centre-Forward,Torino FC,45000000.0,33000000.0,Colombia,right,188.0
 Duván Zapata,2021,4,0,10,5,1732,24,serie-a,True,1991-04-01,Centre-Forward,Torino FC,45000000.0,28000000.0,Colombia,right,188.0
 Duván Zapata,2022,1,0,2,3,1393,25,serie-a,True,1991-04-01,Centre-Forward,Torino FC,45000000.0,8000000.0,Colombia,right,188.0
 Duván Zapata,2023,2,0,12,4,2892,35,serie-a,True,1991-04-01,Centre-Forward,Torino FC,45000000.0,8000000.0,Colombia,right,188.0
 Duván Zapata,2023,0,0,1,0,113,2,serie-a,True,1991-04-01,Centre-Forward,Torino FC,45000000.0,8000000.0,Colombia,right,188.0
-Dušan Vlahović,2019,4,1,6,1,1454,29,serie-a,True,2000-01-28,Centre-Forward,Juventus FC,85000000.0,16000000.0,Serbia,left,190.0
-Dušan Vlahović,2020,1,0,21,2,2997,38,serie-a,True,2000-01-28,Centre-Forward,Juventus FC,85000000.0,40000000.0,Serbia,left,190.0
-Dušan Vlahović,2021,2,0,17,4,1861,21,serie-a,True,2000-01-28,Centre-Forward,Juventus FC,85000000.0,85000000.0,Serbia,left,190.0
-Dušan Vlahović,2021,2,0,7,1,1079,15,serie-a,True,2000-01-28,Centre-Forward,Juventus FC,85000000.0,85000000.0,Serbia,left,190.0
-Dušan Vlahović,2022,1,0,10,2,1932,27,serie-a,True,2000-01-28,Centre-Forward,Juventus FC,85000000.0,70000000.0,Serbia,left,190.0
-Dušan Vlahović,2023,8,0,16,3,2319,33,serie-a,True,2000-01-28,Centre-Forward,Juventus FC,85000000.0,65000000.0,Serbia,left,190.0
 Dwight Gayle,2019,2,0,4,2,848,20,premier-league,True,1989-10-17,Centre-Forward,Newcastle United,15000000.0,9500000.0,England,right,174.0
 Dwight Gayle,2020,0,0,1,1,504,18,premier-league,True,1989-10-17,Centre-Forward,Newcastle United,15000000.0,4000000.0,England,right,174.0
 Dwight Gayle,2021,1,0,0,0,34,8,premier-league,True,1989-10-17,Centre-Forward,Newcastle United,15000000.0,1500000.0,England,right,174.0
@@ -4166,8 +4162,8 @@ Emiliano Rigoni,2020,5,0,1,1,1123,22,laliga,True,1993-02-04,Right Winger,Zenit S
 Emilijus Zubas,2021,0,0,0,0,90,1,liga-portugal-bwin,False,1990-07-10,Goalkeeper,FC Arouca,650000.0,250000.0,Lithuania,right,191.0
 Emilijus Zubas,2022,1,0,0,0,270,3,liga-portugal-bwin,False,1990-07-10,Goalkeeper,FC Arouca,650000.0,250000.0,Lithuania,right,191.0
 Emir Karic,2023,4,0,0,0,1782,27,bundesliga,True,1997-06-09,Left-Back,SV Darmstadt 98,1000000.0,1000000.0,Austria,left,184.0
-Emirhan İlkhan,2022,1,0,0,0,87,4,serie-a,True,2004-06-01,Central Midfield,Torino FC,4500000.0,4000000.0,Türkiye,right,175.0
-Emirhan İlkhan,2022,0,0,0,0,105,8,serie-a,True,2004-06-01,Central Midfield,Torino FC,4500000.0,4000000.0,Türkiye,right,175.0
+Emirhan Ilkhan,2022,1,0,0,0,87,4,serie-a,True,2004-06-01,Central Midfield,Torino FC,4500000.0,4000000.0,Türkiye,right,175.0
+Emirhan Ilkhan,2022,0,0,0,0,105,8,serie-a,True,2004-06-01,Central Midfield,Torino FC,4500000.0,4000000.0,Türkiye,right,175.0
 Emmanuel Agbadou,2022,5,3,0,3,2389,29,ligue-1,True,1997-06-17,Centre-Back,Stade Reims,9000000.0,7500000.0,Cote d'Ivoire,right,192.0
 Emmanuel Agbadou,2023,1,0,1,1,2595,32,ligue-1,True,1997-06-17,Centre-Back,Stade Reims,9000000.0,9000000.0,Cote d'Ivoire,right,192.0
 Emmanuel Badu,2019,2,0,0,0,225,10,serie-a,True,1990-12-02,Central Midfield,Hellas Verona,6000000.0,950000.0,Ghana,right,173.0
@@ -4277,11 +4273,11 @@ Eric García,2023,1,0,0,0,56,2,laliga,True,2001-01-09,Centre-Back,Girona FC,2000
 Eric García,2023,3,0,5,0,2641,30,laliga,True,2001-01-09,Centre-Back,Girona FC,20000000.0,20000000.0,Spain,right,182.0
 Eric Martel,2022,6,0,1,1,2019,29,bundesliga,True,2002-04-29,Defensive Midfield,1.FC Köln,9000000.0,9000000.0,Germany,right,188.0
 Eric Martel,2023,6,0,1,2,2465,30,bundesliga,True,2002-04-29,Defensive Midfield,1.FC Köln,9000000.0,7500000.0,Germany,right,188.0
-Eric-Maxim Choupo-Moting,2019,0,0,3,1,451,9,ligue-1,True,1989-03-23,Centre-Forward,Bayern Munich,10000000.0,4000000.0,Cameroon,right,191.0
-Eric-Maxim Choupo-Moting,2020,2,0,3,0,812,22,bundesliga,True,1989-03-23,Centre-Forward,Bayern Munich,10000000.0,3500000.0,Cameroon,right,191.0
-Eric-Maxim Choupo-Moting,2021,0,0,4,2,361,20,bundesliga,True,1989-03-23,Centre-Forward,Bayern Munich,10000000.0,3000000.0,Cameroon,right,191.0
-Eric-Maxim Choupo-Moting,2022,0,0,10,2,1116,19,bundesliga,True,1989-03-23,Centre-Forward,Bayern Munich,10000000.0,5000000.0,Cameroon,right,191.0
-Eric-Maxim Choupo-Moting,2023,2,0,2,3,709,27,bundesliga,True,1989-03-23,Centre-Forward,Bayern Munich,10000000.0,2500000.0,Cameroon,right,191.0
+Eric Maxim Choupo-Moting,2019,0,0,3,1,451,9,ligue-1,True,1989-03-23,Centre-Forward,Bayern Munich,10000000.0,4000000.0,Cameroon,right,191.0
+Eric Maxim Choupo-Moting,2020,2,0,3,0,812,22,bundesliga,True,1989-03-23,Centre-Forward,Bayern Munich,10000000.0,3500000.0,Cameroon,right,191.0
+Eric Maxim Choupo-Moting,2021,0,0,4,2,361,20,bundesliga,True,1989-03-23,Centre-Forward,Bayern Munich,10000000.0,3000000.0,Cameroon,right,191.0
+Eric Maxim Choupo-Moting,2022,0,0,10,2,1116,19,bundesliga,True,1989-03-23,Centre-Forward,Bayern Munich,10000000.0,5000000.0,Cameroon,right,191.0
+Eric Maxim Choupo-Moting,2023,2,0,2,3,709,27,bundesliga,True,1989-03-23,Centre-Forward,Bayern Munich,10000000.0,2500000.0,Cameroon,right,191.0
 Erick,2019,0,0,0,0,332,8,liga-portugal-bwin,False,1997-12-10,Right Winger,Gil Vicente FC,1200000.0,300000.0,Brazil,left,173.0
 Erick Cabaco,2019,4,0,0,0,808,11,laliga,True,1995-04-19,Centre-Back,GD Estoril Praia,5000000.0,4000000.0,Uruguay,right,185.0
 Erick Cabaco,2019,0,0,0,0,268,4,laliga,True,1995-04-19,Centre-Back,GD Estoril Praia,5000000.0,4000000.0,Uruguay,right,185.0
@@ -4413,12 +4409,12 @@ Fabian Schär,2021,4,0,2,2,2161,25,premier-league,True,1991-12-20,Centre-Back,Ne
 Fabian Schär,2022,7,0,1,3,3210,36,premier-league,True,1991-12-20,Centre-Back,Newcastle United,16000000.0,10000000.0,Switzerland,right,186.0
 Fabian Schär,2023,5,0,4,1,3056,36,premier-league,True,1991-12-20,Centre-Back,Newcastle United,16000000.0,10000000.0,Switzerland,right,186.0
 Fabiano,2019,10,0,0,2,2231,27,liga-portugal-bwin,False,1991-11-18,Centre-Back,Aris Thessaloniki,1500000.0,1000000.0,Brazil,right,188.0
-Fabiano,2021,6,0,0,1,1421,27,liga-portugal-bwin,False,2000-03-14,Right-Back,Moreirense FC,3500000.0,2500000.0,Brazil,right,175.0
-Fabiano,2022,5,0,0,0,966,12,liga-portugal-bwin,False,2000-03-14,Right-Back,Moreirense FC,3500000.0,3000000.0,Brazil,right,175.0
-Fabiano,2023,5,0,1,2,2130,25,liga-portugal-bwin,False,2000-03-14,Right-Back,Moreirense FC,3500000.0,3000000.0,Brazil,right,175.0
 Fabiano Parisi,2021,5,0,0,1,1475,25,serie-a,True,2000-11-09,Left-Back,ACF Fiorentina,10000000.0,4500000.0,Italy,left,178.0
 Fabiano Parisi,2022,10,1,2,2,2834,33,serie-a,True,2000-11-09,Left-Back,ACF Fiorentina,10000000.0,10000000.0,Italy,left,178.0
 Fabiano Parisi,2023,4,0,0,1,1451,21,serie-a,True,2000-11-09,Left-Back,ACF Fiorentina,10000000.0,9500000.0,Italy,left,178.0
+Fabiano Silva,2021,6,0,0,1,1421,27,liga-portugal-bwin,False,2000-03-14,Right-Back,Moreirense FC,3500000.0,2500000.0,Brazil,right,175.0
+Fabiano Silva,2022,5,0,0,0,966,12,liga-portugal-bwin,False,2000-03-14,Right-Back,Moreirense FC,3500000.0,3000000.0,Brazil,right,175.0
+Fabiano Silva,2023,5,0,1,2,2130,25,liga-portugal-bwin,False,2000-03-14,Right-Back,Moreirense FC,3500000.0,3000000.0,Brazil,right,175.0
 Fabien Centonze,2019,3,0,0,3,2520,28,ligue-1,True,1996-01-16,Right-Back,Hellas Verona,8000000.0,4000000.0,France,right,182.0
 Fabien Centonze,2020,9,0,1,0,3222,36,ligue-1,True,1996-01-16,Right-Back,Hellas Verona,8000000.0,8000000.0,France,right,182.0
 Fabien Centonze,2021,3,0,4,1,1587,19,ligue-1,True,1996-01-16,Right-Back,Hellas Verona,8000000.0,7000000.0,France,right,182.0
@@ -4625,7 +4621,6 @@ Felipe,2021,5,1,2,1,1498,26,laliga,True,1989-05-16,Centre-Back,Nottingham Forest
 Felipe,2022,0,0,0,0,193,3,laliga,True,1989-05-16,Centre-Back,Nottingham Forest,32000000.0,2000000.0,Brazil,right,190.0
 Felipe,2022,4,0,0,1,1419,16,premier-league,True,1989-05-16,Centre-Back,Nottingham Forest,32000000.0,2000000.0,Brazil,right,190.0
 Felipe,2023,3,0,0,0,373,7,premier-league,True,1989-05-16,Centre-Back,Nottingham Forest,32000000.0,1500000.0,Brazil,right,190.0
-Felipe Abner,2020,4,0,0,1,1226,14,liga-portugal-bwin,False,1996-05-30,Left-Back,RWD Molenbeek,900000.0,300000.0,Brazil,left,180.0
 Felipe Anderson,2019,1,0,1,4,1505,25,premier-league,True,1993-04-15,Left Winger,SS Lazio,45000000.0,25000000.0,Brazil,right,175.0
 Felipe Anderson,2020,0,0,0,0,2,2,premier-league,True,1993-04-15,Left Winger,SS Lazio,45000000.0,10000000.0,Brazil,right,175.0
 Felipe Anderson,2020,0,0,0,0,126,5,liga-portugal-bwin,False,1993-04-15,Left Winger,SS Lazio,45000000.0,10000000.0,Brazil,right,175.0
@@ -4739,8 +4734,8 @@ Filip Djuricic,2022,9,0,3,0,2187,32,serie-a,True,1992-01-30,Attacking Midfield,P
 Filip Jagiello,2019,0,0,0,1,471,10,serie-a,True,1997-08-08,Central Midfield,Genoa CFC,2300000.0,1200000.0,Poland,both,180.0
 Filip Jagiello,2020,0,0,0,1,83,1,serie-a,True,1997-08-08,Central Midfield,Genoa CFC,2300000.0,2300000.0,Poland,both,180.0
 Filip Jagiello,2023,0,0,0,0,32,2,serie-a,True,1997-08-08,Central Midfield,Genoa CFC,2300000.0,1100000.0,Poland,both,180.0
-Filip Jørgensen,2022,0,0,0,0,180,2,laliga,True,2002-04-16,Goalkeeper,Villarreal CF,20000000.0,1500000.0,Denmark,right,190.0
-Filip Jørgensen,2023,4,0,0,0,3240,36,laliga,True,2002-04-16,Goalkeeper,Villarreal CF,20000000.0,20000000.0,Denmark,right,190.0
+Filip Jörgensen,2022,0,0,0,0,180,2,laliga,True,2002-04-16,Goalkeeper,Villarreal CF,20000000.0,1500000.0,Denmark,right,190.0
+Filip Jörgensen,2023,4,0,0,0,3240,36,laliga,True,2002-04-16,Goalkeeper,Villarreal CF,20000000.0,20000000.0,Denmark,right,190.0
 Filip Kostić,2019,4,0,4,12,2959,33,bundesliga,True,1992-11-01,Left Midfield,Juventus FC,40000000.0,32000000.0,Serbia,left,184.0
 Filip Kostić,2020,4,0,4,17,2536,30,bundesliga,True,1992-11-01,Left Midfield,Juventus FC,40000000.0,35000000.0,Serbia,left,184.0
 Filip Kostić,2021,2,0,4,9,2524,31,bundesliga,True,1992-11-01,Left Midfield,Juventus FC,40000000.0,24000000.0,Serbia,left,184.0
@@ -5257,7 +5252,7 @@ George Baldock,2020,7,0,0,2,2789,32,premier-league,True,1993-03-09,Right-Back,Sh
 George Baldock,2023,4,0,0,1,970,13,premier-league,True,1993-03-09,Right-Back,Sheffield United,6500000.0,2500000.0,Greece,right,178.0
 George Bello,2021,0,0,0,0,427,10,bundesliga,True,2002-01-22,Left-Back,Arminia Bielefeld,4000000.0,3000000.0,United States,left,170.0
 George Hirst,2019,0,0,0,0,9,2,premier-league,True,1999-02-15,Centre-Forward,Leicester City,1800000.0,450000.0,England,right,191.0
-George Pușcaș,2023,0,0,0,0,185,8,serie-a,True,1996-04-08,Centre-Forward,Genoa CFC,6000000.0,1500000.0,Romania,right,188.0
+George Puscas,2023,0,0,0,0,185,8,serie-a,True,1996-04-08,Centre-Forward,Genoa CFC,6000000.0,1500000.0,Romania,right,188.0
 Georges Mikautadze,2021,0,0,0,0,1,1,ligue-1,True,2000-10-31,Centre-Forward,Ajax Amsterdam,20000000.0,2200000.0,Georgia,right,176.0
 Georges Mikautadze,2023,1,0,13,4,1755,20,ligue-1,True,2000-10-31,Centre-Forward,Ajax Amsterdam,20000000.0,20000000.0,Georgia,right,176.0
 Georges-Kevin N'Koudou,2019,0,0,0,0,2,1,premier-league,True,1995-02-13,Left Winger,Besiktas JK,8000000.0,3500000.0,Cameroon,right,172.0
@@ -5683,18 +5678,18 @@ Habib Sylla,2022,4,0,0,0,619,9,liga-portugal-bwin,False,1999-02-12,Right-Back,GD
 Habib Sylla,2023,2,0,0,0,400,7,liga-portugal-bwin,False,1999-02-12,Right-Back,GD Chaves,250000.0,250000.0,Cote d'Ivoire,right,178.0
 Haissem Hassan,2022,0,0,0,0,50,2,laliga,True,2002-02-08,Right Winger,Villarreal CF,2000000.0,1500000.0,France,left,178.0
 Haitam Aleesami,2019,4,0,1,1,1916,22,ligue-1,True,1991-07-31,Left-Back,FC Rostov,1800000.0,1200000.0,Norway,left,183.0
-Hakan Çalhanoğlu,2019,6,0,9,9,2652,34,serie-a,True,1994-02-08,Defensive Midfield,Inter Milan,45000000.0,14500000.0,Türkiye,right,178.0
-Hakan Çalhanoğlu,2020,4,0,4,10,2693,34,serie-a,True,1994-02-08,Defensive Midfield,Inter Milan,45000000.0,35000000.0,Türkiye,right,178.0
-Hakan Çalhanoğlu,2021,11,0,7,13,2505,34,serie-a,True,1994-02-08,Defensive Midfield,Inter Milan,45000000.0,35000000.0,Türkiye,right,178.0
-Hakan Çalhanoğlu,2022,3,0,3,6,2374,33,serie-a,True,1994-02-08,Defensive Midfield,Inter Milan,45000000.0,40000000.0,Türkiye,right,178.0
-Hakan Çalhanoğlu,2023,5,0,13,3,2576,32,serie-a,True,1994-02-08,Defensive Midfield,Inter Milan,45000000.0,45000000.0,Türkiye,right,178.0
+Hakan Calhanoglu,2019,6,0,9,9,2652,34,serie-a,True,1994-02-08,Defensive Midfield,Inter Milan,45000000.0,14500000.0,Türkiye,right,178.0
+Hakan Calhanoglu,2020,4,0,4,10,2693,34,serie-a,True,1994-02-08,Defensive Midfield,Inter Milan,45000000.0,35000000.0,Türkiye,right,178.0
+Hakan Calhanoglu,2021,11,0,7,13,2505,34,serie-a,True,1994-02-08,Defensive Midfield,Inter Milan,45000000.0,35000000.0,Türkiye,right,178.0
+Hakan Calhanoglu,2022,3,0,3,6,2374,33,serie-a,True,1994-02-08,Defensive Midfield,Inter Milan,45000000.0,40000000.0,Türkiye,right,178.0
+Hakan Calhanoglu,2023,5,0,13,3,2576,32,serie-a,True,1994-02-08,Defensive Midfield,Inter Milan,45000000.0,45000000.0,Türkiye,right,178.0
 Hakim Ouro-Sama,2019,0,0,0,0,51,4,liga-portugal-bwin,False,1997-12-28,Centre-Back,B SAD,200000.0,200000.0,Togo,right,185.0
 Hakim Ziyech,2020,3,0,2,3,1177,23,premier-league,True,1993-03-19,Right Winger,Galatasaray,50000000.0,38000000.0,Morocco,left,180.0
 Hakim Ziyech,2021,3,0,4,3,1316,23,premier-league,True,1993-03-19,Right Winger,Galatasaray,50000000.0,28000000.0,Morocco,left,180.0
 Hakim Ziyech,2022,1,0,0,3,653,18,premier-league,True,1993-03-19,Right Winger,Galatasaray,50000000.0,16000000.0,Morocco,left,180.0
 Hal Robson-Kanu,2020,2,0,2,0,547,19,premier-league,True,1989-05-21,Centre-Forward,West Bromwich Albion,3000000.0,1500000.0,Wales,left,183.0
 Halid Sabanovic,2022,1,1,2,0,637,15,ligue-1,True,1999-08-22,Right-Back,Angers SCO,800000.0,700000.0,Bosnia-Herzegovina,right,182.0
-Halil Dervişoğlu,2022,0,0,0,0,7,1,premier-league,True,1999-12-08,Centre-Forward,Hatayspor,4300000.0,2000000.0,Türkiye,right,183.0
+Halil Dervisoglu,2022,0,0,0,0,7,1,premier-league,True,1999-12-08,Centre-Forward,Hatayspor,4300000.0,2000000.0,Türkiye,right,183.0
 Hamadi Al Ghaddioui,2020,0,0,0,0,40,6,bundesliga,True,1990-09-22,Centre-Forward,VfB Stuttgart,850000.0,500000.0,Morocco,right,190.0
 Hamari Traoré,2019,7,0,0,5,2413,27,ligue-1,True,1992-01-27,Right-Back,Real Sociedad,10000000.0,4800000.0,Mali,right,175.0
 Hamari Traoré,2020,4,0,1,1,3003,35,ligue-1,True,1992-01-27,Right-Back,Real Sociedad,10000000.0,8000000.0,Mali,right,175.0
@@ -5833,12 +5828,12 @@ Henry Onyekuru,2020,0,0,0,1,139,4,ligue-1,True,1997-06-05,Left Winger,Adana Demi
 Herbert Bockhorn,2021,1,0,0,0,818,18,bundesliga,True,1995-01-31,Right-Back,VfL Bochum,800000.0,800000.0,Germany,right,176.0
 Herculano Nabian,2021,1,0,0,0,59,5,liga-portugal-bwin,False,2004-01-25,Centre-Forward,FC Empoli,500000.0,500000.0,Portugal,right,182.0
 Herculano Nabian,2022,0,0,0,0,1,1,serie-a,True,2004-01-25,Centre-Forward,FC Empoli,500000.0,450000.0,Portugal,right,182.0
-Heri Tavares,2019,5,0,4,1,1452,27,liga-portugal-bwin,False,1997-02-19,Right Winger,GD Estoril Praia,3000000.0,2200000.0,Portugal,left,181.0
-Heri Tavares,2020,2,0,2,1,743,17,liga-portugal-bwin,False,1997-02-19,Right Winger,GD Estoril Praia,3000000.0,1200000.0,Portugal,left,181.0
-Heri Tavares,2020,0,0,0,0,40,4,ligue-1,True,1997-02-19,Right Winger,GD Estoril Praia,3000000.0,1200000.0,Portugal,left,181.0
-Heri Tavares,2021,2,0,1,0,755,16,liga-portugal-bwin,False,1997-02-19,Right Winger,GD Estoril Praia,3000000.0,1200000.0,Portugal,left,181.0
-Heri Tavares,2022,0,0,0,0,216,4,liga-portugal-bwin,False,1997-02-19,Right Winger,GD Estoril Praia,3000000.0,600000.0,Portugal,left,181.0
-Heri Tavares,2023,5,0,2,0,1246,32,liga-portugal-bwin,False,1997-02-19,Right Winger,GD Estoril Praia,3000000.0,500000.0,Portugal,left,181.0
+Heriberto Tavares,2019,5,0,4,1,1452,27,liga-portugal-bwin,False,1997-02-19,Right Winger,GD Estoril Praia,3000000.0,2200000.0,Portugal,left,181.0
+Heriberto Tavares,2020,2,0,2,1,743,17,liga-portugal-bwin,False,1997-02-19,Right Winger,GD Estoril Praia,3000000.0,1200000.0,Portugal,left,181.0
+Heriberto Tavares,2020,0,0,0,0,40,4,ligue-1,True,1997-02-19,Right Winger,GD Estoril Praia,3000000.0,1200000.0,Portugal,left,181.0
+Heriberto Tavares,2021,2,0,1,0,755,16,liga-portugal-bwin,False,1997-02-19,Right Winger,GD Estoril Praia,3000000.0,1200000.0,Portugal,left,181.0
+Heriberto Tavares,2022,0,0,0,0,216,4,liga-portugal-bwin,False,1997-02-19,Right Winger,GD Estoril Praia,3000000.0,600000.0,Portugal,left,181.0
+Heriberto Tavares,2023,5,0,2,0,1246,32,liga-portugal-bwin,False,1997-02-19,Right Winger,GD Estoril Praia,3000000.0,500000.0,Portugal,left,181.0
 Hernani,2019,10,0,0,3,2369,31,serie-a,True,1994-03-27,Central Midfield,Genoa CFC,6500000.0,3200000.0,Brazil,both,188.0
 Hernani,2020,11,0,7,4,2251,34,serie-a,True,1994-03-27,Central Midfield,Genoa CFC,6500000.0,6500000.0,Brazil,both,188.0
 Hernani,2021,0,0,0,0,680,18,serie-a,True,1994-03-27,Central Midfield,Genoa CFC,6500000.0,3000000.0,Brazil,both,188.0
@@ -6144,6 +6139,11 @@ Ilija Vukotic,2022,1,0,0,0,406,13,liga-portugal-bwin,False,1999-01-07,Defensive 
 Ilija Vukotic,2023,5,0,1,0,996,28,liga-portugal-bwin,False,1999-01-07,Defensive Midfield,Boavista FC,500000.0,400000.0,Montenegro,left,191.0
 Iliman Ndiaye,2020,0,0,0,0,11,1,premier-league,True,2000-03-06,Centre-Forward,Olympique Marseille,18000000.0,200000.0,Senegal,right,180.0
 Iliman Ndiaye,2023,0,1,3,5,1625,30,ligue-1,True,2000-03-06,Centre-Forward,Olympique Marseille,18000000.0,15000000.0,Senegal,right,180.0
+Ilkay Gündogan,2019,7,0,2,1,2017,31,premier-league,True,1990-10-24,Central Midfield,FC Barcelona,50000000.0,40000000.0,Germany,right,180.0
+Ilkay Gündogan,2020,1,0,13,3,2031,28,premier-league,True,1990-10-24,Central Midfield,FC Barcelona,50000000.0,40000000.0,Germany,right,180.0
+Ilkay Gündogan,2021,1,0,8,3,1855,27,premier-league,True,1990-10-24,Central Midfield,FC Barcelona,50000000.0,25000000.0,Germany,right,180.0
+Ilkay Gündogan,2022,0,0,8,5,2359,31,premier-league,True,1990-10-24,Central Midfield,FC Barcelona,50000000.0,20000000.0,Germany,right,180.0
+Ilkay Gündogan,2023,5,0,5,9,2998,36,laliga,True,1990-10-24,Central Midfield,FC Barcelona,50000000.0,15000000.0,Germany,right,180.0
 Illan Meslier,2020,0,0,0,0,3150,35,premier-league,True,2000-03-02,Goalkeeper,Leeds United,22000000.0,20000000.0,France,left,197.0
 Illan Meslier,2021,2,0,0,0,3385,38,premier-league,True,2000-03-02,Goalkeeper,Leeds United,22000000.0,20000000.0,France,left,197.0
 Illan Meslier,2022,3,0,0,0,3060,34,premier-league,True,2000-03-02,Goalkeeper,Leeds United,22000000.0,20000000.0,France,left,197.0
@@ -6158,6 +6158,12 @@ Imrân Louza,2020,4,1,7,3,2389,33,ligue-1,True,1999-05-01,Central Midfield,FC Lo
 Imrân Louza,2021,6,0,0,0,1420,20,premier-league,True,1999-05-01,Central Midfield,FC Lorient,12000000.0,9000000.0,Morocco,left,178.0
 Imrân Louza,2023,1,0,1,3,866,14,ligue-1,True,1999-05-01,Central Midfield,FC Lorient,12000000.0,7000000.0,Morocco,left,178.0
 Indiana Vassilev,2019,0,0,0,0,47,4,premier-league,True,2001-02-16,Attacking Midfield,Aston Villa,1500000.0,250000.0,United States,left,175.0
+Ionut Radu,2019,1,0,0,1,1530,17,serie-a,True,1997-05-28,Goalkeeper,AFC Bournemouth,15000000.0,9500000.0,Romania,right,188.0
+Ionut Radu,2020,0,0,0,0,135,2,serie-a,True,1997-05-28,Goalkeeper,AFC Bournemouth,15000000.0,6000000.0,Romania,right,188.0
+Ionut Radu,2021,0,0,0,0,90,1,serie-a,True,1997-05-28,Goalkeeper,AFC Bournemouth,15000000.0,3500000.0,Romania,right,188.0
+Ionut Radu,2022,0,0,0,0,1530,17,ligue-1,True,1997-05-28,Goalkeeper,AFC Bournemouth,15000000.0,3500000.0,Romania,right,188.0
+Ionut Radu,2022,0,0,0,0,810,9,serie-a,True,1997-05-28,Goalkeeper,AFC Bournemouth,15000000.0,3500000.0,Romania,right,188.0
+Ionut Radu,2023,0,0,0,0,180,2,premier-league,True,1997-05-28,Goalkeeper,AFC Bournemouth,15000000.0,3000000.0,Romania,right,188.0
 Iron Gomis,2023,0,0,0,0,130,5,serie-a,True,1999-11-09,Attacking Midfield,Kasimpasa,1500000.0,900000.0,France,right,182.0
 Irvin Cardona,2019,3,0,6,3,1450,21,ligue-1,True,1997-08-08,Centre-Forward,FC Augsburg,8000000.0,4800000.0,France,right,185.0
 Irvin Cardona,2020,2,0,8,2,2029,36,ligue-1,True,1997-08-08,Centre-Forward,FC Augsburg,8000000.0,7000000.0,France,right,185.0
@@ -6273,7 +6279,7 @@ Ivan Ilić,2023,3,0,3,2,2100,31,serie-a,True,2001-03-17,Central Midfield,Torino 
 Ivan M'Bahia,2023,1,0,0,0,13,1,ligue-1,True,2005-04-19,Centre-Back,Clermont Foot 63,50000.0,50000.0,Cote d'Ivoire,right,174.0
 Ivan Ordets,2022,4,0,0,1,2450,30,bundesliga,True,1992-07-08,Centre-Back,VfL Bochum,5000000.0,3000000.0,Ukraine,right,195.0
 Ivan Ordets,2023,4,0,1,1,1878,24,bundesliga,True,1992-07-08,Centre-Back,VfL Bochum,5000000.0,2500000.0,Ukraine,right,195.0
-Ivan Pavlic,2023,0,0,0,0,181,5,liga-portugal-bwin,False,2001-11-10,Central Midfield,Portimonense SC,300000.0,250000.0,Belgium,right,185.0
+Ivan Pavlić,2023,0,0,0,0,181,5,liga-portugal-bwin,False,2001-11-10,Central Midfield,Portimonense SC,300000.0,250000.0,Belgium,right,185.0
 Ivan Perisic,2019,1,0,4,6,1203,22,bundesliga,True,1989-02-02,Left Winger,Tottenham Hotspur,45000000.0,17500000.0,Croatia,both,186.0
 Ivan Perisic,2020,3,0,4,5,1802,32,serie-a,True,1989-02-02,Left Winger,Tottenham Hotspur,45000000.0,10000000.0,Croatia,both,186.0
 Ivan Perisic,2021,4,0,8,7,2839,35,serie-a,True,1989-02-02,Left Winger,Tottenham Hotspur,45000000.0,10000000.0,Croatia,both,186.0
@@ -6332,11 +6338,6 @@ Iván Jaime,2020,2,0,4,3,1178,22,liga-portugal-bwin,False,2000-09-26,Attacking M
 Iván Jaime,2021,1,0,1,1,1273,18,liga-portugal-bwin,False,2000-09-26,Attacking Midfield,FC Porto,10000000.0,1000000.0,Spain,right,180.0
 Iván Jaime,2022,3,0,9,4,1881,24,liga-portugal-bwin,False,2000-09-26,Attacking Midfield,FC Porto,10000000.0,5000000.0,Spain,right,180.0
 Iván Jaime,2023,0,0,1,0,552,21,liga-portugal-bwin,False,2000-09-26,Attacking Midfield,FC Porto,10000000.0,8000000.0,Spain,right,180.0
-Iván Marcano,2019,6,0,5,1,2070,23,liga-portugal-bwin,False,1987-06-23,Centre-Back,FC Porto,8000000.0,2400000.0,Spain,left,189.0
-Iván Marcano,2020,0,0,0,0,6,1,liga-portugal-bwin,False,1987-06-23,Centre-Back,FC Porto,8000000.0,1000000.0,Spain,left,189.0
-Iván Marcano,2021,2,0,1,0,660,8,liga-portugal-bwin,False,1987-06-23,Centre-Back,FC Porto,8000000.0,500000.0,Spain,left,189.0
-Iván Marcano,2022,9,1,4,0,2198,25,liga-portugal-bwin,False,1987-06-23,Centre-Back,FC Porto,8000000.0,500000.0,Spain,left,189.0
-Iván Marcano,2023,1,0,2,0,368,5,liga-portugal-bwin,False,1987-06-23,Centre-Back,FC Porto,8000000.0,250000.0,Spain,left,189.0
 Iván Marcone,2020,10,0,0,0,2651,33,laliga,True,1990-06-03,Defensive Midfield,Elche CF,7500000.0,3000000.0,Argentina,right,182.0
 Iván Marcone,2021,5,0,0,0,807,20,laliga,True,1990-06-03,Defensive Midfield,Elche CF,7500000.0,2000000.0,Argentina,right,182.0
 Iván Martín,2022,2,0,3,4,1594,24,laliga,True,1999-02-14,Attacking Midfield,Girona FC,15000000.0,3000000.0,Spain,left,178.0
@@ -6841,12 +6842,6 @@ Jeanuël Belocian,2022,1,0,0,0,508,8,ligue-1,True,2005-02-17,Centre-Back,Stade R
 Jeanuël Belocian,2023,0,0,0,1,1451,23,ligue-1,True,2005-02-17,Centre-Back,Stade Rennais FC,10000000.0,10000000.0,France,left,182.0
 Jed Steer,2019,0,0,0,0,8,1,premier-league,True,1992-09-23,Goalkeeper,Aston Villa,2000000.0,1200000.0,England,left,183.0
 Jed Steer,2021,0,0,0,0,90,1,premier-league,True,1992-09-23,Goalkeeper,Aston Villa,2000000.0,600000.0,England,left,183.0
-Jeff Chabot,2019,1,1,1,0,570,8,serie-a,True,1998-02-12,Centre-Back,1.FC Köln,9000000.0,3200000.0,Germany,left,195.0
-Jeff Chabot,2020,11,0,1,1,1655,25,serie-a,True,1998-02-12,Centre-Back,1.FC Köln,9000000.0,3000000.0,Germany,left,195.0
-Jeff Chabot,2021,1,0,0,0,208,4,bundesliga,True,1998-02-12,Centre-Back,1.FC Köln,9000000.0,2000000.0,Germany,left,195.0
-Jeff Chabot,2021,5,0,0,0,483,11,serie-a,True,1998-02-12,Centre-Back,1.FC Köln,9000000.0,2000000.0,Germany,left,195.0
-Jeff Chabot,2022,3,0,0,2,1806,21,bundesliga,True,1998-02-12,Centre-Back,1.FC Köln,9000000.0,5500000.0,Germany,left,195.0
-Jeff Chabot,2023,9,0,0,1,2707,32,bundesliga,True,1998-02-12,Centre-Back,1.FC Köln,9000000.0,9000000.0,Germany,left,195.0
 Jeff Hendrick,2019,8,0,2,2,1935,24,premier-league,True,1992-01-31,Central Midfield,Newcastle United,11000000.0,9000000.0,Ireland,right,185.0
 Jeff Hendrick,2020,3,0,2,1,1425,22,premier-league,True,1992-01-31,Central Midfield,Newcastle United,11000000.0,9000000.0,Ireland,right,185.0
 Jeff Hendrick,2021,0,0,1,0,70,3,premier-league,True,1992-01-31,Central Midfield,Newcastle United,11000000.0,5000000.0,Ireland,right,185.0
@@ -6936,10 +6931,10 @@ Jerry St. Juste,2021,0,0,1,0,605,8,bundesliga,True,1996-10-19,Centre-Back,Sporti
 Jerry St. Juste,2022,3,0,1,1,898,21,liga-portugal-bwin,False,1996-10-19,Centre-Back,Sporting CP,16000000.0,13000000.0,Netherlands,right,186.0
 Jerry St. Juste,2023,2,0,0,0,542,11,liga-portugal-bwin,False,1996-10-19,Centre-Back,Sporting CP,16000000.0,8000000.0,Netherlands,right,186.0
 Jesper Karlsson,2023,0,0,0,0,345,7,serie-a,True,1998-07-25,Left Winger,Bologna FC 1909,18000000.0,8000000.0,Sweden,right,179.0
-Jesper Lindstrøm,2021,0,0,5,5,1992,29,bundesliga,True,2000-02-29,Attacking Midfield,SSC Napoli,28000000.0,17000000.0,Denmark,right,182.0
-Jesper Lindstrøm,2022,2,0,7,4,1694,27,bundesliga,True,2000-02-29,Attacking Midfield,SSC Napoli,28000000.0,28000000.0,Denmark,right,182.0
-Jesper Lindstrøm,2023,0,0,0,0,84,1,bundesliga,True,2000-02-29,Attacking Midfield,SSC Napoli,28000000.0,22000000.0,Denmark,right,182.0
-Jesper Lindstrøm,2023,2,0,0,0,416,22,serie-a,True,2000-02-29,Attacking Midfield,SSC Napoli,28000000.0,22000000.0,Denmark,right,182.0
+Jesper Lindström,2021,0,0,5,5,1992,29,bundesliga,True,2000-02-29,Attacking Midfield,SSC Napoli,28000000.0,17000000.0,Denmark,right,182.0
+Jesper Lindström,2022,2,0,7,4,1694,27,bundesliga,True,2000-02-29,Attacking Midfield,SSC Napoli,28000000.0,28000000.0,Denmark,right,182.0
+Jesper Lindström,2023,0,0,0,0,84,1,bundesliga,True,2000-02-29,Attacking Midfield,SSC Napoli,28000000.0,22000000.0,Denmark,right,182.0
+Jesper Lindström,2023,2,0,0,0,416,22,serie-a,True,2000-02-29,Attacking Midfield,SSC Napoli,28000000.0,22000000.0,Denmark,right,182.0
 Jesse Joronen,2019,1,0,0,0,2610,29,serie-a,True,1993-03-21,Goalkeeper,Brescia Calcio,5000000.0,4000000.0,Finland,right,197.0
 Jesse Lingard,2019,3,0,1,0,932,22,premier-league,True,1992-12-15,Attacking Midfield,Nottingham Forest,40000000.0,17500000.0,England,right,174.0
 Jesse Lingard,2020,3,0,9,5,1425,16,premier-league,True,1992-12-15,Attacking Midfield,Nottingham Forest,40000000.0,22000000.0,England,right,174.0
@@ -6963,12 +6958,6 @@ Jesé,2022,0,0,1,1,204,11,serie-a,True,1993-02-26,Left Winger,UC Sampdoria,15000
 Jesús Areso,2021,1,0,0,0,188,3,laliga,True,1999-07-02,Right-Back,CA Osasuna,7500000.0,800000.0,Spain,right,182.0
 Jesús Areso,2023,3,0,1,6,2661,37,laliga,True,1999-07-02,Right-Back,CA Osasuna,7500000.0,7500000.0,Spain,right,182.0
 Jesús Castillo,2023,1,0,0,0,242,11,liga-portugal-bwin,False,2001-06-11,Defensive Midfield,Gil Vicente FC,1000000.0,700000.0,Peru,right,185.0
-Jesús Corona,2019,7,0,4,14,2763,33,liga-portugal-bwin,False,1993-01-06,Right Winger,Sevilla FC,30000000.0,20000000.0,Mexico,both,173.0
-Jesús Corona,2020,6,0,2,8,2236,30,liga-portugal-bwin,False,1993-01-06,Right Winger,Sevilla FC,30000000.0,30000000.0,Mexico,both,173.0
-Jesús Corona,2021,2,0,2,4,1162,18,laliga,True,1993-01-06,Right Winger,Sevilla FC,30000000.0,18000000.0,Mexico,both,173.0
-Jesús Corona,2021,1,0,0,1,379,11,liga-portugal-bwin,False,1993-01-06,Right Winger,Sevilla FC,30000000.0,18000000.0,Mexico,both,173.0
-Jesús Corona,2022,0,0,1,0,109,4,laliga,True,1993-01-06,Right Winger,Sevilla FC,30000000.0,8000000.0,Mexico,both,173.0
-Jesús Corona,2023,0,0,0,0,16,2,laliga,True,1993-01-06,Right Winger,Sevilla FC,30000000.0,3500000.0,Mexico,both,173.0
 Jesús Navas,2019,4,0,0,7,3371,38,laliga,True,1985-11-21,Right-Back,Sevilla FC,30000000.0,3200000.0,Spain,right,170.0
 Jesús Navas,2020,4,0,0,6,2833,34,laliga,True,1985-11-21,Right-Back,Sevilla FC,30000000.0,3000000.0,Spain,right,170.0
 Jesús Navas,2021,4,0,0,3,1786,25,laliga,True,1985-11-21,Right-Back,Sevilla FC,30000000.0,3000000.0,Spain,right,170.0
@@ -7151,14 +7140,14 @@ Johann Lepenant,2022,4,0,1,2,1934,31,ligue-1,True,2002-10-22,Defensive Midfield,
 Johann Lepenant,2023,1,0,0,0,250,6,ligue-1,True,2002-10-22,Defensive Midfield,Olympique Lyon,10000000.0,6000000.0,France,right,176.0
 Johannes Eggestein,2019,3,0,1,0,504,14,bundesliga,True,1998-05-08,Centre-Forward,Royal Antwerp FC,10000000.0,2500000.0,Germany,right,183.0
 Johannes Eggestein,2020,0,0,0,0,31,2,bundesliga,True,1998-05-08,Centre-Forward,Royal Antwerp FC,10000000.0,4000000.0,Germany,right,183.0
+John Anthony Brooks,2019,4,0,0,1,2226,25,bundesliga,True,1993-01-28,Centre-Back,TSG 1899 Hoffenheim,15000000.0,12000000.0,United States,left,194.0
+John Anthony Brooks,2020,5,0,2,0,2774,32,bundesliga,True,1993-01-28,Centre-Back,TSG 1899 Hoffenheim,15000000.0,14000000.0,United States,left,194.0
+John Anthony Brooks,2021,2,0,1,1,2617,31,bundesliga,True,1993-01-28,Centre-Back,TSG 1899 Hoffenheim,15000000.0,7000000.0,United States,left,194.0
+John Anthony Brooks,2022,0,0,0,0,2,2,liga-portugal-bwin,False,1993-01-28,Centre-Back,TSG 1899 Hoffenheim,15000000.0,2000000.0,United States,left,194.0
+John Anthony Brooks,2022,4,0,0,0,1350,15,bundesliga,True,1993-01-28,Centre-Back,TSG 1899 Hoffenheim,15000000.0,2000000.0,United States,left,194.0
+John Anthony Brooks,2023,6,1,2,0,1539,21,bundesliga,True,1993-01-28,Centre-Back,TSG 1899 Hoffenheim,15000000.0,2000000.0,United States,left,194.0
 John Boye,2019,6,0,2,0,2115,24,ligue-1,True,1987-04-23,Centre-Back,FC Metz,2500000.0,800000.0,Ghana,right,184.0
 John Boye,2020,6,1,1,2,3047,35,ligue-1,True,1987-04-23,Centre-Back,FC Metz,2500000.0,800000.0,Ghana,right,184.0
-John Brooks,2019,4,0,0,1,2226,25,bundesliga,True,1993-01-28,Centre-Back,TSG 1899 Hoffenheim,15000000.0,12000000.0,United States,left,194.0
-John Brooks,2020,5,0,2,0,2774,32,bundesliga,True,1993-01-28,Centre-Back,TSG 1899 Hoffenheim,15000000.0,14000000.0,United States,left,194.0
-John Brooks,2021,2,0,1,1,2617,31,bundesliga,True,1993-01-28,Centre-Back,TSG 1899 Hoffenheim,15000000.0,7000000.0,United States,left,194.0
-John Brooks,2022,0,0,0,0,2,2,liga-portugal-bwin,False,1993-01-28,Centre-Back,TSG 1899 Hoffenheim,15000000.0,2000000.0,United States,left,194.0
-John Brooks,2022,4,0,0,0,1350,15,bundesliga,True,1993-01-28,Centre-Back,TSG 1899 Hoffenheim,15000000.0,2000000.0,United States,left,194.0
-John Brooks,2023,6,1,2,0,1539,21,bundesliga,True,1993-01-28,Centre-Back,TSG 1899 Hoffenheim,15000000.0,2000000.0,United States,left,194.0
 John Donald,2022,3,1,0,0,1094,14,laliga,True,2000-09-25,Centre-Back,Elche CF,1000000.0,1000000.0,Spain,right,182.0
 John Egan,2019,5,0,2,0,3189,36,premier-league,True,1992-10-20,Centre-Back,Sheffield United,13000000.0,13000000.0,Ireland,right,185.0
 John Egan,2020,7,1,0,1,2630,31,premier-league,True,1992-10-20,Centre-Back,Sheffield United,13000000.0,9000000.0,Ireland,right,185.0
@@ -7581,9 +7570,6 @@ José Luis Palomino,2020,3,0,1,2,2421,36,serie-a,True,1990-01-05,Centre-Back,Ata
 José Luis Palomino,2021,9,0,1,0,2672,34,serie-a,True,1990-01-05,Centre-Back,Atalanta BC,10000000.0,7500000.0,Argentina,left,188.0
 José Luis Palomino,2022,4,0,1,0,756,15,serie-a,True,1990-01-05,Centre-Back,Atalanta BC,10000000.0,2500000.0,Argentina,left,188.0
 José Luis Palomino,2023,0,0,0,0,23,4,serie-a,True,1990-01-05,Centre-Back,Atalanta BC,10000000.0,700000.0,Argentina,left,188.0
-José Luis Rodríguez,2019,0,0,0,0,21,1,laliga,True,1998-06-19,Left Winger,FC Famalicão,2000000.0,450000.0,Panama,left,180.0
-José Luis Rodríguez,2022,3,0,1,3,508,7,liga-portugal-bwin,False,1998-06-19,Left Winger,FC Famalicão,2000000.0,1500000.0,Panama,left,180.0
-José Luis Rodríguez,2023,3,1,1,5,1503,23,liga-portugal-bwin,False,1998-06-19,Left Winger,FC Famalicão,2000000.0,2000000.0,Panama,left,180.0
 José Machín,2022,4,0,0,2,1117,25,serie-a,True,1996-08-14,Central Midfield,AC Monza,2600000.0,1500000.0,Equatorial Guinea,right,184.0
 José Machín,2023,2,0,0,0,234,10,serie-a,True,1996-08-14,Central Midfield,AC Monza,2600000.0,1000000.0,Equatorial Guinea,right,184.0
 José Manuel Arnáiz,2019,2,0,2,1,791,14,laliga,True,1995-04-15,Left Winger,CA Osasuna,10000000.0,2000000.0,Spain,right,173.0
@@ -7856,6 +7842,12 @@ Julian Brandt,2020,0,0,3,2,1490,31,bundesliga,True,1996-05-02,Attacking Midfield
 Julian Brandt,2021,3,0,9,8,2082,31,bundesliga,True,1996-05-02,Attacking Midfield,Borussia Dortmund,50000000.0,25000000.0,Germany,right,185.0
 Julian Brandt,2022,2,0,9,8,2412,32,bundesliga,True,1996-05-02,Attacking Midfield,Borussia Dortmund,50000000.0,40000000.0,Germany,right,185.0
 Julian Brandt,2023,2,0,7,12,2232,32,bundesliga,True,1996-05-02,Attacking Midfield,Borussia Dortmund,50000000.0,40000000.0,Germany,right,185.0
+Julian Chabot,2019,1,1,1,0,570,8,serie-a,True,1998-02-12,Centre-Back,1.FC Köln,9000000.0,3200000.0,Germany,left,195.0
+Julian Chabot,2020,11,0,1,1,1655,25,serie-a,True,1998-02-12,Centre-Back,1.FC Köln,9000000.0,3000000.0,Germany,left,195.0
+Julian Chabot,2021,1,0,0,0,208,4,bundesliga,True,1998-02-12,Centre-Back,1.FC Köln,9000000.0,2000000.0,Germany,left,195.0
+Julian Chabot,2021,5,0,0,0,483,11,serie-a,True,1998-02-12,Centre-Back,1.FC Köln,9000000.0,2000000.0,Germany,left,195.0
+Julian Chabot,2022,3,0,0,2,1806,21,bundesliga,True,1998-02-12,Centre-Back,1.FC Köln,9000000.0,5500000.0,Germany,left,195.0
+Julian Chabot,2023,9,0,0,1,2707,32,bundesliga,True,1998-02-12,Centre-Back,1.FC Köln,9000000.0,9000000.0,Germany,left,195.0
 Julian Draxler,2019,5,0,0,5,685,11,ligue-1,True,1993-09-20,Left Winger,SL Benfica,40000000.0,24000000.0,Germany,right,185.0
 Julian Draxler,2020,3,0,4,3,1062,24,ligue-1,True,1993-09-20,Left Winger,SL Benfica,40000000.0,20000000.0,Germany,right,185.0
 Julian Draxler,2021,0,0,2,1,541,18,ligue-1,True,1993-09-20,Left Winger,SL Benfica,40000000.0,18000000.0,Germany,right,185.0
@@ -8003,8 +7995,8 @@ Jóhann Berg Gudmundsson,2023,2,0,1,3,1192,26,premier-league,True,1990-10-27,Rig
 Jójó,2021,0,0,0,0,46,2,liga-portugal-bwin,False,2001-05-19,Right-Back,B SAD,550000.0,200000.0,Cape Verde,right,188.0
 Jô,2022,4,0,1,0,288,20,liga-portugal-bwin,False,1995-05-01,Centre-Forward,GD Chaves,375000.0,25000.0,Brazil,left,192.0
 Jô,2023,1,0,2,3,1008,27,liga-portugal-bwin,False,1995-05-01,Centre-Forward,GD Chaves,375000.0,300000.0,Brazil,left,192.0
-Jørgen Strand Larsen,2022,4,0,4,4,1709,32,laliga,True,2000-02-06,Centre-Forward,Celta de Vigo,25000000.0,11000000.0,Norway,right,193.0
-Jørgen Strand Larsen,2023,4,0,13,3,2888,37,laliga,True,2000-02-06,Centre-Forward,Celta de Vigo,25000000.0,25000000.0,Norway,right,193.0
+Jörgen Strand Larsen,2022,4,0,4,4,1709,32,laliga,True,2000-02-06,Centre-Forward,Celta de Vigo,25000000.0,11000000.0,Norway,right,193.0
+Jörgen Strand Larsen,2023,4,0,13,3,2888,37,laliga,True,2000-02-06,Centre-Forward,Celta de Vigo,25000000.0,25000000.0,Norway,right,193.0
 Júlio César,2020,5,1,0,0,1224,16,liga-portugal-bwin,False,1995-03-21,Centre-Back,CD Nacional,500000.0,300000.0,Brazil,right,189.0
 Júlio César,2020,1,0,0,0,259,7,liga-portugal-bwin,False,1994-08-12,Left Winger,Portimonense SC,500000.0,300000.0,Brazil,right,172.0
 Júlio Romão,2020,0,0,0,0,194,5,liga-portugal-bwin,False,1998-03-29,Defensive Midfield,CD Santa Clara,500000.0,200000.0,Brazil,right,183.0
@@ -8119,7 +8111,7 @@ Karol Linetty,2020,0,0,0,0,22,1,serie-a,True,1995-02-02,Central Midfield,Torino 
 Karol Linetty,2021,2,0,0,2,899,16,serie-a,True,1995-02-02,Central Midfield,Torino FC,15000000.0,3500000.0,Poland,right,175.0
 Karol Linetty,2022,8,0,1,0,1889,32,serie-a,True,1995-02-02,Central Midfield,Torino FC,15000000.0,3500000.0,Poland,right,175.0
 Karol Linetty,2023,12,0,0,0,1860,28,serie-a,True,1995-02-02,Central Midfield,Torino FC,15000000.0,3500000.0,Poland,right,175.0
-Karol Świderski,2023,0,0,2,0,496,15,serie-a,True,1997-01-23,Centre-Forward,Hellas Verona,6000000.0,5000000.0,Poland,left,184.0
+Karol Swiderski,2023,0,0,2,0,496,15,serie-a,True,1997-01-23,Centre-Forward,Hellas Verona,6000000.0,5000000.0,Poland,left,184.0
 Karse,2022,0,0,0,0,16,2,liga-portugal-bwin,False,2005-03-18,Right-Back,Rio Ave FC,100000.0,100000.0,Georgia,right,175.0
 Kasim Adams,2019,0,0,1,0,997,13,bundesliga,True,1995-06-22,Centre-Back,TSG 1899 Hoffenheim,8500000.0,3200000.0,Ghana,right,190.0
 Kasim Adams,2020,0,0,0,0,987,12,bundesliga,True,1995-06-22,Centre-Back,TSG 1899 Hoffenheim,8500000.0,1700000.0,Ghana,right,190.0
@@ -8661,11 +8653,11 @@ Layvin Kurzawa,2023,0,0,0,0,8,1,ligue-1,True,1992-09-04,Left-Back,Paris Saint-Ge
 Lazar Rosic,2019,4,0,2,0,1620,18,liga-portugal-bwin,False,1993-06-29,Centre-Back,Moreirense FC,1250000.0,325000.0,Serbia,right,190.0
 Lazar Rosic,2020,5,0,0,0,2893,33,liga-portugal-bwin,False,1993-06-29,Centre-Back,Moreirense FC,1250000.0,800000.0,Serbia,right,190.0
 Lazar Rosic,2021,6,0,0,0,2520,28,liga-portugal-bwin,False,1993-06-29,Centre-Back,Moreirense FC,1250000.0,600000.0,Serbia,right,190.0
-Lazar Samardžić,2019,0,0,0,0,32,3,bundesliga,True,2002-02-24,Central Midfield,Udinese Calcio,20000000.0,1500000.0,Serbia,left,184.0
-Lazar Samardžić,2020,0,0,0,1,197,7,bundesliga,True,2002-02-24,Central Midfield,Udinese Calcio,20000000.0,3000000.0,Serbia,left,184.0
-Lazar Samardžić,2021,0,0,2,2,472,22,serie-a,True,2002-02-24,Central Midfield,Udinese Calcio,20000000.0,3500000.0,Serbia,left,184.0
-Lazar Samardžić,2022,1,0,5,4,1850,37,serie-a,True,2002-02-24,Central Midfield,Udinese Calcio,20000000.0,14000000.0,Serbia,left,184.0
-Lazar Samardžić,2023,3,0,6,2,2382,34,serie-a,True,2002-02-24,Central Midfield,Udinese Calcio,20000000.0,20000000.0,Serbia,left,184.0
+Lazar Samardzic,2019,0,0,0,0,32,3,bundesliga,True,2002-02-24,Central Midfield,Udinese Calcio,20000000.0,1500000.0,Serbia,left,184.0
+Lazar Samardzic,2020,0,0,0,1,197,7,bundesliga,True,2002-02-24,Central Midfield,Udinese Calcio,20000000.0,3000000.0,Serbia,left,184.0
+Lazar Samardzic,2021,0,0,2,2,472,22,serie-a,True,2002-02-24,Central Midfield,Udinese Calcio,20000000.0,3500000.0,Serbia,left,184.0
+Lazar Samardzic,2022,1,0,5,4,1850,37,serie-a,True,2002-02-24,Central Midfield,Udinese Calcio,20000000.0,14000000.0,Serbia,left,184.0
+Lazar Samardzic,2023,3,0,6,2,2382,34,serie-a,True,2002-02-24,Central Midfield,Udinese Calcio,20000000.0,20000000.0,Serbia,left,184.0
 Leander Dendoncker,2019,5,0,4,0,2794,38,premier-league,True,1995-04-15,Defensive Midfield,SSC Napoli,32000000.0,28000000.0,Belgium,right,188.0
 Leander Dendoncker,2020,4,0,1,0,2500,33,premier-league,True,1995-04-15,Defensive Midfield,SSC Napoli,32000000.0,30000000.0,Belgium,right,188.0
 Leander Dendoncker,2021,4,0,2,2,1948,30,premier-league,True,1995-04-15,Defensive Midfield,SSC Napoli,32000000.0,28000000.0,Belgium,right,188.0
@@ -8730,9 +8722,9 @@ Leo Greiml,2022,2,0,0,0,356,7,bundesliga,True,2001-07-03,Centre-Back,FC Schalke 
 Leo Román,2021,0,0,0,0,180,2,laliga,True,2000-07-06,Goalkeeper,RCD Mallorca,500000.0,300000.0,Spain,right,189.0
 Leo Román,2022,0,0,0,0,90,1,laliga,True,2000-07-06,Goalkeeper,RCD Mallorca,500000.0,300000.0,Spain,right,189.0
 Leo Stulac,2021,1,0,2,2,823,23,serie-a,True,1994-09-26,Defensive Midfield,FC Empoli,3000000.0,2200000.0,Slovenia,right,175.0
-Leo Østigård,2021,4,1,0,0,1128,14,serie-a,True,1999-11-28,Centre-Back,SSC Napoli,10000000.0,5000000.0,Norway,right,182.0
-Leo Østigård,2022,1,0,0,0,417,7,serie-a,True,1999-11-28,Centre-Back,SSC Napoli,10000000.0,7000000.0,Norway,right,182.0
-Leo Østigård,2023,2,0,1,0,1621,25,serie-a,True,1999-11-28,Centre-Back,SSC Napoli,10000000.0,8000000.0,Norway,right,182.0
+Leo Östigard,2021,4,1,0,0,1128,14,serie-a,True,1999-11-28,Centre-Back,SSC Napoli,10000000.0,5000000.0,Norway,right,182.0
+Leo Östigard,2022,1,0,0,0,417,7,serie-a,True,1999-11-28,Centre-Back,SSC Napoli,10000000.0,7000000.0,Norway,right,182.0
+Leo Östigard,2023,2,0,1,0,1621,25,serie-a,True,1999-11-28,Centre-Back,SSC Napoli,10000000.0,8000000.0,Norway,right,182.0
 Leon Bailey,2019,0,2,5,3,1092,22,bundesliga,True,1997-08-09,Right Winger,Aston Villa,45000000.0,29500000.0,Jamaica,left,178.0
 Leon Bailey,2020,6,0,9,9,2144,30,bundesliga,True,1997-08-09,Right Winger,Aston Villa,45000000.0,35000000.0,Jamaica,left,178.0
 Leon Bailey,2021,3,0,1,2,755,18,premier-league,True,1997-08-09,Right Winger,Aston Villa,45000000.0,25000000.0,Jamaica,left,178.0
@@ -8875,6 +8867,8 @@ Lluís López,2019,1,0,0,0,299,4,laliga,True,1997-03-05,Centre-Back,RCD Espanyol
 Logan Costa,2022,0,0,0,0,414,6,ligue-1,True,2001-04-01,Centre-Back,FC Toulouse,12000000.0,1200000.0,Cape Verde,right,190.0
 Logan Costa,2023,6,0,1,1,2645,31,ligue-1,True,2001-04-01,Centre-Back,FC Toulouse,12000000.0,12000000.0,Cape Verde,right,190.0
 Lohann Doucet,2022,0,0,0,0,83,9,ligue-1,True,2002-09-14,Defensive Midfield,FC Nantes,800000.0,700000.0,France,right,180.0
+Loick Landre,2019,2,0,1,0,929,11,ligue-1,True,1992-05-05,Centre-Back,AE Kifisias,3500000.0,1600000.0,France,right,182.0
+Loick Landre,2020,2,1,1,0,1629,20,ligue-1,True,1992-05-05,Centre-Back,AE Kifisias,3500000.0,1500000.0,France,right,182.0
 Loreintz Rosier,2021,6,0,3,1,2292,32,liga-portugal-bwin,False,1998-08-14,Defensive Midfield,Fortuna Sittard,1000000.0,800000.0,France,right,190.0
 Loreintz Rosier,2022,1,0,0,1,1035,12,liga-portugal-bwin,False,1998-08-14,Defensive Midfield,Fortuna Sittard,1000000.0,1000000.0,France,right,190.0
 Loren Morón,2019,2,1,10,2,2032,36,laliga,True,1993-12-30,Centre-Forward,Aris Thessaloniki,20000000.0,16000000.0,Spain,right,185.0
@@ -8952,8 +8946,6 @@ Loïc Mbe Soh,2019,0,0,0,0,59,1,ligue-1,True,2001-06-13,Centre-Back,Almere City 
 Loïc Nego,2023,2,0,0,5,1561,28,ligue-1,True,1991-01-15,Right-Back,Le Havre AC,2500000.0,900000.0,Hungary,right,181.0
 Loïc Perrin,2019,5,0,0,0,1713,21,ligue-1,True,1985-08-07,Centre-Back,AS Saint-Étienne,8000000.0,1200000.0,France,right,181.0
 Loïc Rémy,2019,2,0,7,0,964,20,ligue-1,True,1987-01-02,Centre-Forward,Stade Brestois 29,19000000.0,2000000.0,France,right,185.0
-Loïck Landre,2019,2,0,1,0,929,11,ligue-1,True,1992-05-05,Centre-Back,AE Kifisias,3500000.0,1600000.0,France,right,182.0
-Loïck Landre,2020,2,1,1,0,1629,20,ligue-1,True,1992-05-05,Centre-Back,AE Kifisias,3500000.0,1500000.0,France,right,182.0
 Loïs Diony,2019,1,0,2,0,670,12,ligue-1,True,1992-12-20,Centre-Forward,Angers SCO,6000000.0,2400000.0,France,right,183.0
 Loïs Diony,2020,2,0,5,2,1752,36,ligue-1,True,1992-12-20,Centre-Forward,Angers SCO,6000000.0,2500000.0,France,right,183.0
 Loïs Diony,2022,1,0,2,0,503,11,ligue-1,True,1992-12-20,Centre-Forward,Angers SCO,6000000.0,900000.0,France,right,183.0
@@ -9363,7 +9355,7 @@ Luke Thomas,2020,2,0,1,0,970,14,premier-league,True,2001-06-10,Left-Back,Sheffie
 Luke Thomas,2021,2,0,0,1,1912,22,premier-league,True,2001-06-10,Left-Back,Sheffield United,12000000.0,12000000.0,England,left,181.0
 Luke Thomas,2022,3,0,0,0,1071,17,premier-league,True,2001-06-10,Left-Back,Sheffield United,12000000.0,12000000.0,England,left,181.0
 Luke Thomas,2023,3,0,0,0,919,12,premier-league,True,2001-06-10,Left-Back,Sheffield United,12000000.0,6000000.0,England,left,181.0
-Lumor Agbenyenu,2019,5,0,1,0,1809,23,laliga,True,1996-08-15,Left-Back,AE Kifisias,2500000.0,1200000.0,Ghana,left,175.0
+Lumor,2019,5,0,1,0,1809,23,laliga,True,1996-08-15,Left-Back,AE Kifisias,2500000.0,1200000.0,Ghana,left,175.0
 Luquinha,2020,2,0,1,3,1103,20,liga-portugal-bwin,False,2000-10-03,Attacking Midfield,Portimonense SC,1000000.0,1000000.0,Brazil,right,167.0
 Luquinha,2021,4,0,1,0,543,20,liga-portugal-bwin,False,2000-10-03,Attacking Midfield,Portimonense SC,1000000.0,700000.0,Brazil,right,167.0
 Luquinha,2022,2,0,2,2,1175,17,liga-portugal-bwin,False,2000-10-03,Attacking Midfield,Portimonense SC,1000000.0,600000.0,Brazil,right,167.0
@@ -9388,10 +9380,10 @@ Luís Neto,2020,7,0,0,1,1692,22,liga-portugal-bwin,False,1988-05-26,Centre-Back,
 Luís Neto,2021,5,1,0,0,1398,21,liga-portugal-bwin,False,1988-05-26,Centre-Back,Sporting CP,6000000.0,1500000.0,Portugal,right,185.0
 Luís Neto,2022,1,0,0,0,274,6,liga-portugal-bwin,False,1988-05-26,Centre-Back,Sporting CP,6000000.0,500000.0,Portugal,right,185.0
 Luís Neto,2023,2,0,0,0,132,7,liga-portugal-bwin,False,1988-05-26,Centre-Back,Sporting CP,6000000.0,100000.0,Portugal,right,185.0
-Luís dos Santos,2019,0,0,0,0,14,3,liga-portugal-bwin,False,2000-01-20,Right Winger,Boavista FC,500000.0,100000.0,Portugal,right,176.0
-Luís dos Santos,2021,1,1,1,0,561,14,liga-portugal-bwin,False,2000-01-20,Right Winger,Boavista FC,500000.0,500000.0,Portugal,right,176.0
-Luís dos Santos,2022,1,0,0,0,281,9,liga-portugal-bwin,False,2000-01-20,Right Winger,Boavista FC,500000.0,250000.0,Portugal,right,176.0
-Luís dos Santos,2023,3,0,0,1,673,19,liga-portugal-bwin,False,2000-01-20,Right Winger,Boavista FC,500000.0,300000.0,Portugal,right,176.0
+Luís Santos,2019,0,0,0,0,14,3,liga-portugal-bwin,False,2000-01-20,Right Winger,Boavista FC,500000.0,100000.0,Portugal,right,176.0
+Luís Santos,2021,1,1,1,0,561,14,liga-portugal-bwin,False,2000-01-20,Right Winger,Boavista FC,500000.0,500000.0,Portugal,right,176.0
+Luís Santos,2022,1,0,0,0,281,9,liga-portugal-bwin,False,2000-01-20,Right Winger,Boavista FC,500000.0,250000.0,Portugal,right,176.0
+Luís Santos,2023,3,0,0,1,673,19,liga-portugal-bwin,False,2000-01-20,Right Winger,Boavista FC,500000.0,300000.0,Portugal,right,176.0
 Luísinho,2020,1,0,0,0,178,5,laliga,True,1985-05-05,Left-Back,SD Huesca,2500000.0,200000.0,Portugal,left,171.0
 Luíz Carlos,2019,6,0,0,1,2090,28,liga-portugal-bwin,False,1985-07-05,Central Midfield,FC Paços de Ferreira,3500000.0,100000.0,Brazil,right,175.0
 Luíz Carlos,2020,2,0,3,3,2534,34,liga-portugal-bwin,False,1985-07-05,Central Midfield,FC Paços de Ferreira,3500000.0,100000.0,Brazil,right,175.0
@@ -9452,10 +9444,10 @@ Mabrouk Rouaï,2020,1,0,0,0,277,6,liga-portugal-bwin,False,2000-11-01,Defensive 
 Mabrouk Rouaï,2022,0,0,0,0,31,2,liga-portugal-bwin,False,2000-11-01,Defensive Midfield,GD Estoril Praia,200000.0,200000.0,France,right,185.0
 Madi Queta,2020,1,0,0,3,957,21,liga-portugal-bwin,False,1998-10-21,Left Winger,SC Farense,850000.0,450000.0,Guinea-Bissau,right,180.0
 Madih Talal,2019,0,0,0,0,17,2,ligue-1,True,1997-08-17,Attacking Midfield,Amiens SC,400000.0,300000.0,France,right,178.0
-Mads Andersen,2023,1,0,1,0,399,8,premier-league,True,1997-12-27,Centre-Back,Luton Town,5000000.0,3000000.0,Denmark,right,194.0
-Mads Bech Sørensen,2021,3,0,0,0,833,11,premier-league,True,1999-01-07,Centre-Back,FC Midtjylland,5000000.0,5000000.0,Denmark,left,193.0
-Mads Bech Sørensen,2022,0,0,0,0,19,4,premier-league,True,1999-01-07,Centre-Back,FC Midtjylland,5000000.0,2500000.0,Denmark,left,193.0
+Mads Bech Sörensen,2021,3,0,0,0,833,11,premier-league,True,1999-01-07,Centre-Back,FC Midtjylland,5000000.0,5000000.0,Denmark,left,193.0
+Mads Bech Sörensen,2022,0,0,0,0,19,4,premier-league,True,1999-01-07,Centre-Back,FC Midtjylland,5000000.0,2500000.0,Denmark,left,193.0
 Mads Bidstrup,2021,0,0,0,0,36,4,premier-league,True,2001-02-25,Central Midfield,FC Nordsjaelland,7500000.0,1000000.0,Denmark,right,175.0
+Mads Juel Andersen,2023,1,0,1,0,399,8,premier-league,True,1997-12-27,Centre-Back,Luton Town,5000000.0,3000000.0,Denmark,right,194.0
 Mads Pedersen,2019,0,0,0,1,95,2,bundesliga,True,1996-09-01,Left-Back,FC Augsburg,3500000.0,725000.0,Denmark,left,178.0
 Mads Pedersen,2020,1,0,0,1,883,15,bundesliga,True,1996-09-01,Left-Back,FC Augsburg,3500000.0,1100000.0,Denmark,left,178.0
 Mads Pedersen,2021,5,0,2,1,1392,29,bundesliga,True,1996-09-01,Left-Back,FC Augsburg,3500000.0,2000000.0,Denmark,left,178.0
@@ -9697,6 +9689,11 @@ Marc-André ter Stegen,2022,0,0,0,0,3348,38,laliga,True,1992-04-30,Goalkeeper,FC
 Marc-André ter Stegen,2023,3,0,0,0,2520,28,laliga,True,1992-04-30,Goalkeeper,FC Barcelona,90000000.0,28000000.0,Germany,right,187.0
 Marc-Aurèle Caillard,2020,1,0,0,0,361,5,ligue-1,True,1994-05-12,Goalkeeper,FC Metz,1500000.0,1000000.0,France,right,191.0
 Marc-Aurèle Caillard,2021,1,0,0,0,1540,19,ligue-1,True,1994-05-12,Goalkeeper,FC Metz,1500000.0,1200000.0,France,right,191.0
+Marcano,2019,6,0,5,1,2070,23,liga-portugal-bwin,False,1987-06-23,Centre-Back,FC Porto,8000000.0,2400000.0,Spain,left,189.0
+Marcano,2020,0,0,0,0,6,1,liga-portugal-bwin,False,1987-06-23,Centre-Back,FC Porto,8000000.0,1000000.0,Spain,left,189.0
+Marcano,2021,2,0,1,0,660,8,liga-portugal-bwin,False,1987-06-23,Centre-Back,FC Porto,8000000.0,500000.0,Spain,left,189.0
+Marcano,2022,9,1,4,0,2198,25,liga-portugal-bwin,False,1987-06-23,Centre-Back,FC Porto,8000000.0,500000.0,Spain,left,189.0
+Marcano,2023,1,0,2,0,368,5,liga-portugal-bwin,False,1987-06-23,Centre-Back,FC Porto,8000000.0,250000.0,Spain,left,189.0
 Marcel Halstenberg,2019,6,0,3,3,2522,29,bundesliga,True,1991-09-27,Left-Back,RB Leipzig,22000000.0,20000000.0,Germany,left,188.0
 Marcel Halstenberg,2020,2,0,2,2,1652,24,bundesliga,True,1991-09-27,Left-Back,RB Leipzig,22000000.0,14000000.0,Germany,left,188.0
 Marcel Halstenberg,2021,0,0,1,0,506,8,bundesliga,True,1991-09-27,Left-Back,RB Leipzig,22000000.0,5000000.0,Germany,left,188.0
@@ -9940,7 +9937,7 @@ Mario Pasalic,2023,3,0,6,6,2046,34,serie-a,True,1995-02-09,Central Midfield,Atal
 Mario Suárez,2021,2,0,0,0,709,14,laliga,True,1987-02-24,Centre-Back,Rayo Vallecano,10000000.0,300000.0,Spain,right,189.0
 Mario Suárez,2022,0,0,0,0,11,2,laliga,True,1987-02-24,Centre-Back,Rayo Vallecano,10000000.0,300000.0,Spain,right,189.0
 Mario Vrancic,2019,3,0,1,0,628,20,premier-league,True,1989-05-23,Central Midfield,Norwich City,3500000.0,2000000.0,Bosnia-Herzegovina,left,187.0
-Marios Ikonomou,2022,3,0,0,0,219,6,serie-a,True,1992-10-06,Centre-Back,Panetolikos GFS,2500000.0,300000.0,Greece,right,189.0
+Marios Oikonomou,2022,3,0,0,0,219,6,serie-a,True,1992-10-06,Centre-Back,Panetolikos GFS,2500000.0,300000.0,Greece,right,189.0
 Marios Vrousai,2023,0,0,1,0,661,14,liga-portugal-bwin,False,1998-07-02,Right Winger,Olympiacos Piraeus,1500000.0,1000000.0,Greece,both,183.0
 Marius Bülter,2019,1,0,7,1,2333,32,bundesliga,True,1993-03-29,Left Winger,TSG 1899 Hoffenheim,3000000.0,3000000.0,Germany,right,188.0
 Marius Bülter,2020,1,0,1,0,963,26,bundesliga,True,1993-03-29,Left Winger,TSG 1899 Hoffenheim,3000000.0,1700000.0,Germany,right,188.0
@@ -9975,18 +9972,18 @@ Markel Bergara,2019,2,0,0,0,70,2,laliga,True,1986-05-05,Defensive Midfield,Getaf
 Marko Arnautovic,2021,6,0,14,1,2705,33,serie-a,True,1989-04-19,Centre-Forward,Inter Milan,35000000.0,6000000.0,Austria,both,190.0
 Marko Arnautovic,2022,5,0,10,1,1536,21,serie-a,True,1989-04-19,Centre-Forward,Inter Milan,35000000.0,5000000.0,Austria,both,190.0
 Marko Arnautovic,2023,0,0,5,3,781,27,serie-a,True,1989-04-19,Centre-Forward,Inter Milan,35000000.0,4000000.0,Austria,both,190.0
-Marko Dmitrovic,2019,3,0,0,0,3150,35,laliga,True,1992-01-24,Goalkeeper,Sevilla FC,12000000.0,9500000.0,Serbia,left,189.0
-Marko Dmitrovic,2020,0,0,1,0,3121,35,laliga,True,1992-01-24,Goalkeeper,Sevilla FC,12000000.0,8000000.0,Serbia,left,189.0
-Marko Dmitrovic,2021,0,0,0,0,540,6,laliga,True,1992-01-24,Goalkeeper,Sevilla FC,12000000.0,5000000.0,Serbia,left,189.0
-Marko Dmitrovic,2022,1,0,0,0,1268,15,laliga,True,1992-01-24,Goalkeeper,Sevilla FC,12000000.0,4000000.0,Serbia,left,189.0
-Marko Dmitrovic,2023,1,0,0,0,1170,13,laliga,True,1992-01-24,Goalkeeper,Sevilla FC,12000000.0,900000.0,Serbia,left,189.0
+Marko Dmitrović,2019,3,0,0,0,3150,35,laliga,True,1992-01-24,Goalkeeper,Sevilla FC,12000000.0,9500000.0,Serbia,left,189.0
+Marko Dmitrović,2020,0,0,1,0,3121,35,laliga,True,1992-01-24,Goalkeeper,Sevilla FC,12000000.0,8000000.0,Serbia,left,189.0
+Marko Dmitrović,2021,0,0,0,0,540,6,laliga,True,1992-01-24,Goalkeeper,Sevilla FC,12000000.0,5000000.0,Serbia,left,189.0
+Marko Dmitrović,2022,1,0,0,0,1268,15,laliga,True,1992-01-24,Goalkeeper,Sevilla FC,12000000.0,4000000.0,Serbia,left,189.0
+Marko Dmitrović,2023,1,0,0,0,1170,13,laliga,True,1992-01-24,Goalkeeper,Sevilla FC,12000000.0,900000.0,Serbia,left,189.0
 Marko Grujic,2019,9,0,4,1,2419,29,bundesliga,True,1996-04-13,Defensive Midfield,FC Porto,20000000.0,14500000.0,Serbia,right,191.0
 Marko Grujic,2020,3,0,2,0,818,23,liga-portugal-bwin,False,1996-04-13,Defensive Midfield,FC Porto,20000000.0,15000000.0,Serbia,right,191.0
 Marko Grujic,2021,5,0,1,1,888,21,liga-portugal-bwin,False,1996-04-13,Defensive Midfield,FC Porto,20000000.0,12000000.0,Serbia,right,191.0
 Marko Grujic,2022,5,0,1,0,1123,24,liga-portugal-bwin,False,1996-04-13,Defensive Midfield,FC Porto,20000000.0,9000000.0,Serbia,right,191.0
 Marko Grujic,2023,1,0,0,1,288,10,liga-portugal-bwin,False,1996-04-13,Defensive Midfield,FC Porto,20000000.0,6000000.0,Serbia,right,191.0
 Marko Jankovic,2019,1,0,0,0,111,6,serie-a,True,1995-07-09,Central Midfield,SPAL,2500000.0,1200000.0,Montenegro,left,172.0
-Marko Lazetić,2022,1,0,0,0,8,1,serie-a,True,2004-01-22,Centre-Forward,Fortuna Sittard,3000000.0,2000000.0,Serbia,right,192.0
+Marko Lazetic,2022,1,0,0,0,8,1,serie-a,True,2004-01-22,Centre-Forward,Fortuna Sittard,3000000.0,2000000.0,Serbia,right,192.0
 Marko Milovanovic,2022,1,0,0,0,14,2,laliga,True,2003-08-04,Centre-Forward,UD Almería,1200000.0,1000000.0,Serbia,right,197.0
 Marko Milovanovic,2023,0,0,1,0,302,11,laliga,True,2003-08-04,Centre-Forward,UD Almería,1200000.0,900000.0,Serbia,right,197.0
 Marko Mladenovic,2023,0,0,0,0,5,1,bundesliga,True,2005-01-30,Attacking Midfield,Eintracht Frankfurt,500000.0,500000.0,Serbia,both,174.0
@@ -10199,9 +10196,9 @@ Mateo Pavlovic,2020,3,0,0,1,1103,14,ligue-1,True,1990-06-09,Centre-Back,Angers S
 Mateo Retegui,2023,5,0,7,2,2224,29,serie-a,True,1999-04-29,Centre-Forward,Genoa CFC,16000000.0,16000000.0,Italy,right,186.0
 Mateo Tanlongo,2022,1,0,0,0,130,9,liga-portugal-bwin,False,2003-08-12,Defensive Midfield,FC Copenhagen,2500000.0,2500000.0,Argentina,right,177.0
 Mateo Tanlongo,2023,5,0,0,1,614,12,liga-portugal-bwin,False,2003-08-12,Defensive Midfield,FC Copenhagen,2500000.0,2000000.0,Argentina,right,177.0
-Mateu Morey,2019,0,0,0,1,195,5,bundesliga,True,2000-03-02,Right-Back,Borussia Dortmund,7000000.0,3000000.0,Spain,right,173.0
-Mateu Morey,2020,1,0,0,3,834,13,bundesliga,True,2000-03-02,Right-Back,Borussia Dortmund,7000000.0,7000000.0,Spain,right,173.0
-Mateu Morey,2023,0,0,0,0,110,3,bundesliga,True,2000-03-02,Right-Back,Borussia Dortmund,7000000.0,800000.0,Spain,right,173.0
+Mateu Morey Bauzà,2019,0,0,0,1,195,5,bundesliga,True,2000-03-02,Right-Back,Borussia Dortmund,7000000.0,3000000.0,Spain,right,173.0
+Mateu Morey Bauzà,2020,1,0,0,3,834,13,bundesliga,True,2000-03-02,Right-Back,Borussia Dortmund,7000000.0,7000000.0,Spain,right,173.0
+Mateu Morey Bauzà,2023,0,0,0,0,110,3,bundesliga,True,2000-03-02,Right-Back,Borussia Dortmund,7000000.0,800000.0,Spain,right,173.0
 Mateus,2019,4,0,1,1,1104,27,liga-portugal-bwin,False,1984-06-19,Left Winger,Boavista FC,2500000.0,200000.0,Angola,right,176.0
 Mateus Fernandes,2022,0,0,0,0,88,3,liga-portugal-bwin,False,2004-07-10,Central Midfield,GD Estoril Praia,8000000.0,1500000.0,Portugal,right,178.0
 Mateus Fernandes,2023,0,0,0,0,2,1,liga-portugal-bwin,False,2004-07-10,Central Midfield,GD Estoril Praia,8000000.0,8000000.0,Portugal,right,178.0
@@ -10308,11 +10305,11 @@ Mathías Olivera,2022,2,0,2,2,1635,30,serie-a,True,1997-10-31,Left-Back,SSC Napo
 Mathías Olivera,2023,3,0,1,1,1572,23,serie-a,True,1997-10-31,Left-Back,SSC Napoli,18000000.0,15000000.0,Uruguay,left,185.0
 Mathías Suárez,2019,0,0,0,0,61,1,ligue-1,True,1996-06-24,Right-Back,Montpellier HSC,1500000.0,1000000.0,Uruguay,right,182.0
 Matija Ljujic,2019,2,0,0,1,356,5,liga-portugal-bwin,False,1993-10-28,Attacking Midfield,B SAD,600000.0,400000.0,Serbia,left,183.0
-Matija Nastasic,2019,2,0,0,0,1364,16,bundesliga,True,1993-03-28,Centre-Back,RCD Mallorca,22000000.0,13000000.0,Serbia,left,188.0
-Matija Nastasic,2020,2,0,0,0,1222,15,bundesliga,True,1993-03-28,Centre-Back,RCD Mallorca,22000000.0,5000000.0,Serbia,left,188.0
-Matija Nastasic,2021,1,0,0,0,217,5,serie-a,True,1993-03-28,Centre-Back,RCD Mallorca,22000000.0,1500000.0,Serbia,left,188.0
-Matija Nastasic,2022,3,0,1,0,903,14,laliga,True,1993-03-28,Centre-Back,RCD Mallorca,22000000.0,1500000.0,Serbia,left,188.0
-Matija Nastasic,2023,8,0,2,0,2257,26,laliga,True,1993-03-28,Centre-Back,RCD Mallorca,22000000.0,1500000.0,Serbia,left,188.0
+Matija Nastasić,2019,2,0,0,0,1364,16,bundesliga,True,1993-03-28,Centre-Back,RCD Mallorca,22000000.0,13000000.0,Serbia,left,188.0
+Matija Nastasić,2020,2,0,0,0,1222,15,bundesliga,True,1993-03-28,Centre-Back,RCD Mallorca,22000000.0,5000000.0,Serbia,left,188.0
+Matija Nastasić,2021,1,0,0,0,217,5,serie-a,True,1993-03-28,Centre-Back,RCD Mallorca,22000000.0,1500000.0,Serbia,left,188.0
+Matija Nastasić,2022,3,0,1,0,903,14,laliga,True,1993-03-28,Centre-Back,RCD Mallorca,22000000.0,1500000.0,Serbia,left,188.0
+Matija Nastasić,2023,8,0,2,0,2257,26,laliga,True,1993-03-28,Centre-Back,RCD Mallorca,22000000.0,1500000.0,Serbia,left,188.0
 Matis Carvalho,2019,0,0,0,0,71,1,ligue-1,True,1999-04-28,Goalkeeper,Montpellier HSC,300000.0,150000.0,Portugal,left,186.0
 Matis Carvalho,2022,0,0,0,0,135,2,ligue-1,True,1999-04-28,Goalkeeper,Montpellier HSC,300000.0,300000.0,Portugal,left,186.0
 Mato Jajalo,2019,8,0,0,0,1651,26,serie-a,True,1988-05-25,Defensive Midfield,Udinese Calcio,3500000.0,800000.0,Bosnia-Herzegovina,right,182.0
@@ -10662,8 +10659,8 @@ Mehdi Zeffane,2022,1,0,1,1,654,18,ligue-1,True,1992-05-19,Right-Back,Clermont Fo
 Mehdi Zeffane,2023,2,0,0,1,1235,23,ligue-1,True,1992-05-19,Right-Back,Clermont Foot 63,2000000.0,500000.0,Algeria,right,176.0
 Mehdi Zerkane,2020,3,1,1,1,1190,27,ligue-1,True,1999-07-15,Right Winger,FC Girondins Bordeaux,2500000.0,2500000.0,Algeria,left,186.0
 Mehdi Zerkane,2021,0,0,0,0,78,6,ligue-1,True,1999-07-15,Right Winger,FC Girondins Bordeaux,2500000.0,1500000.0,Algeria,left,186.0
-Mehmet Aydın,2020,0,0,0,0,501,6,bundesliga,True,2002-02-09,Right-Back,Trabzonspor,2000000.0,800000.0,Türkiye,right,180.0
-Mehmet Aydın,2022,0,0,0,0,560,16,bundesliga,True,2002-02-09,Right-Back,Trabzonspor,2000000.0,1500000.0,Türkiye,right,180.0
+Mehmet Aydin,2020,0,0,0,0,501,6,bundesliga,True,2002-02-09,Right-Back,Trabzonspor,2000000.0,800000.0,Türkiye,right,180.0
+Mehmet Aydin,2022,0,0,0,0,560,16,bundesliga,True,2002-02-09,Right-Back,Trabzonspor,2000000.0,1500000.0,Türkiye,right,180.0
 Mehrdad Mohammadi,2019,2,0,8,6,2330,28,liga-portugal-bwin,False,1993-09-29,Right Winger,Desportivo Aves (- 2020),2700000.0,1600000.0,Iran,left,178.0
 Melayro Bogarde,2019,1,0,0,0,50,2,bundesliga,True,2002-05-28,Defensive Midfield,TSG 1899 Hoffenheim,3000000.0,1000000.0,Netherlands,right,186.0
 Melayro Bogarde,2020,1,0,0,1,274,9,bundesliga,True,2002-05-28,Defensive Midfield,TSG 1899 Hoffenheim,3000000.0,2500000.0,Netherlands,right,186.0
@@ -10686,15 +10683,15 @@ Merih Demiral,2021,8,0,1,2,1915,28,serie-a,True,1998-03-05,Centre-Back,Atalanta 
 Merih Demiral,2022,5,0,1,0,1524,28,serie-a,True,1998-03-05,Centre-Back,Atalanta BC,30000000.0,20000000.0,Turkey,right,190.0
 Merlin Röhl,2022,0,0,0,1,53,3,bundesliga,True,2002-07-05,Central Midfield,SC Freiburg,12000000.0,2000000.0,Germany,right,192.0
 Merlin Röhl,2023,3,1,2,4,1484,24,bundesliga,True,2002-07-05,Central Midfield,SC Freiburg,12000000.0,12000000.0,Germany,right,192.0
+Mert Cetin,2019,4,0,0,0,255,6,serie-a,True,1997-01-01,Centre-Back,MKE Ankaragücü,4000000.0,1600000.0,Türkiye,right,189.0
+Mert Cetin,2020,1,0,0,0,418,6,serie-a,True,1997-01-01,Centre-Back,MKE Ankaragücü,4000000.0,2800000.0,Türkiye,right,189.0
+Mert Cetin,2021,0,0,0,0,46,2,serie-a,True,1997-01-01,Centre-Back,MKE Ankaragücü,4000000.0,1700000.0,Türkiye,right,189.0
+Mert Cetin,2022,0,0,0,0,21,1,serie-a,True,1997-01-01,Centre-Back,MKE Ankaragücü,4000000.0,1200000.0,Türkiye,right,189.0
 Mert Kömür,2023,0,0,1,0,116,4,bundesliga,True,2005-07-17,Attacking Midfield,FC Augsburg,2000000.0,2000000.0,Germany,both,183.0
 Mert Müldür,2019,4,0,2,3,1262,23,serie-a,True,1999-04-03,Right-Back,Fenerbahce,10000000.0,4500000.0,Türkiye,right,184.0
 Mert Müldür,2020,2,0,0,1,1688,29,serie-a,True,1999-04-03,Right-Back,Fenerbahce,10000000.0,9000000.0,Türkiye,right,184.0
 Mert Müldür,2021,5,0,0,1,2046,31,serie-a,True,1999-04-03,Right-Back,Fenerbahce,10000000.0,7000000.0,Türkiye,right,184.0
 Mert Müldür,2022,0,0,0,0,13,2,serie-a,True,1999-04-03,Right-Back,Fenerbahce,10000000.0,4000000.0,Türkiye,right,184.0
-Mert Çetin,2019,4,0,0,0,255,6,serie-a,True,1997-01-01,Centre-Back,MKE Ankaragücü,4000000.0,1600000.0,Türkiye,right,189.0
-Mert Çetin,2020,1,0,0,0,418,6,serie-a,True,1997-01-01,Centre-Back,MKE Ankaragücü,4000000.0,2800000.0,Türkiye,right,189.0
-Mert Çetin,2021,0,0,0,0,46,2,serie-a,True,1997-01-01,Centre-Back,MKE Ankaragücü,4000000.0,1700000.0,Türkiye,right,189.0
-Mert Çetin,2022,0,0,0,0,21,1,serie-a,True,1997-01-01,Centre-Back,MKE Ankaragücü,4000000.0,1200000.0,Türkiye,right,189.0
 Merveille Papela,2020,0,0,0,0,1,1,bundesliga,True,2001-01-18,Central Midfield,1.FSV Mainz 05,1000000.0,400000.0,Germany,right,174.0
 Merveille Papela,2021,0,0,0,0,80,5,bundesliga,True,2001-01-18,Central Midfield,1.FSV Mainz 05,1000000.0,400000.0,Germany,right,174.0
 Merveille Papela,2023,1,0,0,0,253,11,bundesliga,True,2001-01-18,Central Midfield,1.FSV Mainz 05,1000000.0,1000000.0,Germany,right,174.0
@@ -10724,6 +10721,7 @@ Michael Keane,2023,2,0,1,0,438,9,premier-league,True,1993-01-11,Centre-Back,Ever
 Michael Lang,2019,0,0,0,0,543,9,bundesliga,True,1991-02-08,Right-Back,Borussia Mönchengladbach,6000000.0,950000.0,Switzerland,right,185.0
 Michael Langer,2020,0,0,0,0,238,3,bundesliga,True,1985-01-06,Goalkeeper,FC Schalke 04,750000.0,100000.0,Austria,right,195.0
 Michael McGovern,2019,0,0,0,0,158,2,premier-league,True,1984-07-12,Goalkeeper,Livingston FC,500000.0,300000.0,Northern Ireland,right,190.0
+Michael Murillo,2023,3,0,3,2,995,16,ligue-1,True,1996-02-11,Right-Back,Olympique Marseille,5000000.0,5000000.0,Panama,right,184.0
 Michael Obafemi,2019,1,0,3,2,661,21,premier-league,True,2000-07-06,Centre-Forward,Burnley FC,5000000.0,4500000.0,Ireland,right,170.0
 Michael Obafemi,2020,0,0,0,0,57,4,premier-league,True,2000-07-06,Centre-Forward,Burnley FC,5000000.0,3000000.0,Ireland,right,170.0
 Michael Obafemi,2023,0,0,0,0,18,2,premier-league,True,2000-07-06,Centre-Forward,Burnley FC,5000000.0,2200000.0,Ireland,right,170.0
@@ -10831,12 +10829,12 @@ Miguel Ángel Guerrero,2019,0,0,1,0,793,13,laliga,True,1990-07-12,Second Striker
 Miguel Ángel Moyá,2019,0,0,0,0,1170,13,laliga,True,1984-04-02,Goalkeeper,Real Sociedad,7000000.0,1200000.0,Spain,right,189.0
 Miha Blazic,2022,4,0,2,0,1979,24,ligue-1,True,1993-05-08,Centre-Back,Angers SCO,2000000.0,1800000.0,Slovenia,right,185.0
 Miha Zajc,2020,4,0,1,3,1865,31,serie-a,True,1994-07-01,Central Midfield,Fenerbahce,6000000.0,3000000.0,Slovenia,right,178.0
-Mihailo Ristic,2019,1,0,0,2,804,18,ligue-1,True,1995-10-31,Left-Back,Celta de Vigo,3500000.0,800000.0,Serbia,left,180.0
-Mihailo Ristic,2020,4,0,0,2,2239,34,ligue-1,True,1995-10-31,Left-Back,Celta de Vigo,3500000.0,2500000.0,Serbia,left,180.0
-Mihailo Ristic,2021,3,1,1,3,1799,29,ligue-1,True,1995-10-31,Left-Back,Celta de Vigo,3500000.0,3500000.0,Serbia,left,180.0
-Mihailo Ristic,2022,0,0,1,1,112,7,liga-portugal-bwin,False,1995-10-31,Left-Back,Celta de Vigo,3500000.0,3000000.0,Serbia,left,180.0
-Mihailo Ristic,2023,0,0,0,0,1,1,liga-portugal-bwin,False,1995-10-31,Left-Back,Celta de Vigo,3500000.0,1000000.0,Serbia,left,180.0
-Mihailo Ristic,2023,2,0,0,0,808,12,laliga,True,1995-10-31,Left-Back,Celta de Vigo,3500000.0,1000000.0,Serbia,left,180.0
+Mihailo Ristić,2019,1,0,0,2,804,18,ligue-1,True,1995-10-31,Left-Back,Celta de Vigo,3500000.0,800000.0,Serbia,left,180.0
+Mihailo Ristić,2020,4,0,0,2,2239,34,ligue-1,True,1995-10-31,Left-Back,Celta de Vigo,3500000.0,2500000.0,Serbia,left,180.0
+Mihailo Ristić,2021,3,1,1,3,1799,29,ligue-1,True,1995-10-31,Left-Back,Celta de Vigo,3500000.0,3500000.0,Serbia,left,180.0
+Mihailo Ristić,2022,0,0,1,1,112,7,liga-portugal-bwin,False,1995-10-31,Left-Back,Celta de Vigo,3500000.0,3000000.0,Serbia,left,180.0
+Mihailo Ristić,2023,0,0,0,0,1,1,liga-portugal-bwin,False,1995-10-31,Left-Back,Celta de Vigo,3500000.0,1000000.0,Serbia,left,180.0
+Mihailo Ristić,2023,2,0,0,0,808,12,laliga,True,1995-10-31,Left-Back,Celta de Vigo,3500000.0,1000000.0,Serbia,left,180.0
 Mijat Gacinovic,2019,2,0,0,1,1047,23,bundesliga,True,1995-02-08,Attacking Midfield,AEK Athens,11000000.0,7000000.0,Serbia,right,175.0
 Mijat Gacinovic,2020,5,0,0,2,812,23,bundesliga,True,1995-02-08,Attacking Midfield,AEK Athens,11000000.0,3500000.0,Serbia,right,175.0
 Mijat Gacinovic,2021,1,0,0,0,107,4,bundesliga,True,1995-02-08,Attacking Midfield,AEK Athens,11000000.0,2500000.0,Serbia,right,175.0
@@ -11409,23 +11407,23 @@ Nemanja Maksimovic,2020,5,0,1,0,2744,35,laliga,True,1995-01-26,Central Midfield,
 Nemanja Maksimovic,2021,5,0,1,2,2943,35,laliga,True,1995-01-26,Central Midfield,Getafe CF,25000000.0,14000000.0,Serbia,right,189.0
 Nemanja Maksimovic,2022,3,0,0,0,2068,29,laliga,True,1995-01-26,Central Midfield,Getafe CF,25000000.0,6000000.0,Serbia,right,189.0
 Nemanja Maksimovic,2023,4,0,4,0,3273,37,laliga,True,1995-01-26,Central Midfield,Getafe CF,25000000.0,6000000.0,Serbia,right,189.0
-Nemanja Matic,2019,2,0,0,2,1583,21,premier-league,True,1988-08-01,Defensive Midfield,Olympique Lyon,40000000.0,16000000.0,Serbia,left,194.0
-Nemanja Matic,2020,2,0,0,1,1101,20,premier-league,True,1988-08-01,Defensive Midfield,Olympique Lyon,40000000.0,8000000.0,Serbia,left,194.0
-Nemanja Matic,2021,3,0,0,4,1383,23,premier-league,True,1988-08-01,Defensive Midfield,Olympique Lyon,40000000.0,5000000.0,Serbia,left,194.0
-Nemanja Matic,2022,5,0,2,3,1838,35,serie-a,True,1988-08-01,Defensive Midfield,Olympique Lyon,40000000.0,4000000.0,Serbia,left,194.0
-Nemanja Matic,2023,7,0,0,0,1028,13,ligue-1,True,1988-08-01,Defensive Midfield,Olympique Lyon,40000000.0,3000000.0,Serbia,left,194.0
-Nemanja Matic,2023,2,0,0,0,1260,15,ligue-1,True,1988-08-01,Defensive Midfield,Olympique Lyon,40000000.0,3000000.0,Serbia,left,194.0
+Nemanja Matić,2019,2,0,0,2,1583,21,premier-league,True,1988-08-01,Defensive Midfield,Olympique Lyon,40000000.0,16000000.0,Serbia,left,194.0
+Nemanja Matić,2020,2,0,0,1,1101,20,premier-league,True,1988-08-01,Defensive Midfield,Olympique Lyon,40000000.0,8000000.0,Serbia,left,194.0
+Nemanja Matić,2021,3,0,0,4,1383,23,premier-league,True,1988-08-01,Defensive Midfield,Olympique Lyon,40000000.0,5000000.0,Serbia,left,194.0
+Nemanja Matić,2022,5,0,2,3,1838,35,serie-a,True,1988-08-01,Defensive Midfield,Olympique Lyon,40000000.0,4000000.0,Serbia,left,194.0
+Nemanja Matić,2023,7,0,0,0,1028,13,ligue-1,True,1988-08-01,Defensive Midfield,Olympique Lyon,40000000.0,3000000.0,Serbia,left,194.0
+Nemanja Matić,2023,2,0,0,0,1260,15,ligue-1,True,1988-08-01,Defensive Midfield,Olympique Lyon,40000000.0,3000000.0,Serbia,left,194.0
 Nemanja Radoja,2019,3,0,1,0,1994,26,laliga,True,1993-02-06,Defensive Midfield,Levante UD,8000000.0,3200000.0,Serbia,right,186.0
 Nemanja Radoja,2020,1,0,0,2,1117,21,laliga,True,1993-02-06,Defensive Midfield,Levante UD,8000000.0,2500000.0,Serbia,right,186.0
 Nemanja Radoja,2021,3,0,0,0,1222,19,laliga,True,1993-02-06,Defensive Midfield,Levante UD,8000000.0,2000000.0,Serbia,right,186.0
-Nemanja Radonjic,2019,3,0,5,1,877,21,ligue-1,True,1996-02-15,Left Winger,Torino FC,10000000.0,6500000.0,Serbia,both,185.0
-Nemanja Radonjic,2020,1,0,1,2,608,12,bundesliga,True,1996-02-15,Left Winger,Torino FC,10000000.0,6000000.0,Serbia,both,185.0
-Nemanja Radonjic,2020,2,0,2,1,391,12,ligue-1,True,1996-02-15,Left Winger,Torino FC,10000000.0,6000000.0,Serbia,both,185.0
-Nemanja Radonjic,2021,0,0,0,0,17,1,ligue-1,True,1996-02-15,Left Winger,Torino FC,10000000.0,4000000.0,Serbia,both,185.0
-Nemanja Radonjic,2021,2,0,0,0,134,6,liga-portugal-bwin,False,1996-02-15,Left Winger,Torino FC,10000000.0,4000000.0,Serbia,both,185.0
-Nemanja Radonjic,2022,1,0,2,2,1464,28,serie-a,True,1996-02-15,Left Winger,Torino FC,10000000.0,4000000.0,Serbia,both,185.0
-Nemanja Radonjic,2023,0,0,0,0,350,11,laliga,True,1996-02-15,Left Winger,Torino FC,10000000.0,2800000.0,Serbia,both,185.0
-Nemanja Radonjic,2023,1,0,3,0,373,10,serie-a,True,1996-02-15,Left Winger,Torino FC,10000000.0,2800000.0,Serbia,both,185.0
+Nemanja Radonjić,2019,3,0,5,1,877,21,ligue-1,True,1996-02-15,Left Winger,Torino FC,10000000.0,6500000.0,Serbia,both,185.0
+Nemanja Radonjić,2020,1,0,1,2,608,12,bundesliga,True,1996-02-15,Left Winger,Torino FC,10000000.0,6000000.0,Serbia,both,185.0
+Nemanja Radonjić,2020,2,0,2,1,391,12,ligue-1,True,1996-02-15,Left Winger,Torino FC,10000000.0,6000000.0,Serbia,both,185.0
+Nemanja Radonjić,2021,0,0,0,0,17,1,ligue-1,True,1996-02-15,Left Winger,Torino FC,10000000.0,4000000.0,Serbia,both,185.0
+Nemanja Radonjić,2021,2,0,0,0,134,6,liga-portugal-bwin,False,1996-02-15,Left Winger,Torino FC,10000000.0,4000000.0,Serbia,both,185.0
+Nemanja Radonjić,2022,1,0,2,2,1464,28,serie-a,True,1996-02-15,Left Winger,Torino FC,10000000.0,4000000.0,Serbia,both,185.0
+Nemanja Radonjić,2023,0,0,0,0,350,11,laliga,True,1996-02-15,Left Winger,Torino FC,10000000.0,2800000.0,Serbia,both,185.0
+Nemanja Radonjić,2023,1,0,3,0,373,10,serie-a,True,1996-02-15,Left Winger,Torino FC,10000000.0,2800000.0,Serbia,both,185.0
 Nenad Tomović,2019,5,1,0,1,1666,22,serie-a,True,1987-08-30,Centre-Back,SPAL,5500000.0,475000.0,Serbia,right,184.0
 Nenad Tomović,2020,0,0,0,0,90,1,serie-a,True,1987-08-30,Centre-Back,SPAL,5500000.0,300000.0,Serbia,right,184.0
 Nené,2019,5,0,0,0,606,18,liga-portugal-bwin,False,1995-06-10,Defensive Midfield,CD Santa Clara,1200000.0,325000.0,Portugal,left,187.0
@@ -11651,24 +11649,24 @@ Nikola Kalinic,2019,1,0,4,1,477,14,serie-a,True,1988-01-05,Centre-Forward,Hellas
 Nikola Kalinic,2020,0,0,1,0,90,1,serie-a,True,1988-01-05,Centre-Forward,Hellas Verona,20000000.0,1500000.0,Croatia,both,187.0
 Nikola Kalinic,2020,2,0,2,0,1071,19,serie-a,True,1988-01-05,Centre-Forward,Hellas Verona,20000000.0,1500000.0,Croatia,both,187.0
 Nikola Krstovic,2023,4,1,7,2,2388,35,serie-a,True,2000-04-05,Centre-Forward,US Lecce,6000000.0,6000000.0,Montenegro,right,185.0
-Nikola Maksimović,2019,2,0,1,1,1798,22,serie-a,True,1991-11-25,Centre-Back,Hatayspor,18000000.0,13500000.0,Serbia,right,193.0
-Nikola Maksimović,2020,1,0,0,0,1206,17,serie-a,True,1991-11-25,Centre-Back,Hatayspor,18000000.0,10000000.0,Serbia,right,193.0
-Nikola Maksimović,2021,2,0,0,0,1116,14,serie-a,True,1991-11-25,Centre-Back,Hatayspor,18000000.0,2500000.0,Serbia,right,193.0
+Nikola Maksimovic,2019,2,0,1,1,1798,22,serie-a,True,1991-11-25,Centre-Back,Hatayspor,18000000.0,13500000.0,Serbia,right,193.0
+Nikola Maksimovic,2020,1,0,0,0,1206,17,serie-a,True,1991-11-25,Centre-Back,Hatayspor,18000000.0,10000000.0,Serbia,right,193.0
+Nikola Maksimovic,2021,2,0,0,0,1116,14,serie-a,True,1991-11-25,Centre-Back,Hatayspor,18000000.0,2500000.0,Serbia,right,193.0
 Nikola Maras,2021,4,0,0,0,1040,16,laliga,True,1995-12-19,Centre-Back,Deportivo Alavés,2000000.0,1200000.0,Serbia,right,189.0
-Nikola Milenkovic,2019,9,0,5,0,3167,36,serie-a,True,1997-10-12,Centre-Back,ACF Fiorentina,35000000.0,24000000.0,Serbia,right,195.0
-Nikola Milenkovic,2020,7,1,3,1,3126,35,serie-a,True,1997-10-12,Centre-Back,ACF Fiorentina,35000000.0,25000000.0,Serbia,right,195.0
-Nikola Milenkovic,2021,10,0,1,0,2929,34,serie-a,True,1997-10-12,Centre-Back,ACF Fiorentina,35000000.0,20000000.0,Serbia,right,195.0
-Nikola Milenkovic,2022,4,0,2,1,2136,27,serie-a,True,1997-10-12,Centre-Back,ACF Fiorentina,35000000.0,18000000.0,Serbia,right,195.0
-Nikola Milenkovic,2023,4,0,0,0,2505,34,serie-a,True,1997-10-12,Centre-Back,ACF Fiorentina,35000000.0,15000000.0,Serbia,right,195.0
+Nikola Milenković,2019,9,0,5,0,3167,36,serie-a,True,1997-10-12,Centre-Back,ACF Fiorentina,35000000.0,24000000.0,Serbia,right,195.0
+Nikola Milenković,2020,7,1,3,1,3126,35,serie-a,True,1997-10-12,Centre-Back,ACF Fiorentina,35000000.0,25000000.0,Serbia,right,195.0
+Nikola Milenković,2021,10,0,1,0,2929,34,serie-a,True,1997-10-12,Centre-Back,ACF Fiorentina,35000000.0,20000000.0,Serbia,right,195.0
+Nikola Milenković,2022,4,0,2,1,2136,27,serie-a,True,1997-10-12,Centre-Back,ACF Fiorentina,35000000.0,18000000.0,Serbia,right,195.0
+Nikola Milenković,2023,4,0,0,0,2505,34,serie-a,True,1997-10-12,Centre-Back,ACF Fiorentina,35000000.0,15000000.0,Serbia,right,195.0
 Nikola Moro,2022,1,0,1,5,1221,26,serie-a,True,1998-03-12,Defensive Midfield,Bologna FC 1909,9000000.0,6500000.0,Croatia,right,184.0
 Nikola Moro,2023,0,0,1,0,834,23,serie-a,True,1998-03-12,Defensive Midfield,Bologna FC 1909,9000000.0,5000000.0,Croatia,right,184.0
 Nikola Sekulov,2023,0,0,0,0,10,1,serie-a,True,2002-02-18,Right Winger,Juventus FC,800000.0,800000.0,Italy,right,185.0
 Nikola Soldo,2022,1,0,0,0,591,7,bundesliga,True,2001-01-25,Centre-Back,1.FC Köln,1800000.0,1500000.0,Croatia,right,189.0
 Nikola Stojiljkovic,2019,5,0,2,1,1543,24,liga-portugal-bwin,False,1992-08-17,Centre-Forward,SC Farense,3250000.0,650000.0,Serbia,right,185.0
 Nikola Stojiljkovic,2020,2,0,3,0,1163,21,liga-portugal-bwin,False,1992-08-17,Centre-Forward,SC Farense,3250000.0,600000.0,Serbia,right,185.0
-Nikola Vlašić,2021,0,0,1,0,554,19,premier-league,True,1997-10-04,Attacking Midfield,Torino FC,30000000.0,22000000.0,Croatia,right,179.0
-Nikola Vlašić,2022,1,0,5,6,2731,34,serie-a,True,1997-10-04,Attacking Midfield,Torino FC,30000000.0,17000000.0,Croatia,right,179.0
-Nikola Vlašić,2023,3,0,3,2,2615,33,serie-a,True,1997-10-04,Attacking Midfield,Torino FC,30000000.0,10000000.0,Croatia,right,179.0
+Nikola Vlasic,2021,0,0,1,0,554,19,premier-league,True,1997-10-04,Attacking Midfield,Torino FC,30000000.0,22000000.0,Croatia,right,179.0
+Nikola Vlasic,2022,1,0,5,6,2731,34,serie-a,True,1997-10-04,Attacking Midfield,Torino FC,30000000.0,17000000.0,Croatia,right,179.0
+Nikola Vlasic,2023,3,0,3,2,2615,33,serie-a,True,1997-10-04,Attacking Midfield,Torino FC,30000000.0,10000000.0,Croatia,right,179.0
 Nikola Vukcevic,2019,11,0,0,2,1574,30,laliga,True,1991-12-13,Defensive Midfield,Levante UD,7500000.0,2400000.0,Montenegro,left,187.0
 Nikola Vukcevic,2020,4,0,0,0,815,13,laliga,True,1991-12-13,Defensive Midfield,Levante UD,7500000.0,1800000.0,Montenegro,left,187.0
 Nikola Vukcevic,2021,1,0,0,0,113,6,laliga,True,1991-12-13,Defensive Midfield,Levante UD,7500000.0,1000000.0,Montenegro,left,187.0
@@ -11843,9 +11841,6 @@ Oleksandr Zinchenko,2020,0,0,0,0,1474,20,premier-league,True,1996-12-15,Left-Bac
 Oleksandr Zinchenko,2021,0,0,0,4,1044,15,premier-league,True,1996-12-15,Left-Back,Arsenal FC,42000000.0,25000000.0,Ukraine,left,175.0
 Oleksandr Zinchenko,2022,3,0,1,2,2136,27,premier-league,True,1996-12-15,Left-Back,Arsenal FC,42000000.0,42000000.0,Ukraine,left,175.0
 Oleksandr Zinchenko,2023,2,0,1,2,1725,27,premier-league,True,1996-12-15,Left-Back,Arsenal FC,42000000.0,38000000.0,Ukraine,left,175.0
-Oli McBurnie,2019,4,0,6,0,2119,36,premier-league,True,1996-06-04,Centre-Forward,Sheffield United,15000000.0,12000000.0,Scotland,right,188.0
-Oli McBurnie,2020,2,0,1,1,1319,23,premier-league,True,1996-06-04,Centre-Forward,Sheffield United,15000000.0,10000000.0,Scotland,right,188.0
-Oli McBurnie,2023,7,0,6,3,1285,21,premier-league,True,1996-06-04,Centre-Forward,Sheffield United,15000000.0,4500000.0,Scotland,right,188.0
 Olinho,2023,0,0,0,0,52,2,bundesliga,True,2001-04-05,Central Midfield,Borussia Dortmund,1500000.0,1500000.0,Germany,right,183.0
 Oliver Abildgaard,2022,2,0,0,0,586,13,serie-a,True,1996-06-10,Defensive Midfield,Hellas Verona,7500000.0,4500000.0,Denmark,left,192.0
 Oliver Arblaster,2023,2,0,0,0,946,12,premier-league,True,2004-01-08,Central Midfield,Sheffield United,450000.0,450000.0,England,right,180.0
@@ -11862,6 +11857,9 @@ Oliver Burke,2023,0,0,0,0,31,1,bundesliga,True,1997-04-07,Right Winger,SV Werder
 Oliver Christensen,2022,2,0,0,0,2970,33,bundesliga,True,1999-03-22,Goalkeeper,ACF Fiorentina,4500000.0,4000000.0,Denmark,right,190.0
 Oliver Christensen,2023,0,0,0,0,360,4,serie-a,True,1999-03-22,Goalkeeper,ACF Fiorentina,4500000.0,3000000.0,Denmark,right,190.0
 Oliver Fink,2019,2,0,0,3,675,14,bundesliga,True,1982-06-06,Central Midfield,Fortuna Düsseldorf,1250000.0,250000.0,Germany,right,187.0
+Oliver McBurnie,2019,4,0,6,0,2119,36,premier-league,True,1996-06-04,Centre-Forward,Sheffield United,15000000.0,12000000.0,Scotland,right,188.0
+Oliver McBurnie,2020,2,0,1,1,1319,23,premier-league,True,1996-06-04,Centre-Forward,Sheffield United,15000000.0,10000000.0,Scotland,right,188.0
+Oliver McBurnie,2023,7,0,6,3,1285,21,premier-league,True,1996-06-04,Centre-Forward,Sheffield United,15000000.0,4500000.0,Scotland,right,188.0
 Oliver Norwood,2019,8,0,1,1,3100,38,premier-league,True,1991-04-12,Central Midfield,Sheffield United,9000000.0,9000000.0,Northern Ireland,right,175.0
 Oliver Norwood,2020,6,0,0,0,2223,32,premier-league,True,1991-04-12,Central Midfield,Sheffield United,9000000.0,5000000.0,Northern Ireland,right,175.0
 Oliver Norwood,2023,8,0,1,0,1433,27,premier-league,True,1991-04-12,Central Midfield,Sheffield United,9000000.0,1000000.0,Northern Ireland,right,175.0
@@ -12063,7 +12061,7 @@ Panagiotis Retsos,2022,0,0,0,0,121,2,serie-a,True,1998-08-09,Centre-Back,Olympia
 Panagiotis Tachtsidis,2019,7,0,0,2,1942,27,serie-a,True,1991-02-15,Defensive Midfield,US Lecce,3500000.0,950000.0,Greece,left,191.0
 Panagiotis Tachtsidis,2020,0,0,0,0,61,1,serie-a,True,1991-02-15,Defensive Midfield,US Lecce,3500000.0,900000.0,Greece,left,191.0
 Panos Katseris,2023,4,0,1,1,1049,15,ligue-1,True,2001-07-05,Right-Back,FC Lorient,2500000.0,2500000.0,Greece,right,187.0
-Pantelis Hatzidiakos,2023,1,0,0,0,863,13,serie-a,True,1997-01-18,Centre-Back,Cagliari Calcio,4000000.0,2500000.0,Greece,right,185.0
+Pantelis Chatzidiakos,2023,1,0,0,0,863,13,serie-a,True,1997-01-18,Centre-Back,Cagliari Calcio,4000000.0,2500000.0,Greece,right,185.0
 Paolo Bartolomei,2020,1,0,0,1,318,6,serie-a,True,1989-08-22,Central Midfield,US Cremonese,800000.0,550000.0,Italy,right,183.0
 Paolo Faragò,2019,2,0,1,1,1248,20,serie-a,True,1993-02-12,Central Midfield,Cagliari Calcio,6000000.0,4000000.0,Italy,right,187.0
 Paolo Faragò,2020,0,0,0,0,22,1,serie-a,True,1993-02-12,Central Midfield,Cagliari Calcio,6000000.0,2000000.0,Italy,right,187.0
@@ -12284,14 +12282,14 @@ Pavel Kaderabek,2020,3,0,0,4,1587,20,bundesliga,True,1992-04-25,Right-Back,TSG 1
 Pavel Kaderabek,2021,5,0,1,3,1200,19,bundesliga,True,1992-04-25,Right-Back,TSG 1899 Hoffenheim,20000000.0,5000000.0,Czech Republic,right,182.0
 Pavel Kaderabek,2022,1,0,1,1,1662,26,bundesliga,True,1992-04-25,Right-Back,TSG 1899 Hoffenheim,20000000.0,3000000.0,Czech Republic,right,182.0
 Pavel Kaderabek,2023,7,0,3,5,2422,29,bundesliga,True,1992-04-25,Right-Back,TSG 1899 Hoffenheim,20000000.0,3000000.0,Czech Republic,right,182.0
+Pawel Dawidowicz,2019,4,1,1,0,690,15,serie-a,True,1995-05-20,Centre-Back,Hellas Verona,5000000.0,1600000.0,Poland,both,189.0
+Pawel Dawidowicz,2020,9,0,0,0,1862,30,serie-a,True,1995-05-20,Centre-Back,Hellas Verona,5000000.0,4000000.0,Poland,both,189.0
+Pawel Dawidowicz,2021,3,0,0,0,1195,17,serie-a,True,1995-05-20,Centre-Back,Hellas Verona,5000000.0,4500000.0,Poland,both,189.0
+Pawel Dawidowicz,2022,6,1,1,1,1634,23,serie-a,True,1995-05-20,Centre-Back,Hellas Verona,5000000.0,3000000.0,Poland,both,189.0
+Pawel Dawidowicz,2023,5,0,0,0,2143,28,serie-a,True,1995-05-20,Centre-Back,Hellas Verona,5000000.0,3000000.0,Poland,both,189.0
 Pawel Jaroszynski,2021,2,0,0,0,510,13,serie-a,True,1994-10-02,Left Midfield,US Salernitana 1919,650000.0,600000.0,Poland,left,184.0
 Pawel Kieszek,2019,0,0,0,0,3060,34,liga-portugal-bwin,False,1984-04-16,Goalkeeper,Rio Ave FC,1750000.0,325000.0,Poland,right,187.0
 Pawel Kieszek,2020,0,0,0,0,3060,34,liga-portugal-bwin,False,1984-04-16,Goalkeeper,Rio Ave FC,1750000.0,200000.0,Poland,right,187.0
-Paweł Dawidowicz,2019,4,1,1,0,690,15,serie-a,True,1995-05-20,Centre-Back,Hellas Verona,5000000.0,1600000.0,Poland,both,189.0
-Paweł Dawidowicz,2020,9,0,0,0,1862,30,serie-a,True,1995-05-20,Centre-Back,Hellas Verona,5000000.0,4000000.0,Poland,both,189.0
-Paweł Dawidowicz,2021,3,0,0,0,1195,17,serie-a,True,1995-05-20,Centre-Back,Hellas Verona,5000000.0,4500000.0,Poland,both,189.0
-Paweł Dawidowicz,2022,6,1,1,1,1634,23,serie-a,True,1995-05-20,Centre-Back,Hellas Verona,5000000.0,3000000.0,Poland,both,189.0
-Paweł Dawidowicz,2023,5,0,0,0,2143,28,serie-a,True,1995-05-20,Centre-Back,Hellas Verona,5000000.0,3000000.0,Poland,both,189.0
 Paxten Aaronson,2022,1,0,0,1,166,7,bundesliga,True,2003-08-26,Attacking Midfield,Vitesse Arnhem,4500000.0,4500000.0,United States,right,175.0
 Paxten Aaronson,2023,0,0,0,1,95,7,bundesliga,True,2003-08-26,Attacking Midfield,Vitesse Arnhem,4500000.0,4500000.0,United States,right,175.0
 Payam Niazmand,2021,0,0,0,0,180,2,liga-portugal-bwin,False,1995-04-06,Goalkeeper,Portimonense SC,900000.0,500000.0,Iran,right,194.0
@@ -12413,6 +12411,8 @@ Pejiño,2023,1,0,2,0,498,17,laliga,True,1996-07-29,Left Winger,UD Las Palmas,180
 Pelly Ruddock Mpanzu,2023,1,0,0,0,1093,27,premier-league,True,1994-03-22,Defensive Midfield,Luton Town,1800000.0,1500000.0,DR Congo,right,175.0
 Pelé,2020,5,0,2,1,1860,25,liga-portugal-bwin,False,1991-09-29,Defensive Midfield,FC Famalicão,8000000.0,2000000.0,Guinea-Bissau,right,182.0
 Pelé,2022,2,0,0,0,614,12,liga-portugal-bwin,False,1991-09-29,Defensive Midfield,FC Famalicão,8000000.0,600000.0,Guinea-Bissau,right,182.0
+Penetra,2021,6,1,1,0,2565,30,liga-portugal-bwin,False,2001-09-09,Centre-Back,AZ Alkmaar,5500000.0,3000000.0,Portugal,right,186.0
+Penetra,2022,5,0,2,2,2517,29,liga-portugal-bwin,False,2001-09-09,Centre-Back,AZ Alkmaar,5500000.0,4000000.0,Portugal,right,186.0
 Pep Biel,2023,1,0,0,0,275,11,bundesliga,True,1996-09-05,Attacking Midfield,Olympiacos Piraeus,6000000.0,3000000.0,Spain,left,172.0
 Pep Chavarría,2022,1,0,0,2,356,16,laliga,True,1998-04-10,Left-Back,Rayo Vallecano,2000000.0,1500000.0,Spain,left,174.0
 Pep Chavarría,2023,4,0,1,1,1156,21,laliga,True,1998-04-10,Left-Back,Rayo Vallecano,2000000.0,2000000.0,Spain,left,174.0
@@ -12555,11 +12555,11 @@ Pierre-Emerick Aubameyang,2021,0,0,11,1,1092,17,laliga,True,1989-06-18,Centre-Fo
 Pierre-Emerick Aubameyang,2022,0,0,0,0,8,1,laliga,True,1989-06-18,Centre-Forward,Olympique Marseille,75000000.0,4000000.0,Gabon,right,187.0
 Pierre-Emerick Aubameyang,2022,1,0,1,0,551,15,premier-league,True,1989-06-18,Centre-Forward,Olympique Marseille,75000000.0,4000000.0,Gabon,right,187.0
 Pierre-Emerick Aubameyang,2023,4,0,17,8,2628,34,ligue-1,True,1989-06-18,Centre-Forward,Olympique Marseille,75000000.0,5000000.0,Gabon,right,187.0
-Pierre-Emile Højbjerg,2019,5,0,0,1,2750,33,premier-league,True,1995-08-05,Defensive Midfield,Tottenham Hotspur,45000000.0,20000000.0,Denmark,right,185.0
-Pierre-Emile Højbjerg,2020,9,0,2,4,3420,38,premier-league,True,1995-08-05,Defensive Midfield,Tottenham Hotspur,45000000.0,40000000.0,Denmark,right,185.0
-Pierre-Emile Højbjerg,2021,3,0,2,2,3199,36,premier-league,True,1995-08-05,Defensive Midfield,Tottenham Hotspur,45000000.0,40000000.0,Denmark,right,185.0
-Pierre-Emile Højbjerg,2022,5,0,4,5,3133,35,premier-league,True,1995-08-05,Defensive Midfield,Tottenham Hotspur,45000000.0,45000000.0,Denmark,right,185.0
-Pierre-Emile Højbjerg,2023,4,0,0,0,1293,36,premier-league,True,1995-08-05,Defensive Midfield,Tottenham Hotspur,45000000.0,18000000.0,Denmark,right,185.0
+Pierre-Emile Höjbjerg,2019,5,0,0,1,2750,33,premier-league,True,1995-08-05,Defensive Midfield,Tottenham Hotspur,45000000.0,20000000.0,Denmark,right,185.0
+Pierre-Emile Höjbjerg,2020,9,0,2,4,3420,38,premier-league,True,1995-08-05,Defensive Midfield,Tottenham Hotspur,45000000.0,40000000.0,Denmark,right,185.0
+Pierre-Emile Höjbjerg,2021,3,0,2,2,3199,36,premier-league,True,1995-08-05,Defensive Midfield,Tottenham Hotspur,45000000.0,40000000.0,Denmark,right,185.0
+Pierre-Emile Höjbjerg,2022,5,0,4,5,3133,35,premier-league,True,1995-08-05,Defensive Midfield,Tottenham Hotspur,45000000.0,45000000.0,Denmark,right,185.0
+Pierre-Emile Höjbjerg,2023,4,0,0,0,1293,36,premier-league,True,1995-08-05,Defensive Midfield,Tottenham Hotspur,45000000.0,18000000.0,Denmark,right,185.0
 Pierre-Yves Hamel,2020,5,0,4,2,841,23,ligue-1,True,1994-02-03,Centre-Forward,Clermont Foot 63,3500000.0,3000000.0,France,right,189.0
 Pierre-Yves Hamel,2021,1,0,0,0,27,3,ligue-1,True,1994-02-03,Centre-Forward,Clermont Foot 63,3500000.0,1200000.0,France,right,189.0
 Pierre-Yves Hamel,2021,2,0,0,0,516,17,ligue-1,True,1994-02-03,Centre-Forward,Clermont Foot 63,3500000.0,1200000.0,France,right,189.0
@@ -12631,6 +12631,9 @@ Przemyslaw Frankowski,2023,4,0,3,2,2193,30,ligue-1,True,1995-04-12,Right Midfiel
 Przemyslaw Placheta,2021,1,0,0,0,506,12,premier-league,True,1998-03-23,Left Winger,Norwich City,2500000.0,1800000.0,Poland,left,178.0
 Przemyslaw Szyminski,2023,0,0,0,0,8,1,serie-a,True,1994-06-24,Centre-Back,Frosinone Calcio,800000.0,700000.0,Poland,right,185.0
 Przemyslaw Wisniewski,2022,3,0,1,0,1000,14,serie-a,True,1998-07-27,Centre-Back,Spezia Calcio,3000000.0,3000000.0,Poland,right,195.0
+Puma,2019,0,0,0,0,21,1,laliga,True,1998-06-19,Left Winger,FC Famalicão,2000000.0,450000.0,Panama,left,180.0
+Puma,2022,3,0,1,3,508,7,liga-portugal-bwin,False,1998-06-19,Left Winger,FC Famalicão,2000000.0,1500000.0,Panama,left,180.0
+Puma,2023,3,1,1,5,1503,23,liga-portugal-bwin,False,1998-06-19,Left Winger,FC Famalicão,2000000.0,2000000.0,Panama,left,180.0
 Péter Gulácsi,2019,0,0,0,2,2880,32,bundesliga,True,1990-05-06,Goalkeeper,RB Leipzig,13000000.0,9500000.0,Hungary,right,190.0
 Péter Gulácsi,2020,0,0,0,0,2970,33,bundesliga,True,1990-05-06,Goalkeeper,RB Leipzig,13000000.0,13000000.0,Hungary,right,190.0
 Péter Gulácsi,2021,1,0,0,0,2967,33,bundesliga,True,1990-05-06,Goalkeeper,RB Leipzig,13000000.0,8000000.0,Hungary,right,190.0
@@ -12682,11 +12685,11 @@ Radja Nainggolan,2020,0,0,0,0,42,4,serie-a,True,1988-05-04,Central Midfield,Roya
 Radja Nainggolan,2020,5,0,1,0,1848,22,serie-a,True,1988-05-04,Central Midfield,Royal Antwerp FC,45000000.0,5000000.0,Belgium,right,177.0
 Radoslaw Majecki,2020,0,0,0,0,90,1,ligue-1,True,1999-11-16,Goalkeeper,AS Monaco,5000000.0,4000000.0,Poland,right,193.0
 Radoslaw Majecki,2023,1,0,0,0,1080,12,ligue-1,True,1999-11-16,Goalkeeper,AS Monaco,5000000.0,5000000.0,Poland,right,193.0
-Radu Drăgușin,2020,0,0,0,0,1,1,serie-a,True,2002-02-03,Centre-Back,Genoa CFC,25000000.0,3000000.0,Romania,right,191.0
-Radu Drăgușin,2021,1,0,0,0,486,7,serie-a,True,2002-02-03,Centre-Back,Genoa CFC,25000000.0,3500000.0,Romania,right,191.0
-Radu Drăgușin,2021,1,0,0,0,613,13,serie-a,True,2002-02-03,Centre-Back,Genoa CFC,25000000.0,3500000.0,Romania,right,191.0
-Radu Drăgușin,2023,1,0,0,0,424,9,premier-league,True,2002-02-03,Centre-Back,Genoa CFC,25000000.0,25000000.0,Romania,right,191.0
-Radu Drăgușin,2023,1,0,2,1,1710,19,serie-a,True,2002-02-03,Centre-Back,Genoa CFC,25000000.0,25000000.0,Romania,right,191.0
+Radu Dragusin,2020,0,0,0,0,1,1,serie-a,True,2002-02-03,Centre-Back,Genoa CFC,25000000.0,3000000.0,Romania,right,191.0
+Radu Dragusin,2021,1,0,0,0,486,7,serie-a,True,2002-02-03,Centre-Back,Genoa CFC,25000000.0,3500000.0,Romania,right,191.0
+Radu Dragusin,2021,1,0,0,0,613,13,serie-a,True,2002-02-03,Centre-Back,Genoa CFC,25000000.0,3500000.0,Romania,right,191.0
+Radu Dragusin,2023,1,0,0,0,424,9,premier-league,True,2002-02-03,Centre-Back,Genoa CFC,25000000.0,25000000.0,Romania,right,191.0
+Radu Dragusin,2023,1,0,2,1,1710,19,serie-a,True,2002-02-03,Centre-Back,Genoa CFC,25000000.0,25000000.0,Romania,right,191.0
 Rafa,2019,3,0,7,5,1699,25,liga-portugal-bwin,False,1993-05-17,Second Striker,SL Benfica,30000000.0,24000000.0,Portugal,right,172.0
 Rafa,2020,3,0,5,6,2195,29,liga-portugal-bwin,False,1993-05-17,Second Striker,SL Benfica,30000000.0,23000000.0,Portugal,right,172.0
 Rafa,2021,3,0,8,16,2044,28,liga-portugal-bwin,False,1993-05-17,Second Striker,SL Benfica,30000000.0,20000000.0,Portugal,right,172.0
@@ -12864,6 +12867,10 @@ Rayan Cherki,2022,3,0,4,6,1871,34,ligue-1,True,2003-08-17,Attacking Midfield,Oly
 Rayan Cherki,2023,0,0,1,6,1718,33,ligue-1,True,2003-08-17,Attacking Midfield,Olympique Lyon,30000000.0,25000000.0,France,both,180.0
 Rayan Philippe,2020,0,0,0,0,91,4,ligue-1,True,2000-10-23,Left Winger,Dijon FCO,700000.0,700000.0,France,left,182.0
 Rayan Raveloson,2022,0,0,2,1,2428,34,ligue-1,True,1997-01-16,Defensive Midfield,AJ Auxerre,2000000.0,1800000.0,Madagascar,right,183.0
+Razvan Marin,2020,6,0,3,6,2975,37,serie-a,True,1996-05-23,Defensive Midfield,FC Empoli,15000000.0,15000000.0,Romania,right,178.0
+Razvan Marin,2021,6,0,0,6,2815,36,serie-a,True,1996-05-23,Defensive Midfield,FC Empoli,15000000.0,12000000.0,Romania,right,178.0
+Razvan Marin,2022,7,0,2,4,2540,33,serie-a,True,1996-05-23,Defensive Midfield,FC Empoli,15000000.0,8000000.0,Romania,right,178.0
+Razvan Marin,2023,3,0,0,3,1818,30,serie-a,True,1996-05-23,Defensive Midfield,FC Empoli,15000000.0,3500000.0,Romania,right,178.0
 Raúl Albiol,2019,9,0,1,0,3238,36,laliga,True,1985-09-04,Centre-Back,Villarreal CF,18000000.0,3200000.0,Spain,right,190.0
 Raúl Albiol,2020,7,0,0,0,3119,35,laliga,True,1985-09-04,Centre-Back,Villarreal CF,18000000.0,2500000.0,Spain,right,190.0
 Raúl Albiol,2021,8,0,0,0,2466,28,laliga,True,1985-09-04,Centre-Back,Villarreal CF,18000000.0,3000000.0,Spain,right,190.0
@@ -13451,11 +13458,11 @@ Roméo Lavia,2022,9,0,1,0,2231,29,premier-league,True,2004-01-06,Defensive Midfi
 Roméo Lavia,2023,0,0,0,0,32,1,premier-league,True,2004-01-06,Defensive Midfield,Chelsea FC,50000000.0,35000000.0,Belgium,right,181.0
 Ron-Robert Zieler,2020,0,0,0,0,50,1,bundesliga,True,1989-02-12,Goalkeeper,1.FC Köln,9500000.0,1000000.0,Germany,right,188.0
 Ronald,2023,4,0,1,2,1327,17,liga-portugal-bwin,False,2001-06-14,Right Winger,CF Estrela Amadora,1800000.0,1800000.0,Brazil,right,177.0
-Ronald Araujo,2019,0,1,0,0,236,6,laliga,True,1999-03-07,Centre-Back,FC Barcelona,70000000.0,10000000.0,Uruguay,right,192.0
-Ronald Araujo,2020,3,0,2,1,1508,24,laliga,True,1999-03-07,Centre-Back,FC Barcelona,70000000.0,25000000.0,Uruguay,right,192.0
-Ronald Araujo,2021,6,0,4,0,2270,30,laliga,True,1999-03-07,Centre-Back,FC Barcelona,70000000.0,50000000.0,Uruguay,right,192.0
-Ronald Araujo,2022,6,1,0,2,1804,22,laliga,True,1999-03-07,Centre-Back,FC Barcelona,70000000.0,70000000.0,Uruguay,right,192.0
-Ronald Araujo,2023,6,0,1,2,1994,25,laliga,True,1999-03-07,Centre-Back,FC Barcelona,70000000.0,70000000.0,Uruguay,right,192.0
+Ronald Araújo,2019,0,1,0,0,236,6,laliga,True,1999-03-07,Centre-Back,FC Barcelona,70000000.0,10000000.0,Uruguay,right,192.0
+Ronald Araújo,2020,3,0,2,1,1508,24,laliga,True,1999-03-07,Centre-Back,FC Barcelona,70000000.0,25000000.0,Uruguay,right,192.0
+Ronald Araújo,2021,6,0,4,0,2270,30,laliga,True,1999-03-07,Centre-Back,FC Barcelona,70000000.0,50000000.0,Uruguay,right,192.0
+Ronald Araújo,2022,6,1,0,2,1804,22,laliga,True,1999-03-07,Centre-Back,FC Barcelona,70000000.0,70000000.0,Uruguay,right,192.0
+Ronald Araújo,2023,6,0,1,2,1994,25,laliga,True,1999-03-07,Centre-Back,FC Barcelona,70000000.0,70000000.0,Uruguay,right,192.0
 Ronaldo Tavares,2023,2,0,3,0,1153,24,liga-portugal-bwin,False,1997-07-22,Centre-Forward,CF Estrela Amadora,400000.0,400000.0,Portugal,right,194.0
 Ronaldo Vieira,2019,10,1,0,1,1748,26,serie-a,True,1998-07-19,Central Midfield,UC Sampdoria,7000000.0,6300000.0,England,right,178.0
 Ronaldo Vieira,2020,1,0,0,0,225,4,serie-a,True,1998-07-19,Central Midfield,UC Sampdoria,7000000.0,5000000.0,England,right,178.0
@@ -13690,10 +13697,6 @@ Rúben Vinagre,2022,0,0,0,0,24,2,premier-league,True,1999-04-09,Left Midfield,He
 Rúben Vinagre,2023,0,0,0,0,276,12,serie-a,True,1999-04-09,Left Midfield,Hellas Verona,10000000.0,2400000.0,Portugal,left,174.0
 Rúnar Alex Rúnarsson,2019,0,0,0,0,900,11,ligue-1,True,1995-02-18,Goalkeeper,FC Copenhagen,4500000.0,1200000.0,Iceland,right,186.0
 Rúnar Alex Rúnarsson,2020,0,0,0,0,15,1,premier-league,True,1995-02-18,Goalkeeper,FC Copenhagen,4500000.0,1500000.0,Iceland,right,186.0
-Răzvan Marin,2020,6,0,3,6,2975,37,serie-a,True,1996-05-23,Defensive Midfield,FC Empoli,15000000.0,15000000.0,Romania,right,178.0
-Răzvan Marin,2021,6,0,0,6,2815,36,serie-a,True,1996-05-23,Defensive Midfield,FC Empoli,15000000.0,12000000.0,Romania,right,178.0
-Răzvan Marin,2022,7,0,2,4,2540,33,serie-a,True,1996-05-23,Defensive Midfield,FC Empoli,15000000.0,8000000.0,Romania,right,178.0
-Răzvan Marin,2023,3,0,0,3,1818,30,serie-a,True,1996-05-23,Defensive Midfield,FC Empoli,15000000.0,3500000.0,Romania,right,178.0
 Saba Sazonov,2023,2,0,0,0,348,12,serie-a,True,2002-02-01,Centre-Back,Torino FC,3000000.0,2800000.0,Georgia,right,194.0
 Sabin Merino,2019,0,0,0,0,78,2,laliga,True,1992-01-04,Centre-Forward,CD Leganés,3000000.0,800000.0,Spain,right,187.0
 Sabit Abdulai,2020,1,0,0,0,58,3,laliga,True,1999-05-11,Defensive Midfield,Getafe CF,200000.0,150000.0,Ghana,right,187.0
@@ -13713,7 +13716,6 @@ Sadio Mané,2019,3,0,18,9,2755,35,premier-league,True,1992-04-10,Left Winger,Bay
 Sadio Mané,2020,3,0,11,8,2812,35,premier-league,True,1992-04-10,Left Winger,Bayern Munich,150000000.0,85000000.0,Senegal,right,174.0
 Sadio Mané,2021,5,0,16,4,2825,34,premier-league,True,1992-04-10,Left Winger,Bayern Munich,150000000.0,70000000.0,Senegal,right,174.0
 Sadio Mané,2022,2,0,7,5,1431,25,bundesliga,True,1992-04-10,Left Winger,Bayern Munich,150000000.0,25000000.0,Senegal,right,174.0
-Said Hamulic,2022,1,0,0,0,98,6,ligue-1,True,2000-11-12,Centre-Forward,Vitesse Arnhem,1500000.0,1500000.0,Bosnia-Herzegovina,right,186.0
 Saidy Janko,2020,4,0,0,1,1224,19,laliga,True,1995-10-22,Right-Back,VfL Bochum,3000000.0,1500000.0,The Gambia,right,181.0
 Saidy Janko,2022,1,0,0,0,1132,20,bundesliga,True,1995-10-22,Right-Back,VfL Bochum,3000000.0,1000000.0,The Gambia,right,181.0
 Salif Sané,2019,4,0,2,1,1125,15,bundesliga,True,1990-08-25,Centre-Back,FC Schalke 04,22000000.0,9500000.0,Senegal,right,196.0
@@ -13802,6 +13804,9 @@ Samu Castillejo,2023,2,0,0,0,530,17,serie-a,True,1995-01-18,Right Winger,US Sass
 Samu Omorodion,2023,5,0,8,1,1924,34,laliga,True,2004-05-05,Centre-Forward,Deportivo Alavés,40000000.0,35000000.0,Spain,right,193.0
 Samu Omorodion,2023,0,0,1,0,82,1,laliga,True,2004-05-05,Centre-Forward,Deportivo Alavés,40000000.0,35000000.0,Spain,right,193.0
 Samu Saiz,2022,1,0,2,0,236,8,laliga,True,1991-01-22,Attacking Midfield,Sivasspor,3500000.0,900000.0,Spain,right,174.0
+Samuel,2020,0,0,0,0,2672,30,liga-portugal-bwin,False,1994-03-29,Goalkeeper,FC Porto,1500000.0,800000.0,Brazil,right,188.0
+Samuel,2021,5,0,0,0,2700,30,liga-portugal-bwin,False,1994-03-29,Goalkeeper,FC Porto,1500000.0,1500000.0,Brazil,right,188.0
+Samuel,2022,1,0,0,0,360,4,liga-portugal-bwin,False,1994-03-29,Goalkeeper,FC Porto,1500000.0,1500000.0,Brazil,right,188.0
 Samuel Bamba,2023,0,0,0,0,45,2,bundesliga,True,2004-02-13,Right Winger,Borussia Dortmund,800000.0,800000.0,Germany,both,179.0
 Samuel Chukwueze,2019,2,0,3,5,2036,37,laliga,True,1999-05-22,Right Winger,AC Milan,30000000.0,27000000.0,Nigeria,left,172.0
 Samuel Chukwueze,2020,0,0,4,3,1361,28,laliga,True,1999-05-22,Right Winger,AC Milan,30000000.0,20000000.0,Nigeria,left,172.0
@@ -13818,8 +13823,8 @@ Samuel Gigot,2022,5,1,2,2,1886,26,ligue-1,True,1993-10-12,Centre-Back,Olympique 
 Samuel Gigot,2023,7,1,3,0,1730,21,ligue-1,True,1993-10-12,Centre-Back,Olympique Marseille,11000000.0,9000000.0,France,right,187.0
 Samuel Grandsir,2019,0,0,3,1,1500,24,ligue-1,True,1996-08-14,Right Winger,Le Havre AC,5000000.0,2400000.0,France,right,170.0
 Samuel Grandsir,2023,4,1,1,0,586,23,ligue-1,True,1996-08-14,Right Winger,Le Havre AC,5000000.0,1500000.0,France,right,170.0
-Samuel Iling-Junior,2022,1,0,1,1,311,12,serie-a,True,2003-10-04,Left Winger,Juventus FC,13000000.0,9000000.0,England,left,182.0
-Samuel Iling-Junior,2023,1,0,1,2,799,24,serie-a,True,2003-10-04,Left Winger,Juventus FC,13000000.0,13000000.0,England,left,182.0
+Samuel Iling Junior,2022,1,0,1,1,311,12,serie-a,True,2003-10-04,Left Winger,Juventus FC,13000000.0,9000000.0,England,left,182.0
+Samuel Iling Junior,2023,1,0,1,2,799,24,serie-a,True,2003-10-04,Left Winger,Juventus FC,13000000.0,13000000.0,England,left,182.0
 Samuel Justo,2023,1,0,1,1,587,21,liga-portugal-bwin,False,2004-04-02,Central Midfield,Casa Pia AC,400000.0,400000.0,Portugal,right,178.0
 Samuel Kalu,2019,4,0,1,1,1360,20,ligue-1,True,1997-08-26,Right Winger,Watford FC,10000000.0,6500000.0,Nigeria,right,177.0
 Samuel Kalu,2020,3,0,4,1,972,20,ligue-1,True,1997-08-26,Right Winger,Watford FC,10000000.0,7000000.0,Nigeria,right,177.0
@@ -13837,9 +13842,6 @@ Samuel Moutoussamy,2021,5,0,0,1,1502,30,ligue-1,True,1996-08-12,Central Midfield
 Samuel Moutoussamy,2022,8,0,0,2,2400,35,ligue-1,True,1996-08-12,Central Midfield,FC Nantes,5000000.0,5000000.0,DR Congo,left,176.0
 Samuel Moutoussamy,2023,2,0,1,1,1100,26,ligue-1,True,1996-08-12,Central Midfield,FC Nantes,5000000.0,3000000.0,DR Congo,left,176.0
 Samuel Pedro,2019,0,0,0,0,21,1,liga-portugal-bwin,False,2001-04-24,Left Winger,Boavista FC,375000.0,200000.0,Portugal,right,180.0
-Samuel Portugal,2020,0,0,0,0,2672,30,liga-portugal-bwin,False,1994-03-29,Goalkeeper,FC Porto,1500000.0,800000.0,Brazil,right,188.0
-Samuel Portugal,2021,5,0,0,0,2700,30,liga-portugal-bwin,False,1994-03-29,Goalkeeper,FC Porto,1500000.0,1500000.0,Brazil,right,188.0
-Samuel Portugal,2022,1,0,0,0,360,4,liga-portugal-bwin,False,1994-03-29,Goalkeeper,FC Porto,1500000.0,1500000.0,Brazil,right,188.0
 Samuel Pérez,2019,0,0,0,0,25,1,laliga,True,1997-04-26,Goalkeeper,Real Valladolid CF,250000.0,250000.0,Spain,right,188.0
 Samuel Soares,2022,0,0,0,0,2,1,liga-portugal-bwin,False,2002-06-15,Goalkeeper,SL Benfica,3000000.0,2000000.0,Portugal,right,190.0
 Samuel Soares,2023,0,0,0,0,450,5,liga-portugal-bwin,False,2002-06-15,Goalkeeper,SL Benfica,3000000.0,3000000.0,Portugal,right,190.0
@@ -13867,8 +13869,8 @@ Samúel Fridjónsson,2019,1,0,0,0,190,5,bundesliga,True,1996-02-22,Central Midfi
 Sander Berge,2019,0,0,1,1,949,14,premier-league,True,1998-02-14,Central Midfield,Burnley FC,22000000.0,20000000.0,Norway,right,195.0
 Sander Berge,2020,4,0,1,1,1121,15,premier-league,True,1998-02-14,Central Midfield,Burnley FC,22000000.0,18000000.0,Norway,right,195.0
 Sander Berge,2023,10,0,1,2,3006,37,premier-league,True,1998-02-14,Central Midfield,Burnley FC,22000000.0,20000000.0,Norway,right,195.0
-Sandi Lovrić,2022,4,0,5,6,2349,37,serie-a,True,1998-03-28,Central Midfield,Udinese Calcio,10000000.0,10000000.0,Slovenia,right,180.0
-Sandi Lovrić,2023,1,1,1,3,1990,29,serie-a,True,1998-03-28,Central Midfield,Udinese Calcio,10000000.0,8000000.0,Slovenia,right,180.0
+Sandi Lovric,2022,4,0,5,6,2349,37,serie-a,True,1998-03-28,Central Midfield,Udinese Calcio,10000000.0,10000000.0,Slovenia,right,180.0
+Sandi Lovric,2023,1,1,1,3,1990,29,serie-a,True,1998-03-28,Central Midfield,Udinese Calcio,10000000.0,8000000.0,Slovenia,right,180.0
 Sandro,2021,1,1,1,0,71,7,liga-portugal-bwin,False,1989-03-15,Defensive Midfield,B SAD,17000000.0,200000.0,Brazil,right,187.0
 Sandro Cruz,2022,4,0,0,1,525,13,liga-portugal-bwin,False,2001-05-12,Left-Back,GD Chaves,650000.0,400000.0,Angola,left,182.0
 Sandro Cruz,2023,2,0,1,0,1635,24,liga-portugal-bwin,False,2001-05-12,Left-Back,GD Chaves,650000.0,400000.0,Angola,left,182.0
@@ -13929,6 +13931,12 @@ Sasa Kalajdzic,2022,1,0,0,3,236,3,bundesliga,True,1997-07-07,Centre-Forward,Eint
 Sasa Kalajdzic,2022,0,0,0,0,45,1,premier-league,True,1997-07-07,Centre-Forward,Eintracht Frankfurt,25000000.0,15000000.0,Austria,right,200.0
 Sasa Kalajdzic,2023,0,0,0,1,329,5,bundesliga,True,1997-07-07,Centre-Forward,Eintracht Frankfurt,25000000.0,5000000.0,Austria,right,200.0
 Sasa Kalajdzic,2023,0,0,2,0,159,11,premier-league,True,1997-07-07,Centre-Forward,Eintracht Frankfurt,25000000.0,5000000.0,Austria,right,200.0
+Sasa Lukic,2019,5,1,1,0,1767,29,serie-a,True,1996-08-13,Central Midfield,Fulham FC,15000000.0,3200000.0,Serbia,right,182.0
+Sasa Lukic,2020,4,0,3,1,2200,33,serie-a,True,1996-08-13,Central Midfield,Fulham FC,15000000.0,5000000.0,Serbia,right,182.0
+Sasa Lukic,2021,10,0,5,4,2985,35,serie-a,True,1996-08-13,Central Midfield,Fulham FC,15000000.0,15000000.0,Serbia,right,182.0
+Sasa Lukic,2022,4,0,2,0,1193,16,serie-a,True,1996-08-13,Central Midfield,Fulham FC,15000000.0,12000000.0,Serbia,right,182.0
+Sasa Lukic,2022,1,0,0,0,409,12,premier-league,True,1996-08-13,Central Midfield,Fulham FC,15000000.0,12000000.0,Serbia,right,182.0
+Sasa Lukic,2023,3,0,1,0,1120,24,premier-league,True,1996-08-13,Central Midfield,Fulham FC,15000000.0,10000000.0,Serbia,right,182.0
 Sascha Burchert,2021,0,0,0,0,1260,14,bundesliga,True,1989-10-30,Goalkeeper,SpVgg Greuther Fürth,600000.0,400000.0,Germany,right,187.0
 Sassá,2020,2,0,0,0,118,7,liga-portugal-bwin,False,1994-01-11,Centre-Forward,CS Marítimo,3000000.0,700000.0,Brazil,right,174.0
 Saturnin Allagbé,2020,2,0,0,0,1080,12,ligue-1,True,1993-11-22,Goalkeeper,Dijon FCO,1500000.0,1200000.0,Benin,right,187.0
@@ -13949,6 +13957,7 @@ Saïd Benrahma,2021,0,0,8,6,2184,32,premier-league,True,1995-08-10,Left Winger,O
 Saïd Benrahma,2022,0,0,6,3,2071,35,premier-league,True,1995-08-10,Left Winger,Olympique Lyon,25000000.0,25000000.0,Algeria,right,172.0
 Saïd Benrahma,2023,1,0,0,1,615,13,premier-league,True,1995-08-10,Left Winger,Olympique Lyon,25000000.0,20000000.0,Algeria,right,172.0
 Saïd Benrahma,2023,2,0,3,3,778,12,ligue-1,True,1995-08-10,Left Winger,Olympique Lyon,25000000.0,20000000.0,Algeria,right,172.0
+Saïd Hamulic,2022,1,0,0,0,98,6,ligue-1,True,2000-11-12,Centre-Forward,Vitesse Arnhem,1500000.0,1500000.0,Bosnia-Herzegovina,right,186.0
 Saïdou Sow,2020,0,0,0,0,997,15,ligue-1,True,2002-07-04,Centre-Back,RC Strasbourg Alsace,4000000.0,2500000.0,Guinea,right,187.0
 Saïdou Sow,2021,2,0,2,1,990,13,ligue-1,True,2002-07-04,Centre-Back,RC Strasbourg Alsace,4000000.0,4000000.0,Guinea,right,187.0
 Saïdou Sow,2023,2,0,0,1,717,10,ligue-1,True,2002-07-04,Centre-Back,RC Strasbourg Alsace,4000000.0,2500000.0,Guinea,right,187.0
@@ -13961,12 +13970,6 @@ Saúl Ñíguez,2021,0,0,0,1,200,3,laliga,True,1994-11-21,Central Midfield,Atlét
 Saúl Ñíguez,2021,1,0,0,0,478,10,premier-league,True,1994-11-21,Central Midfield,Atlético de Madrid,90000000.0,25000000.0,Spain,left,184.0
 Saúl Ñíguez,2022,8,0,3,1,1087,31,laliga,True,1994-11-21,Central Midfield,Atlético de Madrid,90000000.0,10000000.0,Spain,left,184.0
 Saúl Ñíguez,2023,10,0,1,5,1363,34,laliga,True,1994-11-21,Central Midfield,Atlético de Madrid,90000000.0,7500000.0,Spain,left,184.0
-Saša Lukić,2019,5,1,1,0,1767,29,serie-a,True,1996-08-13,Central Midfield,Fulham FC,15000000.0,3200000.0,Serbia,right,182.0
-Saša Lukić,2020,4,0,3,1,2200,33,serie-a,True,1996-08-13,Central Midfield,Fulham FC,15000000.0,5000000.0,Serbia,right,182.0
-Saša Lukić,2021,10,0,5,4,2985,35,serie-a,True,1996-08-13,Central Midfield,Fulham FC,15000000.0,15000000.0,Serbia,right,182.0
-Saša Lukić,2022,4,0,2,0,1193,16,serie-a,True,1996-08-13,Central Midfield,Fulham FC,15000000.0,12000000.0,Serbia,right,182.0
-Saša Lukić,2022,1,0,0,0,409,12,premier-league,True,1996-08-13,Central Midfield,Fulham FC,15000000.0,12000000.0,Serbia,right,182.0
-Saša Lukić,2023,3,0,1,0,1120,24,premier-league,True,1996-08-13,Central Midfield,Fulham FC,15000000.0,10000000.0,Serbia,right,182.0
 Scott Carson,2020,0,0,0,0,90,1,premier-league,True,1985-09-03,Goalkeeper,Manchester City,6000000.0,300000.0,England,right,188.0
 Scott Dann,2019,0,0,0,1,1263,16,premier-league,True,1987-02-14,Centre-Back,Crystal Palace,5000000.0,2800000.0,England,right,194.0
 Scott Dann,2020,1,0,1,0,1350,15,premier-league,True,1987-02-14,Centre-Back,Crystal Palace,5000000.0,1500000.0,England,right,194.0
@@ -13984,6 +13987,11 @@ Sead Kolasinac,2021,1,0,0,0,91,2,premier-league,True,1993-06-20,Centre-Back,Atal
 Sead Kolasinac,2021,0,0,0,1,438,14,ligue-1,True,1993-06-20,Centre-Back,Atalanta BC,20000000.0,3000000.0,Bosnia-Herzegovina,left,183.0
 Sead Kolasinac,2022,3,0,4,1,2219,33,ligue-1,True,1993-06-20,Centre-Back,Atalanta BC,20000000.0,8000000.0,Bosnia-Herzegovina,left,183.0
 Sead Kolasinac,2023,4,0,1,0,2182,30,serie-a,True,1993-06-20,Centre-Back,Atalanta BC,20000000.0,10000000.0,Bosnia-Herzegovina,left,183.0
+Seamus Coleman,2019,5,0,0,1,1839,27,premier-league,True,1988-10-11,Right-Back,Everton FC,19000000.0,9500000.0,Ireland,right,177.0
+Seamus Coleman,2020,0,0,0,3,1612,25,premier-league,True,1988-10-11,Right-Back,Everton FC,19000000.0,5000000.0,Ireland,right,177.0
+Seamus Coleman,2021,4,0,1,1,2658,30,premier-league,True,1988-10-11,Right-Back,Everton FC,19000000.0,3000000.0,Ireland,right,177.0
+Seamus Coleman,2022,1,0,1,0,1663,23,premier-league,True,1988-10-11,Right-Back,Everton FC,19000000.0,1000000.0,Ireland,right,177.0
+Seamus Coleman,2023,0,0,0,0,662,12,premier-league,True,1988-10-11,Right-Back,Everton FC,19000000.0,500000.0,Ireland,right,177.0
 Sean Longstaff,2019,2,1,1,1,1373,23,premier-league,True,1997-10-30,Central Midfield,Newcastle United,25000000.0,17500000.0,England,right,187.0
 Sean Longstaff,2020,2,0,0,1,1408,22,premier-league,True,1997-10-30,Central Midfield,Newcastle United,25000000.0,15000000.0,England,right,187.0
 Sean Longstaff,2021,1,0,1,1,1460,24,premier-league,True,1997-10-30,Central Midfield,Newcastle United,25000000.0,13000000.0,England,right,187.0
@@ -14070,8 +14078,8 @@ Sequeira,2019,4,0,0,4,2028,25,liga-portugal-bwin,False,1990-08-19,Left-Back,Pend
 Sequeira,2020,7,0,0,2,2057,26,liga-portugal-bwin,False,1990-08-19,Left-Back,Pendikspor,5000000.0,4000000.0,Portugal,left,184.0
 Sequeira,2021,2,0,0,1,444,7,liga-portugal-bwin,False,1990-08-19,Left-Back,Pendikspor,5000000.0,2500000.0,Portugal,left,184.0
 Sequeira,2022,4,0,1,2,2070,27,liga-portugal-bwin,False,1990-08-19,Left-Back,Pendikspor,5000000.0,2000000.0,Portugal,left,184.0
-Serdar Saatçı,2022,0,0,0,0,214,3,liga-portugal-bwin,False,2003-02-14,Centre-Back,SC Braga,5000000.0,2000000.0,Türkiye,right,190.0
-Serdar Saatçı,2023,5,0,0,2,1495,17,liga-portugal-bwin,False,2003-02-14,Centre-Back,SC Braga,5000000.0,5000000.0,Türkiye,right,190.0
+Serdar Saatci,2022,0,0,0,0,214,3,liga-portugal-bwin,False,2003-02-14,Centre-Back,SC Braga,5000000.0,2000000.0,Türkiye,right,190.0
+Serdar Saatci,2023,5,0,0,2,1495,17,liga-portugal-bwin,False,2003-02-14,Centre-Back,SC Braga,5000000.0,5000000.0,Türkiye,right,190.0
 Serge Aurier,2019,4,0,1,5,2706,33,premier-league,True,1992-12-24,Right-Back,Nottingham Forest,20000000.0,16000000.0,Cote d'Ivoire,right,176.0
 Serge Aurier,2020,0,0,2,3,1608,19,premier-league,True,1992-12-24,Right-Back,Nottingham Forest,20000000.0,20000000.0,Cote d'Ivoire,right,176.0
 Serge Aurier,2021,4,0,0,1,1003,19,laliga,True,1992-12-24,Right-Back,Nottingham Forest,20000000.0,10000000.0,Cote d'Ivoire,right,176.0
@@ -14114,7 +14122,7 @@ Sergi Roberto,2020,1,0,1,2,945,15,laliga,True,1992-02-07,Central Midfield,FC Bar
 Sergi Roberto,2021,1,0,2,1,400,9,laliga,True,1992-02-07,Central Midfield,FC Barcelona,60000000.0,6000000.0,Spain,right,178.0
 Sergi Roberto,2022,3,0,4,1,1302,23,laliga,True,1992-02-07,Central Midfield,FC Barcelona,60000000.0,5000000.0,Spain,right,178.0
 Sergi Roberto,2023,4,0,3,2,863,14,laliga,True,1992-02-07,Central Midfield,FC Barcelona,60000000.0,2500000.0,Spain,right,178.0
-Serginho,2022,1,0,1,0,133,7,liga-portugal-bwin,False,2001-01-29,Left Winger,Viborg FF,1000000.0,200000.0,Cape Verde,right,183.0
+Serginho Andrade,2022,1,0,1,0,133,7,liga-portugal-bwin,False,2001-01-29,Left Winger,Viborg FF,1000000.0,200000.0,Cape Verde,right,183.0
 Sergio Agüero,2019,1,0,16,4,1457,24,premier-league,True,1988-06-02,Centre-Forward,FC Barcelona,80000000.0,52000000.0,Argentina,right,173.0
 Sergio Agüero,2020,0,0,4,1,558,12,premier-league,True,1988-06-02,Centre-Forward,FC Barcelona,80000000.0,18000000.0,Argentina,right,173.0
 Sergio Akieme,2022,5,0,1,0,2298,29,laliga,True,1997-12-16,Left-Back,Stade Reims,9000000.0,7500000.0,Spain,left,175.0
@@ -14244,7 +14252,7 @@ Sidney Raebiger,2021,0,0,0,0,3,1,bundesliga,True,2005-04-17,Central Midfield,Ein
 Sidy Sarr,2019,6,0,0,2,1159,22,ligue-1,True,1996-06-05,Defensive Midfield,GD Chaves,2000000.0,1600000.0,Senegal,left,196.0
 Sidy Sarr,2020,1,0,0,0,463,9,ligue-1,True,1996-06-05,Defensive Midfield,GD Chaves,2000000.0,1500000.0,Senegal,left,196.0
 Sidy Sarr,2022,2,0,0,0,115,5,liga-portugal-bwin,False,1996-06-05,Defensive Midfield,GD Chaves,2000000.0,300000.0,Senegal,left,196.0
-Siebe Van der Heyden,2023,2,0,0,0,285,6,laliga,True,1998-05-30,Centre-Back,RCD Mallorca,4000000.0,2000000.0,Belgium,left,185.0
+Siebe Van Der Heyden,2023,2,0,0,0,285,6,laliga,True,1998-05-30,Centre-Back,RCD Mallorca,4000000.0,2000000.0,Belgium,left,185.0
 Sikou Niakaté,2021,2,0,0,0,661,12,ligue-1,True,1999-07-10,Centre-Back,SC Braga,6000000.0,1800000.0,Mali,left,186.0
 Sikou Niakaté,2022,6,1,3,0,2132,26,liga-portugal-bwin,False,1999-07-10,Centre-Back,SC Braga,6000000.0,4000000.0,Mali,left,186.0
 Sikou Niakaté,2023,4,1,0,0,1479,19,liga-portugal-bwin,False,1999-07-10,Centre-Back,SC Braga,6000000.0,6000000.0,Mali,left,186.0
@@ -14276,12 +14284,12 @@ Simon Banza,2023,2,0,21,4,1999,28,liga-portugal-bwin,False,1996-08-13,Centre-For
 Simon Elisor,2023,1,0,1,0,769,14,ligue-1,True,1999-07-22,Centre-Forward,FC Metz,1200000.0,1000000.0,France,left,185.0
 Simon Falette,2019,0,0,0,0,90,1,bundesliga,True,1992-02-19,Centre-Back,Hatayspor,4000000.0,2400000.0,Guinea,left,185.0
 Simon Francis,2019,5,0,0,0,965,15,premier-league,True,1985-02-16,Right-Back,AFC Bournemouth,2500000.0,800000.0,England,right,191.0
-Simon Kjær,2019,2,0,0,0,1164,14,serie-a,True,1989-03-26,Centre-Back,AC Milan,13000000.0,5200000.0,Denmark,right,191.0
-Simon Kjær,2019,2,0,0,0,291,5,serie-a,True,1989-03-26,Centre-Back,AC Milan,13000000.0,5200000.0,Denmark,right,191.0
-Simon Kjær,2020,3,0,0,2,2476,29,serie-a,True,1989-03-26,Centre-Back,AC Milan,13000000.0,10000000.0,Denmark,right,191.0
-Simon Kjær,2021,2,0,0,0,804,11,serie-a,True,1989-03-26,Centre-Back,AC Milan,13000000.0,6000000.0,Denmark,right,191.0
-Simon Kjær,2022,4,0,0,0,1007,17,serie-a,True,1989-03-26,Centre-Back,AC Milan,13000000.0,3500000.0,Denmark,right,191.0
-Simon Kjær,2023,1,0,0,1,1171,20,serie-a,True,1989-03-26,Centre-Back,AC Milan,13000000.0,1500000.0,Denmark,right,191.0
+Simon Kjaer,2019,2,0,0,0,1164,14,serie-a,True,1989-03-26,Centre-Back,AC Milan,13000000.0,5200000.0,Denmark,right,191.0
+Simon Kjaer,2019,2,0,0,0,291,5,serie-a,True,1989-03-26,Centre-Back,AC Milan,13000000.0,5200000.0,Denmark,right,191.0
+Simon Kjaer,2020,3,0,0,2,2476,29,serie-a,True,1989-03-26,Centre-Back,AC Milan,13000000.0,10000000.0,Denmark,right,191.0
+Simon Kjaer,2021,2,0,0,0,804,11,serie-a,True,1989-03-26,Centre-Back,AC Milan,13000000.0,6000000.0,Denmark,right,191.0
+Simon Kjaer,2022,4,0,0,0,1007,17,serie-a,True,1989-03-26,Centre-Back,AC Milan,13000000.0,3500000.0,Denmark,right,191.0
+Simon Kjaer,2023,1,0,0,1,1171,20,serie-a,True,1989-03-26,Centre-Back,AC Milan,13000000.0,1500000.0,Denmark,right,191.0
 Simon Moore,2019,0,0,0,0,180,2,premier-league,True,1990-05-19,Goalkeeper,Sheffield United,500000.0,400000.0,England,right,191.0
 Simon Ramet,2022,0,0,0,0,1,1,ligue-1,True,2003-03-13,Right-Back,LOSC Lille,150000.0,150000.0,France,right,170.0
 Simon Skrabb,2019,1,0,0,0,252,10,serie-a,True,1995-01-19,Right Winger,Brescia Calcio,2500000.0,2000000.0,Finland,right,174.0
@@ -14334,7 +14342,7 @@ Sinaly Diomandé,2020,3,0,0,0,1117,27,ligue-1,True,2001-04-09,Centre-Back,Olympi
 Sinaly Diomandé,2021,2,0,0,0,577,11,ligue-1,True,2001-04-09,Centre-Back,Olympique Lyon,9000000.0,5000000.0,Cote d'Ivoire,right,184.0
 Sinaly Diomandé,2022,2,1,0,0,1959,24,ligue-1,True,2001-04-09,Centre-Back,Olympique Lyon,9000000.0,9000000.0,Cote d'Ivoire,right,184.0
 Sinaly Diomandé,2023,2,0,0,0,890,10,ligue-1,True,2001-04-09,Centre-Back,Olympique Lyon,9000000.0,4000000.0,Cote d'Ivoire,right,184.0
-Sinan Gümüş,2019,0,0,0,0,95,3,serie-a,True,1994-01-15,Right Winger,Antalyaspor,3500000.0,950000.0,Türkiye,left,179.0
+Sinan Gümüs,2019,0,0,0,0,95,3,serie-a,True,1994-01-15,Right Winger,Antalyaspor,3500000.0,950000.0,Türkiye,left,179.0
 Siriki Dembélé,2022,1,0,0,0,368,12,ligue-1,True,1996-09-07,Left Winger,AFC Bournemouth,2800000.0,2000000.0,Scotland,right,173.0
 Siriki Dembélé,2022,0,0,0,0,104,6,premier-league,True,1996-09-07,Left Winger,AFC Bournemouth,2800000.0,2000000.0,Scotland,right,173.0
 Siriky Sanogo,2020,0,0,0,0,10,1,serie-a,True,2001-12-21,Central Midfield,Benevento Calcio,100000.0,100000.0,Cote d'Ivoire,left,178.0
@@ -14431,12 +14439,12 @@ Stefan Lainer,2021,2,0,1,3,1459,21,bundesliga,True,1992-08-27,Right-Back,Borussi
 Stefan Lainer,2022,2,0,0,0,819,17,bundesliga,True,1992-08-27,Right-Back,Borussia Mönchengladbach,18000000.0,3000000.0,Austria,right,175.0
 Stefan Lainer,2023,2,0,0,1,750,15,bundesliga,True,1992-08-27,Right-Back,Borussia Mönchengladbach,18000000.0,2500000.0,Austria,right,175.0
 Stefan Lekovic,2023,0,0,0,0,28,1,laliga,True,2004-01-09,Centre-Back,Villarreal CF,1800000.0,1800000.0,Serbia,right,192.0
-Stefan Mitrovic,2019,4,0,1,1,2054,23,ligue-1,True,1990-05-22,Centre-Back,Getafe CF,3500000.0,2200000.0,Serbia,right,189.0
-Stefan Mitrovic,2020,3,1,2,0,2785,32,ligue-1,True,1990-05-22,Centre-Back,Getafe CF,3500000.0,2200000.0,Serbia,right,189.0
-Stefan Mitrovic,2021,8,1,1,0,2671,32,laliga,True,1990-05-22,Centre-Back,Getafe CF,3500000.0,1800000.0,Serbia,right,189.0
-Stefan Mitrovic,2022,4,0,0,0,1679,22,laliga,True,1990-05-22,Centre-Back,Getafe CF,3500000.0,2000000.0,Serbia,right,189.0
-Stefan Mitrovic,2023,3,0,1,0,700,11,laliga,True,1990-05-22,Centre-Back,Getafe CF,3500000.0,1300000.0,Serbia,right,189.0
+Stefan Mitrović,2019,4,0,1,1,2054,23,ligue-1,True,1990-05-22,Centre-Back,Getafe CF,3500000.0,2200000.0,Serbia,right,189.0
+Stefan Mitrović,2020,3,1,2,0,2785,32,ligue-1,True,1990-05-22,Centre-Back,Getafe CF,3500000.0,2200000.0,Serbia,right,189.0
+Stefan Mitrović,2021,8,1,1,0,2671,32,laliga,True,1990-05-22,Centre-Back,Getafe CF,3500000.0,1800000.0,Serbia,right,189.0
+Stefan Mitrović,2022,4,0,0,0,1679,22,laliga,True,1990-05-22,Centre-Back,Getafe CF,3500000.0,2000000.0,Serbia,right,189.0
 Stefan Mitrović,2023,0,0,0,0,388,10,serie-a,True,2002-08-15,Left Winger,Hellas Verona,3500000.0,1800000.0,Serbia,right,182.0
+Stefan Mitrović,2023,3,0,1,0,700,11,laliga,True,1990-05-22,Centre-Back,Getafe CF,3500000.0,1300000.0,Serbia,right,189.0
 Stefan Ortega,2020,1,0,0,1,3060,34,bundesliga,True,1992-11-06,Goalkeeper,Manchester City,9000000.0,6000000.0,Germany,right,185.0
 Stefan Ortega,2021,1,0,0,0,2970,33,bundesliga,True,1992-11-06,Goalkeeper,Manchester City,9000000.0,6000000.0,Germany,right,185.0
 Stefan Ortega,2022,0,0,0,0,270,3,premier-league,True,1992-11-06,Goalkeeper,Manchester City,9000000.0,9000000.0,Germany,right,185.0
@@ -14608,19 +14616,14 @@ Sydney van Hooijdonk,2021,0,0,0,0,35,4,serie-a,True,2000-02-06,Centre-Forward,Bo
 Sydney van Hooijdonk,2023,0,0,0,0,207,9,serie-a,True,2000-02-06,Centre-Forward,Bologna FC 1909,6000000.0,4000000.0,Netherlands,right,190.0
 Sylvain Marveaux,2020,0,0,0,0,195,9,ligue-1,True,1986-04-15,Attacking Midfield,FC Lorient,9000000.0,500000.0,France,left,172.0
 Sylvester Jasper,2023,2,0,2,2,1685,24,liga-portugal-bwin,False,2001-09-13,Left Winger,Portimonense SC,700000.0,600000.0,Bulgaria,right,180.0
-Szymon Żurkowski,2019,0,0,0,0,10,2,serie-a,True,1997-09-25,Central Midfield,FC Empoli,7000000.0,3000000.0,Poland,right,185.0
-Szymon Żurkowski,2021,5,0,6,3,2318,35,serie-a,True,1997-09-25,Central Midfield,FC Empoli,7000000.0,7000000.0,Poland,right,185.0
-Szymon Żurkowski,2022,0,0,0,1,30,2,serie-a,True,1997-09-25,Central Midfield,FC Empoli,7000000.0,3500000.0,Poland,right,185.0
-Szymon Żurkowski,2022,1,0,0,0,424,10,serie-a,True,1997-09-25,Central Midfield,FC Empoli,7000000.0,3500000.0,Poland,right,185.0
-Szymon Żurkowski,2023,4,0,4,0,872,13,serie-a,True,1997-09-25,Central Midfield,FC Empoli,7000000.0,2500000.0,Poland,right,185.0
+Szymon Zurkowski,2019,0,0,0,0,10,2,serie-a,True,1997-09-25,Central Midfield,FC Empoli,7000000.0,3000000.0,Poland,right,185.0
+Szymon Zurkowski,2021,5,0,6,3,2318,35,serie-a,True,1997-09-25,Central Midfield,FC Empoli,7000000.0,7000000.0,Poland,right,185.0
+Szymon Zurkowski,2022,0,0,0,1,30,2,serie-a,True,1997-09-25,Central Midfield,FC Empoli,7000000.0,3500000.0,Poland,right,185.0
+Szymon Zurkowski,2022,1,0,0,0,424,10,serie-a,True,1997-09-25,Central Midfield,FC Empoli,7000000.0,3500000.0,Poland,right,185.0
+Szymon Zurkowski,2023,4,0,4,0,872,13,serie-a,True,1997-09-25,Central Midfield,FC Empoli,7000000.0,2500000.0,Poland,right,185.0
 Sávio,2020,0,0,0,1,520,10,liga-portugal-bwin,False,1995-05-26,Left-Back,Rio Ave FC,400000.0,400000.0,Brazil,left,173.0
 Sávio,2022,2,0,0,1,309,14,liga-portugal-bwin,False,1995-05-26,Left-Back,Rio Ave FC,400000.0,250000.0,Brazil,left,173.0
 Sávio,2023,1,0,0,1,250,7,liga-portugal-bwin,False,1995-05-26,Left-Back,Rio Ave FC,400000.0,200000.0,Brazil,left,173.0
-Séamus Coleman,2019,5,0,0,1,1839,27,premier-league,True,1988-10-11,Right-Back,Everton FC,19000000.0,9500000.0,Ireland,right,177.0
-Séamus Coleman,2020,0,0,0,3,1612,25,premier-league,True,1988-10-11,Right-Back,Everton FC,19000000.0,5000000.0,Ireland,right,177.0
-Séamus Coleman,2021,4,0,1,1,2658,30,premier-league,True,1988-10-11,Right-Back,Everton FC,19000000.0,3000000.0,Ireland,right,177.0
-Séamus Coleman,2022,1,0,1,0,1663,23,premier-league,True,1988-10-11,Right-Back,Everton FC,19000000.0,1000000.0,Ireland,right,177.0
-Séamus Coleman,2023,0,0,0,0,662,12,premier-league,True,1988-10-11,Right-Back,Everton FC,19000000.0,500000.0,Ireland,right,177.0
 Sébastien Cibois,2020,0,0,0,0,270,3,ligue-1,True,1998-03-02,Goalkeeper,Stade Brestois 29,400000.0,400000.0,France,right,192.0
 Sébastien Corchia,2019,1,0,0,0,270,3,laliga,True,1990-11-01,Right-Back,FC Nantes,7500000.0,1600000.0,France,right,176.0
 Sébastien Corchia,2020,3,0,0,1,2067,25,ligue-1,True,1990-11-01,Right-Back,FC Nantes,7500000.0,2000000.0,France,right,176.0
@@ -14715,12 +14718,19 @@ Tariq Lamptey,2023,3,0,0,3,914,19,premier-league,True,2000-09-30,Right-Back,Brig
 Tariqe Fosu,2021,0,0,0,0,16,1,premier-league,True,1995-11-05,Left Winger,Brentford FC,2500000.0,2000000.0,Ghana,right,180.0
 Tarsis Bonga,2021,0,0,0,0,14,3,bundesliga,True,1997-01-10,Right Winger,VfL Bochum,300000.0,300000.0,Germany,right,197.0
 Tashan Oakley-Boothe,2023,0,0,0,0,55,2,liga-portugal-bwin,False,2000-02-14,Central Midfield,CF Estrela Amadora,900000.0,250000.0,England,right,182.0
+Tasos Douvikas,2023,2,0,7,1,886,32,laliga,True,1999-08-02,Centre-Forward,FC Utrecht,12000000.0,6000000.0,Greece,right,186.0
 Taty Castellanos,2022,11,0,13,1,2620,35,laliga,True,1998-10-03,Centre-Forward,SS Lazio,15000000.0,15000000.0,Argentina,right,178.0
 Taty Castellanos,2023,2,0,4,3,1677,35,serie-a,True,1998-10-03,Centre-Forward,SS Lazio,15000000.0,15000000.0,Argentina,right,178.0
 Tawanda Chirewa,2023,1,0,0,0,139,8,premier-league,True,2003-10-11,Attacking Midfield,Wolverhampton Wanderers,500000.0,500000.0,Zimbabwe,right,181.0
 Taylor Richards,2021,0,0,0,0,23,2,premier-league,True,2000-12-04,Central Midfield,Brighton & Hove Albion,400000.0,400000.0,England,left,180.0
 Tchamba,2022,0,0,0,0,387,5,liga-portugal-bwin,False,1998-07-10,Centre-Back,Casa Pia AC,500000.0,300000.0,Cameroon,left,191.0
 Tchamba,2023,6,0,1,1,1248,16,liga-portugal-bwin,False,1998-07-10,Centre-Back,Casa Pia AC,500000.0,500000.0,Cameroon,left,191.0
+Tecatito,2019,7,0,4,14,2763,33,liga-portugal-bwin,False,1993-01-06,Right Winger,Sevilla FC,30000000.0,20000000.0,Mexico,both,173.0
+Tecatito,2020,6,0,2,8,2236,30,liga-portugal-bwin,False,1993-01-06,Right Winger,Sevilla FC,30000000.0,30000000.0,Mexico,both,173.0
+Tecatito,2021,2,0,2,4,1162,18,laliga,True,1993-01-06,Right Winger,Sevilla FC,30000000.0,18000000.0,Mexico,both,173.0
+Tecatito,2021,1,0,0,1,379,11,liga-portugal-bwin,False,1993-01-06,Right Winger,Sevilla FC,30000000.0,18000000.0,Mexico,both,173.0
+Tecatito,2022,0,0,1,0,109,4,laliga,True,1993-01-06,Right Winger,Sevilla FC,30000000.0,8000000.0,Mexico,both,173.0
+Tecatito,2023,0,0,0,0,16,2,laliga,True,1993-01-06,Right Winger,Sevilla FC,30000000.0,3500000.0,Mexico,both,173.0
 Teddy Teuma,2023,7,0,6,3,2124,28,ligue-1,True,1993-09-30,Central Midfield,Stade Reims,7000000.0,7000000.0,Malta,left,176.0
 Teden Mengi,2023,3,0,1,0,2470,30,premier-league,True,2002-04-30,Centre-Back,Luton Town,12000000.0,12000000.0,England,right,186.0
 Teemu Pukki,2019,3,0,11,3,2893,36,premier-league,True,1990-03-29,Centre-Forward,Norwich City,10000000.0,8000000.0,Finland,right,180.0
@@ -14760,13 +14770,13 @@ Theo Walcott,2022,1,0,2,2,1133,20,premier-league,True,1989-03-16,Right Winger,So
 Theocharis Tsingaras,2022,0,0,0,0,6,1,ligue-1,True,2000-08-20,Central Midfield,PAOK Thessaloniki,1800000.0,1200000.0,Greece,right,175.0
 Theodor Gebre Selassie,2019,2,0,2,3,2429,28,bundesliga,True,1986-12-24,Right-Back,SV Werder Bremen,3500000.0,1400000.0,Czech Republic,right,182.0
 Theodor Gebre Selassie,2020,3,0,3,2,3034,34,bundesliga,True,1986-12-24,Right-Back,SV Werder Bremen,3500000.0,800000.0,Czech Republic,right,182.0
+Thiago,2019,7,0,3,0,1770,24,bundesliga,True,1991-04-11,Central Midfield,Liverpool FC,70000000.0,48000000.0,Spain,right,174.0
 Thiago,2019,6,0,6,0,2349,33,liga-portugal-bwin,False,1993-02-04,Centre-Forward,CD Santa Clara,1800000.0,550000.0,Brazil,left,184.0
+Thiago,2020,4,0,1,0,1858,24,premier-league,True,1991-04-11,Central Midfield,Liverpool FC,70000000.0,30000000.0,Spain,right,174.0
 Thiago,2020,3,0,7,0,761,9,liga-portugal-bwin,False,1993-02-04,Centre-Forward,CD Santa Clara,1800000.0,1500000.0,Brazil,left,184.0
-Thiago Alcántara,2019,7,0,3,0,1770,24,bundesliga,True,1991-04-11,Central Midfield,Liverpool FC,70000000.0,48000000.0,Spain,right,174.0
-Thiago Alcántara,2020,4,0,1,0,1858,24,premier-league,True,1991-04-11,Central Midfield,Liverpool FC,70000000.0,30000000.0,Spain,right,174.0
-Thiago Alcántara,2021,2,0,1,4,1537,25,premier-league,True,1991-04-11,Central Midfield,Liverpool FC,70000000.0,20000000.0,Spain,right,174.0
-Thiago Alcántara,2022,2,0,0,0,1256,18,premier-league,True,1991-04-11,Central Midfield,Liverpool FC,70000000.0,15000000.0,Spain,right,174.0
-Thiago Alcántara,2023,0,0,0,0,5,1,premier-league,True,1991-04-11,Central Midfield,Liverpool FC,70000000.0,10000000.0,Spain,right,174.0
+Thiago,2021,2,0,1,4,1537,25,premier-league,True,1991-04-11,Central Midfield,Liverpool FC,70000000.0,20000000.0,Spain,right,174.0
+Thiago,2022,2,0,0,0,1256,18,premier-league,True,1991-04-11,Central Midfield,Liverpool FC,70000000.0,15000000.0,Spain,right,174.0
+Thiago,2023,0,0,0,0,5,1,premier-league,True,1991-04-11,Central Midfield,Liverpool FC,70000000.0,10000000.0,Spain,right,174.0
 Thiago Cionek,2019,11,0,0,2,2165,28,serie-a,True,1986-04-21,Centre-Back,SPAL,900000.0,475000.0,Poland,right,183.0
 Thiago Galhardo,2021,5,0,2,2,1135,31,laliga,True,1989-07-20,Centre-Forward,Celta de Vigo,2500000.0,2000000.0,Brazil,right,183.0
 Thiago Maia,2019,0,0,0,0,45,3,ligue-1,True,1997-03-23,Defensive Midfield,LOSC Lille,9000000.0,3200000.0,Brazil,left,179.0
@@ -14782,6 +14792,11 @@ Thiago Silva,2022,2,0,0,2,2352,27,premier-league,True,1984-09-22,Centre-Back,Che
 Thiago Silva,2022,0,0,0,0,90,1,liga-portugal-bwin,False,1996-06-12,Goalkeeper,FC Arouca,300000.0,200000.0,Brazil,right,188.0
 Thiago Silva,2023,4,0,3,1,2528,31,premier-league,True,1984-09-22,Centre-Back,Chelsea FC,40000000.0,1000000.0,Brazil,right,181.0
 Thiago Silva,2023,0,0,0,0,180,2,liga-portugal-bwin,False,1996-06-12,Goalkeeper,FC Arouca,300000.0,200000.0,Brazil,right,188.0
+Thibang Phete,2019,2,0,0,0,1075,14,liga-portugal-bwin,False,1994-04-04,Defensive Midfield,GD Chaves,700000.0,300000.0,South Africa,right,187.0
+Thibang Phete,2019,1,0,0,0,20,1,liga-portugal-bwin,False,1994-04-04,Defensive Midfield,GD Chaves,700000.0,300000.0,South Africa,right,187.0
+Thibang Phete,2020,7,1,1,1,2042,26,liga-portugal-bwin,False,1994-04-04,Defensive Midfield,GD Chaves,700000.0,700000.0,South Africa,right,187.0
+Thibang Phete,2021,8,0,0,1,1854,26,liga-portugal-bwin,False,1994-04-04,Defensive Midfield,GD Chaves,700000.0,600000.0,South Africa,right,187.0
+Thibang Phete,2023,3,0,0,0,444,9,liga-portugal-bwin,False,1994-04-04,Defensive Midfield,GD Chaves,700000.0,350000.0,South Africa,right,187.0
 Thibault De Smet,2020,3,0,0,0,498,8,ligue-1,True,1998-06-05,Left-Back,Stade Reims,4000000.0,800000.0,Belgium,left,183.0
 Thibault De Smet,2022,2,0,0,1,1761,22,ligue-1,True,1998-06-05,Left-Back,Stade Reims,4000000.0,3000000.0,Belgium,left,183.0
 Thibault De Smet,2023,7,1,0,1,1835,27,ligue-1,True,1998-06-05,Left-Back,Stade Reims,4000000.0,4000000.0,Belgium,left,183.0
@@ -14810,6 +14825,8 @@ Thilo Kehrer,2022,4,0,0,2,2230,27,premier-league,True,1996-09-21,Centre-Back,AS 
 Thilo Kehrer,2023,4,0,1,1,1324,15,ligue-1,True,1996-09-21,Centre-Back,AS Monaco,35000000.0,10000000.0,Germany,right,186.0
 Thilo Kehrer,2023,2,0,0,0,19,4,premier-league,True,1996-09-21,Centre-Back,AS Monaco,35000000.0,10000000.0,Germany,right,186.0
 Thomas Basila,2019,1,0,0,0,411,7,ligue-1,True,1999-04-30,Centre-Back,FC Nantes,2000000.0,1800000.0,France,right,187.0
+Thomas Cannon,2022,0,0,0,0,23,2,premier-league,True,2002-12-28,Centre-Forward,Everton FC,6000000.0,5000000.0,Ireland,right,180.0
+Thomas Cannon,2023,0,0,0,0,1,1,premier-league,True,2002-12-28,Centre-Forward,Everton FC,6000000.0,4000000.0,Ireland,right,180.0
 Thomas Delaine,2019,4,0,0,0,1254,16,ligue-1,True,1992-03-24,Left-Back,RC Strasbourg Alsace,2000000.0,1200000.0,France,left,180.0
 Thomas Delaine,2020,4,0,3,2,1781,24,ligue-1,True,1992-03-24,Left-Back,RC Strasbourg Alsace,2000000.0,1800000.0,France,left,180.0
 Thomas Delaine,2021,4,0,1,2,2316,29,ligue-1,True,1992-03-24,Left-Back,RC Strasbourg Alsace,2000000.0,2000000.0,France,left,180.0
@@ -15043,7 +15060,7 @@ Toby Alderweireld,2019,7,0,2,2,2958,33,premier-league,True,1989-03-02,Centre-Bac
 Toby Alderweireld,2020,2,0,1,0,2241,25,premier-league,True,1989-03-02,Centre-Back,Royal Antwerp FC,40000000.0,11000000.0,Belgium,right,187.0
 Todd Cantwell,2019,6,0,6,2,2501,37,premier-league,True,1998-02-27,Attacking Midfield,Rangers FC,22000000.0,20000000.0,England,right,180.0
 Todd Cantwell,2021,2,0,0,0,440,8,premier-league,True,1998-02-27,Attacking Midfield,Rangers FC,22000000.0,18000000.0,England,right,180.0
-Tolga Ciğerci,2022,2,0,0,1,679,11,bundesliga,True,1992-03-23,Defensive Midfield,MKE Ankaragücü,4500000.0,700000.0,Türkiye,right,185.0
+Tolga Cigerci,2022,2,0,0,1,679,11,bundesliga,True,1992-03-23,Defensive Midfield,MKE Ankaragücü,4500000.0,700000.0,Türkiye,right,185.0
 Tolgay Arslan,2020,9,0,3,0,1833,30,serie-a,True,1990-08-16,Central Midfield,Udinese Calcio,7500000.0,3000000.0,Germany,right,180.0
 Tolgay Arslan,2021,9,0,1,2,1669,30,serie-a,True,1990-08-16,Central Midfield,Udinese Calcio,7500000.0,2300000.0,Germany,right,180.0
 Tolgay Arslan,2022,3,0,1,0,1197,36,serie-a,True,1990-08-16,Central Midfield,Udinese Calcio,7500000.0,1400000.0,Germany,right,180.0
@@ -15054,8 +15071,6 @@ Tom Bischof,2023,0,0,0,1,169,13,bundesliga,True,2005-06-28,Attacking Midfield,TS
 Tom Cairney,2020,2,0,1,1,760,10,premier-league,True,1991-01-20,Central Midfield,Fulham FC,18000000.0,9000000.0,Scotland,left,185.0
 Tom Cairney,2022,2,0,2,0,972,33,premier-league,True,1991-01-20,Central Midfield,Fulham FC,18000000.0,2000000.0,Scotland,left,185.0
 Tom Cairney,2023,3,0,1,4,1478,34,premier-league,True,1991-01-20,Central Midfield,Fulham FC,18000000.0,2000000.0,Scotland,left,185.0
-Tom Cannon,2022,0,0,0,0,23,2,premier-league,True,2002-12-28,Centre-Forward,Everton FC,6000000.0,5000000.0,Ireland,right,180.0
-Tom Cannon,2023,0,0,0,0,1,1,premier-league,True,2002-12-28,Centre-Forward,Everton FC,6000000.0,4000000.0,Ireland,right,180.0
 Tom Cleverley,2019,2,0,1,0,966,18,premier-league,True,1989-08-12,Central Midfield,Watford FC,14000000.0,4800000.0,England,right,175.0
 Tom Cleverley,2021,2,0,0,2,1623,28,premier-league,True,1989-08-12,Central Midfield,Watford FC,14000000.0,1800000.0,England,right,175.0
 Tom Davies,2019,8,0,1,0,2026,30,premier-league,True,1998-06-30,Central Midfield,Sheffield United,18000000.0,16000000.0,England,right,180.0
@@ -15075,12 +15090,12 @@ Tom Louchet,2023,1,0,1,2,399,13,ligue-1,True,2003-05-04,Right Midfield,OGC Nice,
 Tom Rothe,2021,1,0,1,0,94,2,bundesliga,True,2004-10-29,Left-Back,Borussia Dortmund,5000000.0,1200000.0,Germany,left,193.0
 Tom Rothe,2022,0,0,0,1,24,2,bundesliga,True,2004-10-29,Left-Back,Borussia Dortmund,5000000.0,3500000.0,Germany,left,193.0
 Tom Trybull,2019,2,0,0,0,1135,16,premier-league,True,1993-03-09,Defensive Midfield,Odense Boldklub,4000000.0,3200000.0,Germany,right,183.0
-Toma Bašić,2019,4,0,1,3,993,15,ligue-1,True,1996-11-25,Central Midfield,US Salernitana 1919,10000000.0,4800000.0,Croatia,left,190.0
-Toma Bašić,2020,7,0,4,1,2611,34,ligue-1,True,1996-11-25,Central Midfield,US Salernitana 1919,10000000.0,9000000.0,Croatia,left,190.0
-Toma Bašić,2021,0,0,0,1,212,3,ligue-1,True,1996-11-25,Central Midfield,US Salernitana 1919,10000000.0,8000000.0,Croatia,left,190.0
-Toma Bašić,2021,3,0,0,2,969,29,serie-a,True,1996-11-25,Central Midfield,US Salernitana 1919,10000000.0,8000000.0,Croatia,left,190.0
-Toma Bašić,2022,2,0,1,0,499,25,serie-a,True,1996-11-25,Central Midfield,US Salernitana 1919,10000000.0,6000000.0,Croatia,left,190.0
-Toma Bašić,2023,5,0,0,0,1166,15,serie-a,True,1996-11-25,Central Midfield,US Salernitana 1919,10000000.0,2800000.0,Croatia,left,190.0
+Toma Basic,2019,4,0,1,3,993,15,ligue-1,True,1996-11-25,Central Midfield,US Salernitana 1919,10000000.0,4800000.0,Croatia,left,190.0
+Toma Basic,2020,7,0,4,1,2611,34,ligue-1,True,1996-11-25,Central Midfield,US Salernitana 1919,10000000.0,9000000.0,Croatia,left,190.0
+Toma Basic,2021,0,0,0,1,212,3,ligue-1,True,1996-11-25,Central Midfield,US Salernitana 1919,10000000.0,8000000.0,Croatia,left,190.0
+Toma Basic,2021,3,0,0,2,969,29,serie-a,True,1996-11-25,Central Midfield,US Salernitana 1919,10000000.0,8000000.0,Croatia,left,190.0
+Toma Basic,2022,2,0,1,0,499,25,serie-a,True,1996-11-25,Central Midfield,US Salernitana 1919,10000000.0,6000000.0,Croatia,left,190.0
+Toma Basic,2023,5,0,0,0,1166,15,serie-a,True,1996-11-25,Central Midfield,US Salernitana 1919,10000000.0,2800000.0,Croatia,left,190.0
 Tomas Cvancara,2023,4,0,4,2,892,21,bundesliga,True,2000-08-13,Centre-Forward,Borussia Mönchengladbach,12000000.0,8000000.0,Czech Republic,right,190.0
 Tomas Koubek,2019,2,0,0,0,2160,24,bundesliga,True,1992-08-26,Goalkeeper,FC Augsburg,7000000.0,3500000.0,Czech Republic,right,197.0
 Tomas Koubek,2022,0,0,0,0,990,11,bundesliga,True,1992-08-26,Goalkeeper,FC Augsburg,7000000.0,1000000.0,Czech Republic,right,197.0
@@ -15181,6 +15196,10 @@ Tony Rölke,2022,0,0,0,0,19,1,bundesliga,True,2003-01-22,Centre-Forward,Hertha B
 Tony Strata,2022,1,0,0,0,136,3,ligue-1,True,2004-09-07,Right-Back,AC Ajaccio,50000.0,50000.0,France,right,177.0
 Torben Müsel,2019,0,0,0,0,1,1,bundesliga,True,1999-07-25,Attacking Midfield,Borussia Mönchengladbach,400000.0,325000.0,Germany,right,185.0
 Torben Müsel,2021,0,0,0,0,4,1,bundesliga,True,1999-07-25,Attacking Midfield,Borussia Mönchengladbach,400000.0,400000.0,Germany,right,185.0
+Tormena,2019,1,0,0,0,360,4,liga-portugal-bwin,False,1996-01-04,Centre-Back,FC Krasnodar,6000000.0,950000.0,Brazil,right,192.0
+Tormena,2020,2,0,0,1,1913,25,liga-portugal-bwin,False,1996-01-04,Centre-Back,FC Krasnodar,6000000.0,3000000.0,Brazil,right,192.0
+Tormena,2021,5,0,0,0,1859,25,liga-portugal-bwin,False,1996-01-04,Centre-Back,FC Krasnodar,6000000.0,3000000.0,Brazil,right,192.0
+Tormena,2022,6,1,1,0,2345,27,liga-portugal-bwin,False,1996-01-04,Centre-Back,FC Krasnodar,6000000.0,5000000.0,Brazil,right,192.0
 Tosin Adarabioyo,2020,1,0,0,0,2954,33,premier-league,True,1997-09-24,Centre-Back,Fulham FC,20000000.0,12000000.0,England,right,196.0
 Tosin Adarabioyo,2022,4,0,1,0,2084,25,premier-league,True,1997-09-24,Centre-Back,Fulham FC,20000000.0,16000000.0,England,right,196.0
 Tosin Adarabioyo,2023,2,0,2,0,1617,20,premier-league,True,1997-09-24,Centre-Back,Fulham FC,20000000.0,20000000.0,England,right,196.0
@@ -15300,8 +15319,8 @@ Unai Vencedor,2022,2,0,0,0,183,10,laliga,True,2000-11-15,Central Midfield,Athlet
 Uri Busquets,2021,0,0,0,0,196,9,ligue-1,True,1999-01-20,Defensive Midfield,FC Arouca,2500000.0,1200000.0,Spain,right,185.0
 Uri Busquets,2022,1,0,0,0,1158,24,liga-portugal-bwin,False,1999-01-20,Defensive Midfield,FC Arouca,2500000.0,500000.0,Spain,right,185.0
 Uri Busquets,2023,2,0,0,0,425,18,liga-portugal-bwin,False,1999-01-20,Defensive Midfield,FC Arouca,2500000.0,400000.0,Spain,right,185.0
-Urko González de Zarate,2020,1,0,0,0,46,2,laliga,True,2001-03-20,Defensive Midfield,Real Sociedad,1500000.0,500000.0,Spain,right,189.0
-Urko González de Zarate,2023,1,0,0,0,154,5,laliga,True,2001-03-20,Defensive Midfield,Real Sociedad,1500000.0,1200000.0,Spain,right,189.0
+Urko González,2020,1,0,0,0,46,2,laliga,True,2001-03-20,Defensive Midfield,Real Sociedad,1500000.0,500000.0,Spain,right,189.0
+Urko González,2023,1,0,0,0,154,5,laliga,True,2001-03-20,Defensive Midfield,Real Sociedad,1500000.0,1200000.0,Spain,right,189.0
 Uroš Račić,2019,4,0,3,1,2421,33,liga-portugal-bwin,False,1998-03-17,Defensive Midfield,US Sassuolo,10000000.0,2300000.0,Serbia,both,193.0
 Uroš Račić,2020,6,0,1,1,2191,31,laliga,True,1998-03-17,Defensive Midfield,US Sassuolo,10000000.0,10000000.0,Serbia,both,193.0
 Uroš Račić,2021,3,0,0,0,1124,27,laliga,True,1998-03-17,Defensive Midfield,US Sassuolo,10000000.0,7000000.0,Serbia,both,193.0
@@ -15521,15 +15540,15 @@ Vlad Chiriches,2020,6,0,2,1,1844,24,serie-a,True,1989-11-14,Centre-Back,US Cremo
 Vlad Chiriches,2021,4,0,0,0,2302,29,serie-a,True,1989-11-14,Centre-Back,US Cremonese,11000000.0,1800000.0,Romania,right,184.0
 Vlad Chiriches,2022,2,0,0,0,987,16,serie-a,True,1989-11-14,Centre-Back,US Cremonese,11000000.0,900000.0,Romania,right,184.0
 Vladan Danilovic,2020,2,0,0,0,295,8,liga-portugal-bwin,False,1999-07-27,Defensive Midfield,CD Nacional,600000.0,500000.0,Bosnia-Herzegovina,right,183.0
+Vladimir Coufal,2020,3,0,0,7,3055,34,premier-league,True,1992-08-22,Right-Back,West Ham United,12000000.0,12000000.0,Czech Republic,right,174.0
+Vladimir Coufal,2021,5,0,0,4,2211,28,premier-league,True,1992-08-22,Right-Back,West Ham United,12000000.0,12000000.0,Czech Republic,right,174.0
+Vladimir Coufal,2022,5,0,0,1,2139,27,premier-league,True,1992-08-22,Right-Back,West Ham United,12000000.0,9000000.0,Czech Republic,right,174.0
+Vladimir Coufal,2023,7,0,0,7,3139,36,premier-league,True,1992-08-22,Right-Back,West Ham United,12000000.0,8000000.0,Czech Republic,right,174.0
+Vladimir Darida,2019,8,0,3,5,2264,28,bundesliga,True,1990-08-08,Central Midfield,Aris Thessaloniki,10000000.0,5500000.0,Czech Republic,right,172.0
+Vladimir Darida,2020,5,1,1,6,1914,27,bundesliga,True,1990-08-08,Central Midfield,Aris Thessaloniki,10000000.0,3500000.0,Czech Republic,right,172.0
+Vladimir Darida,2021,6,0,2,5,1797,25,bundesliga,True,1990-08-08,Central Midfield,Aris Thessaloniki,10000000.0,2200000.0,Czech Republic,right,172.0
+Vladimir Darida,2022,0,0,0,0,29,3,bundesliga,True,1990-08-08,Central Midfield,Aris Thessaloniki,10000000.0,1500000.0,Czech Republic,right,172.0
 Vladimir Golemic,2020,4,1,2,0,2339,30,serie-a,True,1991-06-28,Centre-Back,PAS Lamia 1964,1100000.0,900000.0,Serbia,right,192.0
-Vladimír Coufal,2020,3,0,0,7,3055,34,premier-league,True,1992-08-22,Right-Back,West Ham United,12000000.0,12000000.0,Czech Republic,right,174.0
-Vladimír Coufal,2021,5,0,0,4,2211,28,premier-league,True,1992-08-22,Right-Back,West Ham United,12000000.0,12000000.0,Czech Republic,right,174.0
-Vladimír Coufal,2022,5,0,0,1,2139,27,premier-league,True,1992-08-22,Right-Back,West Ham United,12000000.0,9000000.0,Czech Republic,right,174.0
-Vladimír Coufal,2023,7,0,0,7,3139,36,premier-league,True,1992-08-22,Right-Back,West Ham United,12000000.0,8000000.0,Czech Republic,right,174.0
-Vladimír Darida,2019,8,0,3,5,2264,28,bundesliga,True,1990-08-08,Central Midfield,Aris Thessaloniki,10000000.0,5500000.0,Czech Republic,right,172.0
-Vladimír Darida,2020,5,1,1,6,1914,27,bundesliga,True,1990-08-08,Central Midfield,Aris Thessaloniki,10000000.0,3500000.0,Czech Republic,right,172.0
-Vladimír Darida,2021,6,0,2,5,1797,25,bundesliga,True,1990-08-08,Central Midfield,Aris Thessaloniki,10000000.0,2200000.0,Czech Republic,right,172.0
-Vladimír Darida,2022,0,0,0,0,29,3,bundesliga,True,1990-08-08,Central Midfield,Aris Thessaloniki,10000000.0,1500000.0,Czech Republic,right,172.0
 Vladislav Morozov,2023,0,0,0,0,145,3,liga-portugal-bwin,False,2000-10-12,Centre-Forward,FC Arouca,900000.0,500000.0,Belarus,right,188.0
 Vladyslav Supryaga,2021,0,0,0,0,24,1,serie-a,True,2000-02-15,Centre-Forward,Dynamo Kyiv,7500000.0,3000000.0,Ukraine,right,185.0
 Vlatko Stojanovski,2019,0,0,0,0,119,6,ligue-1,True,1997-04-23,Centre-Forward,Nîmes Olympique,500000.0,400000.0,North Macedonia,right,186.0
@@ -15567,10 +15586,6 @@ Vítor Costa,2022,9,1,2,1,2406,28,liga-portugal-bwin,False,1994-07-01,Left-Back,
 Vítor Gomes,2022,3,0,0,1,750,20,liga-portugal-bwin,False,1987-12-25,Defensive Midfield,Rio Ave FC,1500000.0,100000.0,Portugal,right,182.0
 Vítor Gomes,2023,3,0,0,0,316,17,liga-portugal-bwin,False,1987-12-25,Defensive Midfield,Rio Ave FC,1500000.0,100000.0,Portugal,right,182.0
 Vítor Gonçalves,2023,0,0,1,0,678,24,liga-portugal-bwin,False,1992-03-29,Central Midfield,SC Farense,900000.0,225000.0,Portugal,right,174.0
-Vítor Tormena,2019,1,0,0,0,360,4,liga-portugal-bwin,False,1996-01-04,Centre-Back,FC Krasnodar,6000000.0,950000.0,Brazil,right,192.0
-Vítor Tormena,2020,2,0,0,1,1913,25,liga-portugal-bwin,False,1996-01-04,Centre-Back,FC Krasnodar,6000000.0,3000000.0,Brazil,right,192.0
-Vítor Tormena,2021,5,0,0,0,1859,25,liga-portugal-bwin,False,1996-01-04,Centre-Back,FC Krasnodar,6000000.0,3000000.0,Brazil,right,192.0
-Vítor Tormena,2022,6,1,1,0,2345,27,liga-portugal-bwin,False,1996-01-04,Centre-Back,FC Krasnodar,6000000.0,5000000.0,Brazil,right,192.0
 Wagner Leonardo,2022,0,0,0,0,90,1,liga-portugal-bwin,False,1999-07-23,Centre-Back,Portimonense SC,1500000.0,1100000.0,Brazil,left,186.0
 Wagner Pina,2023,3,0,0,1,1094,22,liga-portugal-bwin,False,2002-11-03,Right-Back,GD Estoril Praia,2000000.0,2000000.0,Cape Verde,right,180.0
 Wahbi Khazri,2019,4,0,3,2,1154,16,ligue-1,True,1991-02-08,Left Winger,Montpellier HSC,16000000.0,7000000.0,Tunisia,right,176.0
@@ -15766,11 +15781,11 @@ Wladimiro Falcone,2020,1,0,0,0,90,1,serie-a,True,1995-04-12,Goalkeeper,US Lecce,
 Wladimiro Falcone,2021,2,0,0,0,855,10,serie-a,True,1995-04-12,Goalkeeper,US Lecce,5000000.0,3000000.0,Italy,right,195.0
 Wladimiro Falcone,2022,2,0,0,0,3420,38,serie-a,True,1995-04-12,Goalkeeper,US Lecce,5000000.0,5000000.0,Italy,right,195.0
 Wladimiro Falcone,2023,0,0,0,1,3420,38,serie-a,True,1995-04-12,Goalkeeper,US Lecce,5000000.0,5000000.0,Italy,right,195.0
-Wojciech Szczęsny,2019,1,0,0,0,2520,28,serie-a,True,1990-04-18,Goalkeeper,Juventus FC,40000000.0,32000000.0,Poland,right,196.0
-Wojciech Szczęsny,2020,0,0,0,1,2750,31,serie-a,True,1990-04-18,Goalkeeper,Juventus FC,40000000.0,25000000.0,Poland,right,196.0
-Wojciech Szczęsny,2021,2,0,0,0,2970,33,serie-a,True,1990-04-18,Goalkeeper,Juventus FC,40000000.0,15000000.0,Poland,right,196.0
-Wojciech Szczęsny,2022,1,0,0,0,2473,28,serie-a,True,1990-04-18,Goalkeeper,Juventus FC,40000000.0,10000000.0,Poland,right,196.0
-Wojciech Szczęsny,2023,1,0,0,0,3150,35,serie-a,True,1990-04-18,Goalkeeper,Juventus FC,40000000.0,6000000.0,Poland,right,196.0
+Wojciech Szczesny,2019,1,0,0,0,2520,28,serie-a,True,1990-04-18,Goalkeeper,Juventus FC,40000000.0,32000000.0,Poland,right,196.0
+Wojciech Szczesny,2020,0,0,0,1,2750,31,serie-a,True,1990-04-18,Goalkeeper,Juventus FC,40000000.0,25000000.0,Poland,right,196.0
+Wojciech Szczesny,2021,2,0,0,0,2970,33,serie-a,True,1990-04-18,Goalkeeper,Juventus FC,40000000.0,15000000.0,Poland,right,196.0
+Wojciech Szczesny,2022,1,0,0,0,2473,28,serie-a,True,1990-04-18,Goalkeeper,Juventus FC,40000000.0,10000000.0,Poland,right,196.0
+Wojciech Szczesny,2023,1,0,0,0,3150,35,serie-a,True,1990-04-18,Goalkeeper,Juventus FC,40000000.0,6000000.0,Poland,right,196.0
 Woo-yeong Jeong,2020,0,0,4,0,814,26,bundesliga,True,1999-09-20,Attacking Midfield,VfB Stuttgart,5500000.0,3000000.0,"Korea, South",right,179.0
 Woo-yeong Jeong,2021,1,0,5,2,1791,32,bundesliga,True,1999-09-20,Attacking Midfield,VfB Stuttgart,5500000.0,5500000.0,"Korea, South",right,179.0
 Woo-yeong Jeong,2022,2,0,1,2,639,26,bundesliga,True,1999-09-20,Attacking Midfield,VfB Stuttgart,5500000.0,3500000.0,"Korea, South",right,179.0
@@ -15863,7 +15878,7 @@ Yanis Hamache,2022,0,0,0,1,180,2,liga-portugal-bwin,False,1999-07-13,Left-Back,F
 Yanis Hamache,2023,0,0,0,0,41,2,liga-portugal-bwin,False,1999-07-13,Left-Back,FC Arouca,2000000.0,1500000.0,Algeria,left,177.0
 Yanis Issoufou,2023,0,0,0,0,12,1,ligue-1,True,2006-10-28,Centre-Forward,Montpellier HSC,500000.0,300000.0,France,left,182.0
 Yanis Massolin,2022,0,0,0,0,54,6,ligue-1,True,2002-09-20,Central Midfield,Clermont Foot 63,250000.0,250000.0,France,left,197.0
-Yann Bisseck,2023,0,0,2,1,900,16,serie-a,True,2000-11-29,Centre-Back,Inter Milan,16000000.0,16000000.0,Germany,right,196.0
+Yann Aurel Bisseck,2023,0,0,2,1,900,16,serie-a,True,2000-11-29,Centre-Back,Inter Milan,16000000.0,16000000.0,Germany,right,196.0
 Yann Bodiger,2020,0,0,0,0,245,9,laliga,True,1995-02-09,Central Midfield,Cádiz CF,4000000.0,800000.0,France,left,188.0
 Yann Gboho,2019,1,0,1,1,223,8,ligue-1,True,2001-01-14,Attacking Midfield,FC Toulouse,5000000.0,2700000.0,France,right,178.0
 Yann Gboho,2020,0,0,0,0,298,10,ligue-1,True,2001-01-14,Attacking Midfield,FC Toulouse,5000000.0,4500000.0,France,right,178.0
@@ -16036,8 +16051,8 @@ Yunis Abdelhamid,2020,4,1,3,0,2890,33,ligue-1,True,1987-09-28,Centre-Back,Stade 
 Yunis Abdelhamid,2021,5,1,2,0,2984,34,ligue-1,True,1987-09-28,Centre-Back,Stade Reims,2500000.0,1200000.0,Morocco,left,190.0
 Yunis Abdelhamid,2022,6,0,1,2,3330,37,ligue-1,True,1987-09-28,Centre-Back,Stade Reims,2500000.0,700000.0,Morocco,left,190.0
 Yunis Abdelhamid,2023,5,0,4,0,2782,31,ligue-1,True,1987-09-28,Centre-Back,Stade Reims,2500000.0,600000.0,Morocco,left,190.0
-Yunus Mallı,2019,1,0,0,1,676,13,bundesliga,True,1992-02-24,Attacking Midfield,Konyaspor,13000000.0,2800000.0,Türkiye,right,179.0
-Yunus Mallı,2020,0,0,0,0,58,1,bundesliga,True,1992-02-24,Attacking Midfield,Konyaspor,13000000.0,1900000.0,Türkiye,right,179.0
+Yunus Malli,2019,1,0,0,1,676,13,bundesliga,True,1992-02-24,Attacking Midfield,Konyaspor,13000000.0,2800000.0,Türkiye,right,179.0
+Yunus Malli,2020,0,0,0,0,58,1,bundesliga,True,1992-02-24,Attacking Midfield,Konyaspor,13000000.0,1900000.0,Türkiye,right,179.0
 Yunus Musah,2021,5,0,1,0,1236,28,laliga,True,2002-11-29,Central Midfield,AC Milan,25000000.0,15000000.0,United States,right,178.0
 Yunus Musah,2022,10,1,0,2,2121,33,laliga,True,2002-11-29,Central Midfield,AC Milan,25000000.0,18000000.0,United States,right,178.0
 Yunus Musah,2023,5,0,0,2,1470,30,serie-a,True,2002-11-29,Central Midfield,AC Milan,25000000.0,22000000.0,United States,right,178.0
@@ -16053,11 +16068,11 @@ Yussuf Poulsen,2022,1,0,2,1,397,19,bundesliga,True,1994-06-15,Centre-Forward,RB 
 Yussuf Poulsen,2023,0,0,5,2,1211,28,bundesliga,True,1994-06-15,Centre-Forward,RB Leipzig,35000000.0,6000000.0,Denmark,right,192.0
 Yusuf Lawal,2022,0,0,0,0,75,9,liga-portugal-bwin,False,1998-03-23,Left Winger,FC Arouca,800000.0,600000.0,Nigeria,right,175.0
 Yusuf Lawal,2023,1,0,0,1,218,17,liga-portugal-bwin,False,1998-03-23,Left Winger,FC Arouca,800000.0,300000.0,Nigeria,right,175.0
-Yusuf Yazıcı,2019,2,0,1,4,842,18,ligue-1,True,1997-01-29,Attacking Midfield,LOSC Lille,20000000.0,13000000.0,Türkiye,left,184.0
-Yusuf Yazıcı,2020,1,0,7,4,1076,32,ligue-1,True,1997-01-29,Attacking Midfield,LOSC Lille,20000000.0,20000000.0,Türkiye,left,184.0
-Yusuf Yazıcı,2021,3,0,1,1,499,15,ligue-1,True,1997-01-29,Attacking Midfield,LOSC Lille,20000000.0,17000000.0,Türkiye,left,184.0
-Yusuf Yazıcı,2022,0,0,1,1,202,4,ligue-1,True,1997-01-29,Attacking Midfield,LOSC Lille,20000000.0,9000000.0,Türkiye,left,184.0
-Yusuf Yazıcı,2023,5,0,5,2,1316,27,ligue-1,True,1997-01-29,Attacking Midfield,LOSC Lille,20000000.0,10000000.0,Türkiye,left,184.0
+Yusuf Yazici,2019,2,0,1,4,842,18,ligue-1,True,1997-01-29,Attacking Midfield,LOSC Lille,20000000.0,13000000.0,Türkiye,left,184.0
+Yusuf Yazici,2020,1,0,7,4,1076,32,ligue-1,True,1997-01-29,Attacking Midfield,LOSC Lille,20000000.0,20000000.0,Türkiye,left,184.0
+Yusuf Yazici,2021,3,0,1,1,499,15,ligue-1,True,1997-01-29,Attacking Midfield,LOSC Lille,20000000.0,17000000.0,Türkiye,left,184.0
+Yusuf Yazici,2022,0,0,1,1,202,4,ligue-1,True,1997-01-29,Attacking Midfield,LOSC Lille,20000000.0,9000000.0,Türkiye,left,184.0
+Yusuf Yazici,2023,5,0,5,2,1316,27,ligue-1,True,1997-01-29,Attacking Midfield,LOSC Lille,20000000.0,10000000.0,Türkiye,left,184.0
 Yusupha Njie,2019,2,0,1,1,1095,24,liga-portugal-bwin,False,1994-03-01,Centre-Forward,Boavista FC,1500000.0,650000.0,The Gambia,right,188.0
 Yusupha Njie,2020,1,0,5,0,840,21,liga-portugal-bwin,False,1994-03-01,Centre-Forward,Boavista FC,1500000.0,600000.0,The Gambia,right,188.0
 Yusupha Njie,2021,4,0,5,1,1568,27,liga-portugal-bwin,False,1994-03-01,Centre-Forward,Boavista FC,1500000.0,800000.0,The Gambia,right,188.0
@@ -16117,11 +16132,11 @@ Zaydou Youssouf,2021,3,1,1,0,1557,30,ligue-1,True,1999-07-11,Central Midfield,FC
 Zaydou Youssouf,2022,6,1,2,0,2158,32,liga-portugal-bwin,False,1999-07-11,Central Midfield,FC Famalicão,8000000.0,4000000.0,France,left,182.0
 Zaydou Youssouf,2023,10,0,2,1,2774,32,liga-portugal-bwin,False,1999-07-11,Central Midfield,FC Famalicão,8000000.0,5000000.0,France,left,182.0
 Zeki Amdouni,2023,2,0,5,1,1973,34,premier-league,True,2000-12-04,Centre-Forward,Burnley FC,15000000.0,12000000.0,Switzerland,both,185.0
-Zeki Çelik,2019,4,0,0,3,2070,23,ligue-1,True,1997-02-17,Right-Back,AS Roma,20000000.0,16000000.0,Türkiye,right,180.0
-Zeki Çelik,2020,8,0,3,3,2389,29,ligue-1,True,1997-02-17,Right-Back,AS Roma,20000000.0,20000000.0,Türkiye,right,180.0
-Zeki Çelik,2021,10,0,2,3,2699,32,ligue-1,True,1997-02-17,Right-Back,AS Roma,20000000.0,18000000.0,Türkiye,right,180.0
-Zeki Çelik,2022,7,0,0,1,1504,24,serie-a,True,1997-02-17,Right-Back,AS Roma,20000000.0,10000000.0,Türkiye,right,180.0
-Zeki Çelik,2023,1,0,0,0,663,17,serie-a,True,1997-02-17,Right-Back,AS Roma,20000000.0,6000000.0,Türkiye,right,180.0
+Zeki Celik,2019,4,0,0,3,2070,23,ligue-1,True,1997-02-17,Right-Back,AS Roma,20000000.0,16000000.0,Türkiye,right,180.0
+Zeki Celik,2020,8,0,3,3,2389,29,ligue-1,True,1997-02-17,Right-Back,AS Roma,20000000.0,20000000.0,Türkiye,right,180.0
+Zeki Celik,2021,10,0,2,3,2699,32,ligue-1,True,1997-02-17,Right-Back,AS Roma,20000000.0,18000000.0,Türkiye,right,180.0
+Zeki Celik,2022,7,0,0,1,1504,24,serie-a,True,1997-02-17,Right-Back,AS Roma,20000000.0,10000000.0,Türkiye,right,180.0
+Zeki Celik,2023,1,0,0,0,663,17,serie-a,True,1997-02-17,Right-Back,AS Roma,20000000.0,6000000.0,Türkiye,right,180.0
 Zequinha,2019,4,1,2,2,1781,30,liga-portugal-bwin,False,1987-01-07,Second Striker,Vitória Setúbal FC,900000.0,200000.0,Portugal,right,183.0
 Zidan Sertdemir,2021,0,0,0,0,15,3,bundesliga,True,2005-02-04,Central Midfield,FC Nordsjaelland,2000000.0,2000000.0,Denmark,left,186.0
 Zidane Banjaqui,2019,3,0,1,1,1383,23,liga-portugal-bwin,False,1998-12-15,Attacking Midfield,Desportivo Aves (- 2020),400000.0,350000.0,Guinea-Bissau,right,175.0
@@ -16197,11 +16212,6 @@ Zé Pedro,2023,1,0,2,0,926,12,liga-portugal-bwin,False,1997-06-06,Centre-Back,FC
 Álex Moreno,2022,3,0,0,3,1335,19,premier-league,True,1993-06-08,Left-Back,Aston Villa,20000000.0,15000000.0,Spain,left,179.0
 Álex Moreno,2023,2,0,2,0,1030,21,premier-league,True,1993-06-08,Left-Back,Aston Villa,20000000.0,13000000.0,Spain,left,179.0
 Álex Petxa,2021,4,0,0,0,399,17,laliga,True,1997-02-06,Right-Back,Athletic Bilbao,1000000.0,1000000.0,Spain,right,180.0
-Álex Pozo,2019,0,0,1,2,1498,19,laliga,True,1999-02-22,Right-Back,UD Almería,5000000.0,4500000.0,Spain,right,172.0
-Álex Pozo,2019,0,0,0,0,34,3,laliga,True,1999-02-22,Right-Back,UD Almería,5000000.0,4500000.0,Spain,right,172.0
-Álex Pozo,2020,3,0,0,0,2187,30,laliga,True,1999-02-22,Right-Back,UD Almería,5000000.0,4000000.0,Spain,right,172.0
-Álex Pozo,2022,2,0,0,3,1875,30,laliga,True,1999-02-22,Right-Back,UD Almería,5000000.0,3000000.0,Spain,right,172.0
-Álex Pozo,2023,3,0,0,0,962,21,laliga,True,1999-02-22,Right-Back,UD Almería,5000000.0,2000000.0,Spain,right,172.0
 Álex Remiro,2019,0,0,0,0,2250,25,laliga,True,1995-03-24,Goalkeeper,Real Sociedad,25000000.0,12000000.0,Spain,right,191.0
 Álex Remiro,2020,0,0,0,0,3420,38,laliga,True,1995-03-24,Goalkeeper,Real Sociedad,25000000.0,20000000.0,Spain,right,191.0
 Álex Remiro,2021,1,0,0,0,3150,35,laliga,True,1995-03-24,Goalkeeper,Real Sociedad,25000000.0,22000000.0,Spain,right,191.0
@@ -16213,10 +16223,10 @@ Zé Pedro,2023,1,0,2,0,926,12,liga-portugal-bwin,False,1997-06-06,Centre-Back,FC
 Álvaro Aceves,2022,0,0,0,0,12,1,laliga,True,2003-07-26,Goalkeeper,Real Valladolid CF,400000.0,200000.0,Spain,right,190.0
 Álvaro Aguado,2022,3,0,1,2,1882,34,laliga,True,1996-05-01,Central Midfield,Real Valladolid CF,3000000.0,3000000.0,Spain,right,175.0
 Álvaro Bravo,2020,0,0,0,0,14,1,laliga,True,1998-02-04,Central Midfield,Granada CF,200000.0,200000.0,Spain,right,181.0
-Álvaro Carreras,2023,1,0,1,1,563,11,liga-portugal-bwin,False,2003-03-23,Left-Back,Granada CF,7000000.0,7000000.0,Spain,left,186.0
-Álvaro Carreras,2023,1,0,0,0,473,13,laliga,True,2003-03-23,Left-Back,Granada CF,7000000.0,7000000.0,Spain,left,186.0
 Álvaro Djaló,2022,7,0,2,5,617,24,liga-portugal-bwin,False,1999-08-16,Left Winger,SC Braga,15000000.0,2500000.0,Spain,right,175.0
 Álvaro Djaló,2023,7,0,8,5,1803,30,liga-portugal-bwin,False,1999-08-16,Left Winger,SC Braga,15000000.0,15000000.0,Spain,right,175.0
+Álvaro Fernandez,2023,1,0,1,1,563,11,liga-portugal-bwin,False,2003-03-23,Left-Back,Granada CF,7000000.0,7000000.0,Spain,left,186.0
+Álvaro Fernandez,2023,1,0,0,0,473,13,laliga,True,2003-03-23,Left-Back,Granada CF,7000000.0,7000000.0,Spain,left,186.0
 Álvaro Fernández,2020,0,0,0,0,1980,22,laliga,True,1998-04-13,Goalkeeper,RCD Espanyol Barcelona,4000000.0,4000000.0,Spain,right,186.0
 Álvaro Fernández,2021,0,0,0,0,1080,12,premier-league,True,1998-04-13,Goalkeeper,RCD Espanyol Barcelona,4000000.0,4000000.0,Spain,right,186.0
 Álvaro Fernández,2022,0,0,0,0,990,11,laliga,True,1998-04-13,Goalkeeper,RCD Espanyol Barcelona,4000000.0,2500000.0,Spain,right,186.0
@@ -16270,11 +16280,6 @@ Zé Pedro,2023,1,0,2,0,926,12,liga-portugal-bwin,False,1997-06-06,Centre-Back,FC
 Ángel Rodríguez,2021,4,0,4,3,1549,29,laliga,True,1987-04-26,Centre-Forward,RCD Mallorca,7500000.0,2000000.0,Spain,right,171.0
 Ángel Rodríguez,2022,0,0,1,0,381,17,laliga,True,1987-04-26,Centre-Forward,RCD Mallorca,7500000.0,1000000.0,Spain,right,171.0
 Ângelo,2023,2,0,0,4,1090,21,ligue-1,True,2004-12-21,Right Winger,RC Strasbourg Alsace,15000000.0,15000000.0,Brazil,left,180.0
-Çağlar Söyüncü,2019,4,1,1,1,3037,34,premier-league,True,1996-05-23,Centre-Back,Fenerbahce,45000000.0,40000000.0,Türkiye,both,185.0
-Çağlar Söyüncü,2020,2,0,1,0,1816,23,premier-league,True,1996-05-23,Centre-Back,Fenerbahce,45000000.0,45000000.0,Türkiye,both,185.0
-Çağlar Söyüncü,2021,5,0,1,0,2498,28,premier-league,True,1996-05-23,Centre-Back,Fenerbahce,45000000.0,40000000.0,Türkiye,both,185.0
-Çağlar Söyüncü,2022,2,0,1,0,529,7,premier-league,True,1996-05-23,Centre-Back,Fenerbahce,45000000.0,15000000.0,Türkiye,both,185.0
-Çağlar Söyüncü,2023,0,1,0,0,110,6,laliga,True,1996-05-23,Centre-Back,Fenerbahce,45000000.0,10000000.0,Türkiye,both,185.0
 Éber Bessa,2019,6,0,2,6,2265,31,liga-portugal-bwin,False,1992-03-21,Attacking Midfield,CD Nacional,1000000.0,550000.0,Brazil,right,166.0
 Éber Bessa,2020,4,0,0,0,600,14,liga-portugal-bwin,False,1992-03-21,Attacking Midfield,CD Nacional,1000000.0,350000.0,Brazil,right,166.0
 Éder Balanta,2022,3,0,0,0,239,6,bundesliga,True,1993-02-28,Defensive Midfield,Club Brugge KV,6500000.0,2000000.0,Colombia,left,180.0
@@ -16350,12 +16355,7 @@ Zé Pedro,2023,1,0,2,0,926,12,liga-portugal-bwin,False,1997-06-06,Centre-Back,FC
 Ömer Beyaz,2021,0,0,0,0,68,4,bundesliga,True,2003-08-29,Attacking Midfield,Hatayspor,1000000.0,1000000.0,Türkiye,left,171.0
 Ömer Toprak,2019,2,0,0,0,718,10,bundesliga,True,1989-07-21,Centre-Back,Antalyaspor,20000000.0,3500000.0,Türkiye,right,187.0
 Ömer Toprak,2020,1,0,2,0,1948,26,bundesliga,True,1989-07-21,Centre-Back,Antalyaspor,20000000.0,2500000.0,Türkiye,right,187.0
-Ørjan Nyland,2019,0,0,0,0,537,7,premier-league,True,1990-09-10,Goalkeeper,Sevilla FC,3000000.0,1200000.0,Norway,right,192.0
-Ørjan Nyland,2022,0,0,0,1,180,2,bundesliga,True,1990-09-10,Goalkeeper,Sevilla FC,3000000.0,600000.0,Norway,right,192.0
-Ørjan Nyland,2023,1,0,0,0,2160,24,laliga,True,1990-09-10,Goalkeeper,Sevilla FC,3000000.0,1400000.0,Norway,right,192.0
+Örjan Nyland,2019,0,0,0,0,537,7,premier-league,True,1990-09-10,Goalkeeper,Sevilla FC,3000000.0,1200000.0,Norway,right,192.0
+Örjan Nyland,2022,0,0,0,1,180,2,bundesliga,True,1990-09-10,Goalkeeper,Sevilla FC,3000000.0,600000.0,Norway,right,192.0
+Örjan Nyland,2023,1,0,0,0,2160,24,laliga,True,1990-09-10,Goalkeeper,Sevilla FC,3000000.0,1400000.0,Norway,right,192.0
 Úmaro Embaló,2023,1,0,1,1,798,14,liga-portugal-bwin,False,2001-05-06,Right Winger,Fortuna Sittard,1500000.0,1000000.0,Portugal,left,170.0
-İlkay Gündoğan,2019,7,0,2,1,2017,31,premier-league,True,1990-10-24,Central Midfield,FC Barcelona,50000000.0,40000000.0,Germany,right,180.0
-İlkay Gündoğan,2020,1,0,13,3,2031,28,premier-league,True,1990-10-24,Central Midfield,FC Barcelona,50000000.0,40000000.0,Germany,right,180.0
-İlkay Gündoğan,2021,1,0,8,3,1855,27,premier-league,True,1990-10-24,Central Midfield,FC Barcelona,50000000.0,25000000.0,Germany,right,180.0
-İlkay Gündoğan,2022,0,0,8,5,2359,31,premier-league,True,1990-10-24,Central Midfield,FC Barcelona,50000000.0,20000000.0,Germany,right,180.0
-İlkay Gündoğan,2023,5,0,5,9,2998,36,laliga,True,1990-10-24,Central Midfield,FC Barcelona,50000000.0,15000000.0,Germany,right,180.0
